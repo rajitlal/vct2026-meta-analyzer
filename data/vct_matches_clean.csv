@@ -1,0 +1,1015 @@
+match_id,event,date,map_name,team,opponent,team_comp,opponent_comp,won
+645474,VCT 2026: Americas Stage 1,2026-04-10,Lotus,Sentinels,KRÜ Esports,"Fade,Omen,Raze,Veto,Viper","Fade,Neon,Omen,Viper,Vyse",False
+645474,VCT 2026: Americas Stage 1,2026-04-10,Lotus,KRÜ Esports,Sentinels,"Fade,Neon,Omen,Viper,Vyse","Fade,Omen,Raze,Veto,Viper",True
+645474,VCT 2026: Americas Stage 1,2026-04-10,Breeze,Sentinels,KRÜ Esports,"Harbor,Iso,Neon,Sova,Viper","Chamber,Neon,Omen,Sova,Viper",False
+645474,VCT 2026: Americas Stage 1,2026-04-10,Breeze,KRÜ Esports,Sentinels,"Chamber,Neon,Omen,Sova,Viper","Harbor,Iso,Neon,Sova,Viper",True
+645475,VCT 2026: Americas Stage 1,2026-04-10,Lotus,G2 Esports,MIBR,"Fade,Harbor,Neon,Omen,Vyse","Fade,Neon,Omen,Raze,Vyse",False
+645475,VCT 2026: Americas Stage 1,2026-04-10,Lotus,MIBR,G2 Esports,"Fade,Neon,Omen,Raze,Vyse","Fade,Harbor,Neon,Omen,Vyse",True
+645475,VCT 2026: Americas Stage 1,2026-04-10,Split,G2 Esports,MIBR,"Astra,Fade,Harbor,Neon,Vyse","Astra,Fade,Neon,Raze,Vyse",False
+645475,VCT 2026: Americas Stage 1,2026-04-10,Split,MIBR,G2 Esports,"Astra,Fade,Neon,Raze,Vyse","Astra,Fade,Harbor,Neon,Vyse",True
+645476,VCT 2026: Americas Stage 1,2026-04-11,Haven,100 Thieves,Evil Geniuses,"Cypher,Neon,Omen,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Viper",True
+645476,VCT 2026: Americas Stage 1,2026-04-11,Haven,Evil Geniuses,100 Thieves,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Phoenix,Sova",False
+645476,VCT 2026: Americas Stage 1,2026-04-11,Breeze,100 Thieves,Evil Geniuses,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",True
+645476,VCT 2026: Americas Stage 1,2026-04-11,Breeze,Evil Geniuses,100 Thieves,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+645477,VCT 2026: Americas Stage 1,2026-04-11,Lotus,ENVY,LOUD,"Fade,Neon,Omen,Veto,Viper","Fade,Omen,Raze,Viper,Vyse",True
+645477,VCT 2026: Americas Stage 1,2026-04-11,Lotus,LOUD,ENVY,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Veto,Viper",False
+645477,VCT 2026: Americas Stage 1,2026-04-11,Pearl,ENVY,LOUD,"Astra,Sova,Tejo,Veto,Waylay","Astra,Chamber,Kayo,Neon,Sova",False
+645477,VCT 2026: Americas Stage 1,2026-04-11,Pearl,LOUD,ENVY,"Astra,Chamber,Kayo,Neon,Sova","Astra,Sova,Tejo,Veto,Waylay",True
+645477,VCT 2026: Americas Stage 1,2026-04-11,Breeze,ENVY,LOUD,"Harbor,Iso,Neon,Sova,Viper","Astra,Harbor,Jett,Kayo,Sova",False
+645477,VCT 2026: Americas Stage 1,2026-04-11,Breeze,LOUD,ENVY,"Astra,Harbor,Jett,Kayo,Sova","Harbor,Iso,Neon,Sova,Viper",True
+645478,VCT 2026: Americas Stage 1,2026-04-12,Pearl,Cloud9,LEVIATÁN,"Astra,Chamber,Neon,Skye,Tejo","Astra,Chamber,Neon,Phoenix,Sova",False
+645478,VCT 2026: Americas Stage 1,2026-04-12,Pearl,LEVIATÁN,Cloud9,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Chamber,Neon,Skye,Tejo",True
+645478,VCT 2026: Americas Stage 1,2026-04-12,Haven,Cloud9,LEVIATÁN,"Killjoy,Neon,Omen,Sova,Viper","Astra,Chamber,Neon,Phoenix,Sova",False
+645478,VCT 2026: Americas Stage 1,2026-04-12,Haven,LEVIATÁN,Cloud9,"Astra,Chamber,Neon,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Viper",True
+645479,VCT 2026: Americas Stage 1,2026-04-12,Pearl,FURIA,NRG,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Killjoy,Sova,Tejo,Waylay",True
+645479,VCT 2026: Americas Stage 1,2026-04-12,Pearl,NRG,FURIA,"Astra,Killjoy,Sova,Tejo,Waylay","Astra,Fade,Killjoy,Neon,Phoenix",False
+645479,VCT 2026: Americas Stage 1,2026-04-12,Split,FURIA,NRG,"Fade,Neon,Omen,Viper,Vyse","Deadlock,Omen,Raze,Skye,Viper",True
+645479,VCT 2026: Americas Stage 1,2026-04-12,Split,NRG,FURIA,"Deadlock,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Viper,Vyse",False
+645480,VCT 2026: Americas Stage 1,2026-04-17,Split,Cloud9,ENVY,"Neon,Omen,Skye,Viper,Vyse","Jett,Omen,Raze,Skye,Viper",True
+645480,VCT 2026: Americas Stage 1,2026-04-17,Split,ENVY,Cloud9,"Jett,Omen,Raze,Skye,Viper","Neon,Omen,Skye,Viper,Vyse",False
+645480,VCT 2026: Americas Stage 1,2026-04-17,Pearl,Cloud9,ENVY,"Astra,Neon,Skye,Tejo,Vyse","Astra,Chamber,Neon,Phoenix,Sova",False
+645480,VCT 2026: Americas Stage 1,2026-04-17,Pearl,ENVY,Cloud9,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Neon,Skye,Tejo,Vyse",True
+645480,VCT 2026: Americas Stage 1,2026-04-17,Haven,Cloud9,ENVY,"Killjoy,Neon,Omen,Sova,Viper","Astra,Chamber,Neon,Phoenix,Sova",False
+645480,VCT 2026: Americas Stage 1,2026-04-17,Haven,ENVY,Cloud9,"Astra,Chamber,Neon,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Viper",True
+645481,VCT 2026: Americas Stage 1,2026-04-17,Haven,FURIA,Evil Geniuses,"Killjoy,Neon,Omen,Sova,Viper","Killjoy,Neon,Omen,Sova,Viper",False
+645481,VCT 2026: Americas Stage 1,2026-04-17,Haven,Evil Geniuses,FURIA,"Killjoy,Neon,Omen,Sova,Viper","Killjoy,Neon,Omen,Sova,Viper",True
+645481,VCT 2026: Americas Stage 1,2026-04-17,Pearl,FURIA,Evil Geniuses,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Killjoy,Neon,Sova,Waylay",True
+645481,VCT 2026: Americas Stage 1,2026-04-17,Pearl,Evil Geniuses,FURIA,"Astra,Killjoy,Neon,Sova,Waylay","Astra,Fade,Killjoy,Neon,Phoenix",False
+645481,VCT 2026: Americas Stage 1,2026-04-17,Lotus,FURIA,Evil Geniuses,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+645481,VCT 2026: Americas Stage 1,2026-04-17,Lotus,Evil Geniuses,FURIA,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645482,VCT 2026: Americas Stage 1,2026-04-18,Breeze,G2 Esports,LEVIATÁN,"Astra,Harbor,Neon,Sova,Vyse","Chamber,Neon,Omen,Sova,Viper",True
+645482,VCT 2026: Americas Stage 1,2026-04-18,Breeze,LEVIATÁN,G2 Esports,"Chamber,Neon,Omen,Sova,Viper","Astra,Harbor,Neon,Sova,Vyse",False
+645482,VCT 2026: Americas Stage 1,2026-04-18,Split,G2 Esports,LEVIATÁN,"Astra,Fade,Harbor,Raze,Vyse","Fade,Neon,Omen,Phoenix,Viper",False
+645482,VCT 2026: Americas Stage 1,2026-04-18,Split,LEVIATÁN,G2 Esports,"Fade,Neon,Omen,Phoenix,Viper","Astra,Fade,Harbor,Raze,Vyse",True
+645482,VCT 2026: Americas Stage 1,2026-04-18,Bind,G2 Esports,LEVIATÁN,"Brimstone,Fade,Raze,Viper,Vyse","Brimstone,Neon,Phoenix,Skye,Viper",False
+645482,VCT 2026: Americas Stage 1,2026-04-18,Bind,LEVIATÁN,G2 Esports,"Brimstone,Neon,Phoenix,Skye,Viper","Brimstone,Fade,Raze,Viper,Vyse",True
+645483,VCT 2026: Americas Stage 1,2026-04-18,Haven,MIBR,LOUD,"Fade,Jett,Omen,Phoenix,Vyse","Neon,Omen,Sova,Viper,Vyse",True
+645483,VCT 2026: Americas Stage 1,2026-04-18,Haven,LOUD,MIBR,"Neon,Omen,Sova,Viper,Vyse","Fade,Jett,Omen,Phoenix,Vyse",False
+645483,VCT 2026: Americas Stage 1,2026-04-18,Split,MIBR,LOUD,"Astra,Fade,Neon,Raze,Vyse","Cypher,Neon,Omen,Skye,Viper",True
+645483,VCT 2026: Americas Stage 1,2026-04-18,Split,LOUD,MIBR,"Cypher,Neon,Omen,Skye,Viper","Astra,Fade,Neon,Raze,Vyse",False
+645484,VCT 2026: Americas Stage 1,2026-04-19,Lotus,NRG,KRÜ Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645484,VCT 2026: Americas Stage 1,2026-04-19,Lotus,KRÜ Esports,NRG,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+645484,VCT 2026: Americas Stage 1,2026-04-19,Split,NRG,KRÜ Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645484,VCT 2026: Americas Stage 1,2026-04-19,Split,KRÜ Esports,NRG,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+645485,VCT 2026: Americas Stage 1,2026-04-19,Haven,100 Thieves,Sentinels,"Cypher,Neon,Omen,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Viper",False
+645485,VCT 2026: Americas Stage 1,2026-04-19,Haven,Sentinels,100 Thieves,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Phoenix,Sova",True
+645485,VCT 2026: Americas Stage 1,2026-04-19,Split,100 Thieves,Sentinels,"Fade,Omen,Raze,Sage,Viper","Neon,Omen,Sage,Skye,Viper",False
+645485,VCT 2026: Americas Stage 1,2026-04-19,Split,Sentinels,100 Thieves,"Neon,Omen,Sage,Skye,Viper","Fade,Omen,Raze,Sage,Viper",True
+645486,VCT 2026: Americas Stage 1,2026-04-24,Bind,LEVIATÁN,ENVY,"Brimstone,Neon,Phoenix,Skye,Viper","Brimstone,Chamber,Neon,Skye,Viper",True
+645486,VCT 2026: Americas Stage 1,2026-04-24,Bind,ENVY,LEVIATÁN,"Brimstone,Chamber,Neon,Skye,Viper","Brimstone,Neon,Phoenix,Skye,Viper",False
+645486,VCT 2026: Americas Stage 1,2026-04-24,Fracture,LEVIATÁN,ENVY,"Breach,Brimstone,Neon,Tejo,Waylay","Breach,Brimstone,Neon,Skye,Veto",True
+645486,VCT 2026: Americas Stage 1,2026-04-24,Fracture,ENVY,LEVIATÁN,"Breach,Brimstone,Neon,Skye,Veto","Breach,Brimstone,Neon,Tejo,Waylay",False
+645487,VCT 2026: Americas Stage 1,2026-04-24,Haven,G2 Esports,LOUD,"Astra,Chamber,Fade,Neon,Phoenix","Neon,Omen,Sova,Viper,Vyse",True
+645487,VCT 2026: Americas Stage 1,2026-04-24,Haven,LOUD,G2 Esports,"Neon,Omen,Sova,Viper,Vyse","Astra,Chamber,Fade,Neon,Phoenix",False
+645487,VCT 2026: Americas Stage 1,2026-04-24,Pearl,G2 Esports,LOUD,"Astra,Harbor,Neon,Sova,Vyse","Astra,Chamber,Kayo,Neon,Sova",True
+645487,VCT 2026: Americas Stage 1,2026-04-24,Pearl,LOUD,G2 Esports,"Astra,Chamber,Kayo,Neon,Sova","Astra,Harbor,Neon,Sova,Vyse",False
+645488,VCT 2026: Americas Stage 1,2026-04-25,Lotus,FURIA,KRÜ Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645488,VCT 2026: Americas Stage 1,2026-04-25,Lotus,KRÜ Esports,FURIA,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+645488,VCT 2026: Americas Stage 1,2026-04-25,Haven,FURIA,KRÜ Esports,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Fade,Neon,Omen,Phoenix",False
+645488,VCT 2026: Americas Stage 1,2026-04-25,Haven,KRÜ Esports,FURIA,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Phoenix,Sova",True
+645489,VCT 2026: Americas Stage 1,2026-04-25,Pearl,NRG,100 Thieves,"Astra,Killjoy,Neon,Sova,Tejo","Astra,Chamber,Fade,Neon,Phoenix",False
+645489,VCT 2026: Americas Stage 1,2026-04-25,Pearl,100 Thieves,NRG,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Killjoy,Neon,Sova,Tejo",True
+645489,VCT 2026: Americas Stage 1,2026-04-25,Lotus,NRG,100 Thieves,"Fade,Neon,Omen,Viper,Vyse","Omen,Raze,Sage,Sova,Vyse",True
+645489,VCT 2026: Americas Stage 1,2026-04-25,Lotus,100 Thieves,NRG,"Omen,Raze,Sage,Sova,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645489,VCT 2026: Americas Stage 1,2026-04-25,Breeze,NRG,100 Thieves,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+645489,VCT 2026: Americas Stage 1,2026-04-25,Breeze,100 Thieves,NRG,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+645490,VCT 2026: Americas Stage 1,2026-04-26,Haven,Evil Geniuses,Sentinels,"Killjoy,Neon,Omen,Sova,Viper","Killjoy,Neon,Omen,Sova,Viper",False
+645490,VCT 2026: Americas Stage 1,2026-04-26,Haven,Sentinels,Evil Geniuses,"Killjoy,Neon,Omen,Sova,Viper","Killjoy,Neon,Omen,Sova,Viper",True
+645490,VCT 2026: Americas Stage 1,2026-04-26,Bind,Evil Geniuses,Sentinels,"Brimstone,Neon,Skye,Viper,Waylay","Harbor,Neon,Raze,Skye,Viper",False
+645490,VCT 2026: Americas Stage 1,2026-04-26,Bind,Sentinels,Evil Geniuses,"Harbor,Neon,Raze,Skye,Viper","Brimstone,Neon,Skye,Viper,Waylay",True
+645491,VCT 2026: Americas Stage 1,2026-04-26,Breeze,MIBR,Cloud9,"Astra,Harbor,Jett,Neon,Skye","Harbor,Iso,Neon,Sova,Viper",False
+645491,VCT 2026: Americas Stage 1,2026-04-26,Breeze,Cloud9,MIBR,"Harbor,Iso,Neon,Sova,Viper","Astra,Harbor,Jett,Neon,Skye",True
+645491,VCT 2026: Americas Stage 1,2026-04-26,Split,MIBR,Cloud9,"Astra,Fade,Neon,Raze,Vyse","Neon,Omen,Raze,Skye,Viper",False
+645491,VCT 2026: Americas Stage 1,2026-04-26,Split,Cloud9,MIBR,"Neon,Omen,Raze,Skye,Viper","Astra,Fade,Neon,Raze,Vyse",True
+645492,VCT 2026: Americas Stage 1,2026-05-01,Fracture,Evil Geniuses,NRG,"Breach,Brimstone,Chamber,Neon,Sova","Brimstone,Cypher,Fade,Phoenix,Waylay",False
+645492,VCT 2026: Americas Stage 1,2026-05-01,Fracture,NRG,Evil Geniuses,"Brimstone,Cypher,Fade,Phoenix,Waylay","Breach,Brimstone,Chamber,Neon,Sova",True
+645492,VCT 2026: Americas Stage 1,2026-05-01,Pearl,Evil Geniuses,NRG,"Astra,Fade,Neon,Phoenix,Vyse","Astra,Killjoy,Neon,Sova,Tejo",False
+645492,VCT 2026: Americas Stage 1,2026-05-01,Pearl,NRG,Evil Geniuses,"Astra,Killjoy,Neon,Sova,Tejo","Astra,Fade,Neon,Phoenix,Vyse",True
+645493,VCT 2026: Americas Stage 1,2026-05-01,Breeze,LEVIATÁN,MIBR,"Harbor,Jett,Neon,Omen,Sova","Astra,Harbor,Jett,Neon,Skye",False
+645493,VCT 2026: Americas Stage 1,2026-05-01,Breeze,MIBR,LEVIATÁN,"Astra,Harbor,Jett,Neon,Skye","Harbor,Jett,Neon,Omen,Sova",True
+645493,VCT 2026: Americas Stage 1,2026-05-01,Haven,LEVIATÁN,MIBR,"Astra,Chamber,Neon,Phoenix,Sova","Chamber,Fade,Jett,Omen,Phoenix",False
+645493,VCT 2026: Americas Stage 1,2026-05-01,Haven,MIBR,LEVIATÁN,"Chamber,Fade,Jett,Omen,Phoenix","Astra,Chamber,Neon,Phoenix,Sova",True
+645494,VCT 2026: Americas Stage 1,2026-05-02,Bind,KRÜ Esports,100 Thieves,"Brimstone,Fade,Neon,Viper,Vyse","Brimstone,Chamber,Skye,Viper,Waylay",False
+645494,VCT 2026: Americas Stage 1,2026-05-02,Bind,100 Thieves,KRÜ Esports,"Brimstone,Chamber,Skye,Viper,Waylay","Brimstone,Fade,Neon,Viper,Vyse",True
+645494,VCT 2026: Americas Stage 1,2026-05-02,Haven,KRÜ Esports,100 Thieves,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Phoenix,Sova",True
+645494,VCT 2026: Americas Stage 1,2026-05-02,Haven,100 Thieves,KRÜ Esports,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Fade,Neon,Omen,Phoenix",False
+645494,VCT 2026: Americas Stage 1,2026-05-02,Split,KRÜ Esports,100 Thieves,"Fade,Neon,Omen,Viper,Vyse","Omen,Raze,Sage,Skye,Viper",False
+645494,VCT 2026: Americas Stage 1,2026-05-02,Split,100 Thieves,KRÜ Esports,"Omen,Raze,Sage,Skye,Viper","Fade,Neon,Omen,Viper,Vyse",True
+645495,VCT 2026: Americas Stage 1,2026-05-02,Split,FURIA,Sentinels,"Fade,Neon,Omen,Viper,Vyse","Neon,Omen,Sage,Skye,Viper",True
+645495,VCT 2026: Americas Stage 1,2026-05-02,Split,Sentinels,FURIA,"Neon,Omen,Sage,Skye,Viper","Fade,Neon,Omen,Viper,Vyse",False
+645495,VCT 2026: Americas Stage 1,2026-05-02,Breeze,FURIA,Sentinels,"Astra,Harbor,Jett,Neon,Sova","Harbor,Iso,Neon,Sova,Viper",False
+645495,VCT 2026: Americas Stage 1,2026-05-02,Breeze,Sentinels,FURIA,"Harbor,Iso,Neon,Sova,Viper","Astra,Harbor,Jett,Neon,Sova",True
+645495,VCT 2026: Americas Stage 1,2026-05-02,Haven,FURIA,Sentinels,"Cypher,Neon,Omen,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Viper",True
+645495,VCT 2026: Americas Stage 1,2026-05-02,Haven,Sentinels,FURIA,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Phoenix,Sova",False
+645496,VCT 2026: Americas Stage 1,2026-05-03,Lotus,LOUD,Cloud9,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+645496,VCT 2026: Americas Stage 1,2026-05-03,Lotus,Cloud9,LOUD,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645496,VCT 2026: Americas Stage 1,2026-05-03,Split,LOUD,Cloud9,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Raze,Viper",False
+645496,VCT 2026: Americas Stage 1,2026-05-03,Split,Cloud9,LOUD,"Fade,Neon,Omen,Raze,Viper","Fade,Neon,Omen,Viper,Vyse",True
+645496,VCT 2026: Americas Stage 1,2026-05-03,Breeze,LOUD,Cloud9,"Astra,Harbor,Kayo,Neon,Sova","Harbor,Iso,Neon,Sova,Viper",True
+645496,VCT 2026: Americas Stage 1,2026-05-03,Breeze,Cloud9,LOUD,"Harbor,Iso,Neon,Sova,Viper","Astra,Harbor,Kayo,Neon,Sova",False
+645497,VCT 2026: Americas Stage 1,2026-05-03,Haven,G2 Esports,ENVY,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Chamber,Neon,Phoenix,Sova",True
+645497,VCT 2026: Americas Stage 1,2026-05-03,Haven,ENVY,G2 Esports,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Chamber,Fade,Neon,Phoenix",False
+645497,VCT 2026: Americas Stage 1,2026-05-03,Lotus,G2 Esports,ENVY,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+645497,VCT 2026: Americas Stage 1,2026-05-03,Lotus,ENVY,G2 Esports,"Fade,Neon,Omen,Raze,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+645498,VCT 2026: Americas Stage 1,2026-05-08,Haven,KRÜ Esports,Evil Geniuses,"Cypher,Fade,Neon,Omen,Phoenix","Killjoy,Neon,Omen,Sova,Viper",False
+645498,VCT 2026: Americas Stage 1,2026-05-08,Haven,Evil Geniuses,KRÜ Esports,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Fade,Neon,Omen,Phoenix",True
+645498,VCT 2026: Americas Stage 1,2026-05-08,Lotus,KRÜ Esports,Evil Geniuses,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+645498,VCT 2026: Americas Stage 1,2026-05-08,Lotus,Evil Geniuses,KRÜ Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645498,VCT 2026: Americas Stage 1,2026-05-08,Bind,KRÜ Esports,Evil Geniuses,"Brimstone,Fade,Neon,Viper,Vyse","Brimstone,Neon,Phoenix,Skye,Viper",True
+645498,VCT 2026: Americas Stage 1,2026-05-08,Bind,Evil Geniuses,KRÜ Esports,"Brimstone,Neon,Phoenix,Skye,Viper","Brimstone,Fade,Neon,Viper,Vyse",False
+645499,VCT 2026: Americas Stage 1,2026-05-08,Pearl,FURIA,100 Thieves,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Fade,Neon,Phoenix",True
+645499,VCT 2026: Americas Stage 1,2026-05-08,Pearl,100 Thieves,FURIA,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Fade,Killjoy,Neon,Phoenix",False
+645499,VCT 2026: Americas Stage 1,2026-05-08,Haven,FURIA,100 Thieves,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+645499,VCT 2026: Americas Stage 1,2026-05-08,Haven,100 Thieves,FURIA,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",True
+645499,VCT 2026: Americas Stage 1,2026-05-08,Breeze,FURIA,100 Thieves,"Astra,Harbor,Iso,Neon,Sova","Cypher,Harbor,Neon,Phoenix,Sova",False
+645499,VCT 2026: Americas Stage 1,2026-05-08,Breeze,100 Thieves,FURIA,"Cypher,Harbor,Neon,Phoenix,Sova","Astra,Harbor,Iso,Neon,Sova",True
+645500,VCT 2026: Americas Stage 1,2026-05-09,Lotus,G2 Esports,Cloud9,"Fade,Omen,Raze,Viper,Vyse","Fade,Omen,Raze,Viper,Vyse",True
+645500,VCT 2026: Americas Stage 1,2026-05-09,Lotus,Cloud9,G2 Esports,"Fade,Omen,Raze,Viper,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+645500,VCT 2026: Americas Stage 1,2026-05-09,Split,G2 Esports,Cloud9,"Astra,Fade,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Viper",True
+645500,VCT 2026: Americas Stage 1,2026-05-09,Split,Cloud9,G2 Esports,"Fade,Neon,Omen,Raze,Viper","Astra,Fade,Raze,Viper,Vyse",False
+645501,VCT 2026: Americas Stage 1,2026-05-09,Haven,ENVY,MIBR,"Cypher,Jett,Omen,Sova,Yoru","Chamber,Fade,Jett,Omen,Phoenix",True
+645501,VCT 2026: Americas Stage 1,2026-05-09,Haven,MIBR,ENVY,"Chamber,Fade,Jett,Omen,Phoenix","Cypher,Jett,Omen,Sova,Yoru",False
+645501,VCT 2026: Americas Stage 1,2026-05-09,Bind,ENVY,MIBR,"Clove,Reyna,Skye,Viper,Yoru","Harbor,Neon,Raze,Skye,Viper",True
+645501,VCT 2026: Americas Stage 1,2026-05-09,Bind,MIBR,ENVY,"Harbor,Neon,Raze,Skye,Viper","Clove,Reyna,Skye,Viper,Yoru",False
+645502,VCT 2026: Americas Stage 1,2026-05-10,Bind,LOUD,LEVIATÁN,"Brimstone,Chamber,Raze,Skye,Viper","Brimstone,Neon,Phoenix,Skye,Viper",False
+645502,VCT 2026: Americas Stage 1,2026-05-10,Bind,LEVIATÁN,LOUD,"Brimstone,Neon,Phoenix,Skye,Viper","Brimstone,Chamber,Raze,Skye,Viper",True
+645502,VCT 2026: Americas Stage 1,2026-05-10,Breeze,LOUD,LEVIATÁN,"Astra,Harbor,Kayo,Neon,Sova","Harbor,Jett,Neon,Omen,Sova",True
+645502,VCT 2026: Americas Stage 1,2026-05-10,Breeze,LEVIATÁN,LOUD,"Harbor,Jett,Neon,Omen,Sova","Astra,Harbor,Kayo,Neon,Sova",False
+645502,VCT 2026: Americas Stage 1,2026-05-10,Haven,LOUD,LEVIATÁN,"Chamber,Neon,Omen,Phoenix,Sova","Astra,Chamber,Neon,Phoenix,Sova",True
+645502,VCT 2026: Americas Stage 1,2026-05-10,Haven,LEVIATÁN,LOUD,"Astra,Chamber,Neon,Phoenix,Sova","Chamber,Neon,Omen,Phoenix,Sova",False
+645503,VCT 2026: Americas Stage 1,2026-05-10,Fracture,Sentinels,NRG,"Brimstone,Cypher,Fade,Neon,Raze","Brimstone,Cypher,Fade,Phoenix,Waylay",False
+645503,VCT 2026: Americas Stage 1,2026-05-10,Fracture,NRG,Sentinels,"Brimstone,Cypher,Fade,Phoenix,Waylay","Brimstone,Cypher,Fade,Neon,Raze",True
+645503,VCT 2026: Americas Stage 1,2026-05-10,Breeze,Sentinels,NRG,"Harbor,Iso,Neon,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+645503,VCT 2026: Americas Stage 1,2026-05-10,Breeze,NRG,Sentinels,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Iso,Neon,Sova,Viper",False
+645503,VCT 2026: Americas Stage 1,2026-05-10,Lotus,Sentinels,NRG,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+645503,VCT 2026: Americas Stage 1,2026-05-10,Lotus,NRG,Sentinels,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+660369,VCT 2026: Americas Stage 1,2026-05-14,Breeze,FURIA,LEVIATÁN,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Jett,Neon,Omen,Sova",True
+660369,VCT 2026: Americas Stage 1,2026-05-14,Breeze,LEVIATÁN,FURIA,"Harbor,Jett,Neon,Omen,Sova","Harbor,Jett,Kayo,Sova,Viper",False
+660369,VCT 2026: Americas Stage 1,2026-05-14,Split,FURIA,LEVIATÁN,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Phoenix,Viper",False
+660369,VCT 2026: Americas Stage 1,2026-05-14,Split,LEVIATÁN,FURIA,"Fade,Neon,Omen,Phoenix,Viper","Fade,Neon,Omen,Viper,Vyse",True
+660369,VCT 2026: Americas Stage 1,2026-05-14,Pearl,FURIA,LEVIATÁN,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Neon,Phoenix,Sova",False
+660369,VCT 2026: Americas Stage 1,2026-05-14,Pearl,LEVIATÁN,FURIA,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Fade,Killjoy,Neon,Phoenix",True
+660370,VCT 2026: Americas Stage 1,2026-05-14,Pearl,G2 Esports,100 Thieves,"Astra,Fade,Neon,Phoenix,Vyse","Astra,Chamber,Fade,Neon,Phoenix",True
+660370,VCT 2026: Americas Stage 1,2026-05-14,Pearl,100 Thieves,G2 Esports,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Fade,Neon,Phoenix,Vyse",False
+660370,VCT 2026: Americas Stage 1,2026-05-14,Lotus,G2 Esports,100 Thieves,"Fade,Omen,Raze,Viper,Vyse","Cypher,Fade,Neon,Omen,Raze",True
+660370,VCT 2026: Americas Stage 1,2026-05-14,Lotus,100 Thieves,G2 Esports,"Cypher,Fade,Neon,Omen,Raze","Fade,Omen,Raze,Viper,Vyse",False
+660371,VCT 2026: Americas Stage 1,2026-05-15,Split,MIBR,LEVIATÁN,"Astra,Fade,Neon,Raze,Vyse","Fade,Neon,Omen,Phoenix,Viper",False
+660371,VCT 2026: Americas Stage 1,2026-05-15,Split,LEVIATÁN,MIBR,"Fade,Neon,Omen,Phoenix,Viper","Astra,Fade,Neon,Raze,Vyse",True
+660371,VCT 2026: Americas Stage 1,2026-05-15,Fracture,MIBR,LEVIATÁN,"Brimstone,Cypher,Jett,Neon,Skye","Breach,Brimstone,Neon,Tejo,Waylay",True
+660371,VCT 2026: Americas Stage 1,2026-05-15,Fracture,LEVIATÁN,MIBR,"Breach,Brimstone,Neon,Tejo,Waylay","Brimstone,Cypher,Jett,Neon,Skye",False
+660371,VCT 2026: Americas Stage 1,2026-05-15,Ascent,MIBR,LEVIATÁN,"Jett,Omen,Sage,Sova,Vyse","Chamber,Neon,Omen,Phoenix,Sova",False
+660371,VCT 2026: Americas Stage 1,2026-05-15,Ascent,LEVIATÁN,MIBR,"Chamber,Neon,Omen,Phoenix,Sova","Jett,Omen,Sage,Sova,Vyse",True
+660372,VCT 2026: Americas Stage 1,2026-05-15,Lotus,KRÜ Esports,G2 Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+660372,VCT 2026: Americas Stage 1,2026-05-15,Lotus,G2 Esports,KRÜ Esports,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+660372,VCT 2026: Americas Stage 1,2026-05-15,Breeze,KRÜ Esports,G2 Esports,"Harbor,Kayo,Neon,Sova,Viper","Astra,Harbor,Neon,Sova,Vyse",False
+660372,VCT 2026: Americas Stage 1,2026-05-15,Breeze,G2 Esports,KRÜ Esports,"Astra,Harbor,Neon,Sova,Vyse","Harbor,Kayo,Neon,Sova,Viper",True
+660375,VCT 2026: Americas Stage 1,2026-05-16,Lotus,FURIA,NRG,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+660375,VCT 2026: Americas Stage 1,2026-05-16,Lotus,NRG,FURIA,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+660375,VCT 2026: Americas Stage 1,2026-05-16,Haven,FURIA,NRG,"Cypher,Jett,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+660375,VCT 2026: Americas Stage 1,2026-05-16,Haven,NRG,FURIA,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Jett,Omen,Phoenix,Sova",True
+660376,VCT 2026: Americas Stage 1,2026-05-16,Breeze,100 Thieves,LOUD,"Cypher,Harbor,Neon,Phoenix,Sova","Astra,Harbor,Jett,Kayo,Sova",True
+660376,VCT 2026: Americas Stage 1,2026-05-16,Breeze,LOUD,100 Thieves,"Astra,Harbor,Jett,Kayo,Sova","Cypher,Harbor,Neon,Phoenix,Sova",False
+660376,VCT 2026: Americas Stage 1,2026-05-16,Split,100 Thieves,LOUD,"Omen,Raze,Sage,Skye,Viper","Neon,Omen,Raze,Skye,Viper",True
+660376,VCT 2026: Americas Stage 1,2026-05-16,Split,LOUD,100 Thieves,"Neon,Omen,Raze,Skye,Viper","Omen,Raze,Sage,Skye,Viper",False
+660377,VCT 2026: Americas Stage 1,2026-05-17,Breeze,KRÜ Esports,NRG,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+660377,VCT 2026: Americas Stage 1,2026-05-17,Breeze,NRG,KRÜ Esports,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",True
+660377,VCT 2026: Americas Stage 1,2026-05-17,Haven,KRÜ Esports,NRG,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Phoenix,Sova",False
+660377,VCT 2026: Americas Stage 1,2026-05-17,Haven,NRG,KRÜ Esports,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Fade,Neon,Omen,Phoenix",True
+660378,VCT 2026: Americas Stage 1,2026-05-17,Fracture,MIBR,100 Thieves,"Brimstone,Cypher,Jett,Neon,Skye","Brimstone,Cypher,Fade,Neon,Raze",False
+660378,VCT 2026: Americas Stage 1,2026-05-17,Fracture,100 Thieves,MIBR,"Brimstone,Cypher,Fade,Neon,Raze","Brimstone,Cypher,Jett,Neon,Skye",True
+660378,VCT 2026: Americas Stage 1,2026-05-17,Breeze,MIBR,100 Thieves,"Astra,Harbor,Jett,Neon,Skye","Cypher,Harbor,Neon,Phoenix,Sova",False
+660378,VCT 2026: Americas Stage 1,2026-05-17,Breeze,100 Thieves,MIBR,"Cypher,Harbor,Neon,Phoenix,Sova","Astra,Harbor,Jett,Neon,Skye",True
+660373,VCT 2026: Americas Stage 1,2026-05-22,Ascent,LEVIATÁN,G2 Esports,"Chamber,Neon,Omen,Phoenix,Sova","Astra,Phoenix,Sova,Vyse,Yoru",True
+660373,VCT 2026: Americas Stage 1,2026-05-22,Ascent,G2 Esports,LEVIATÁN,"Astra,Phoenix,Sova,Vyse,Yoru","Chamber,Neon,Omen,Phoenix,Sova",False
+660373,VCT 2026: Americas Stage 1,2026-05-22,Pearl,LEVIATÁN,G2 Esports,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Fade,Neon,Phoenix,Vyse",False
+660373,VCT 2026: Americas Stage 1,2026-05-22,Pearl,G2 Esports,LEVIATÁN,"Astra,Fade,Neon,Phoenix,Vyse","Astra,Chamber,Neon,Phoenix,Sova",True
+660373,VCT 2026: Americas Stage 1,2026-05-22,Split,LEVIATÁN,G2 Esports,"Fade,Neon,Omen,Phoenix,Viper","Astra,Fade,Raze,Viper,Vyse",True
+660373,VCT 2026: Americas Stage 1,2026-05-22,Split,G2 Esports,LEVIATÁN,"Astra,Fade,Raze,Viper,Vyse","Fade,Neon,Omen,Phoenix,Viper",False
+660379,VCT 2026: Americas Stage 1,2026-05-22,Fracture,NRG,100 Thieves,"Brimstone,Cypher,Fade,Phoenix,Waylay","Brimstone,Cypher,Fade,Neon,Raze",True
+660379,VCT 2026: Americas Stage 1,2026-05-22,Fracture,100 Thieves,NRG,"Brimstone,Cypher,Fade,Neon,Raze","Brimstone,Cypher,Fade,Phoenix,Waylay",False
+660379,VCT 2026: Americas Stage 1,2026-05-22,Breeze,NRG,100 Thieves,"Harbor,Jett,Kayo,Sova,Viper","Cypher,Harbor,Neon,Phoenix,Sova",True
+660379,VCT 2026: Americas Stage 1,2026-05-22,Breeze,100 Thieves,NRG,"Cypher,Harbor,Neon,Phoenix,Sova","Harbor,Jett,Kayo,Sova,Viper",False
+660380,VCT 2026: Americas Stage 1,2026-05-23,Lotus,G2 Esports,NRG,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+660380,VCT 2026: Americas Stage 1,2026-05-23,Lotus,NRG,G2 Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+660380,VCT 2026: Americas Stage 1,2026-05-23,Breeze,G2 Esports,NRG,"Astra,Harbor,Neon,Sova,Vyse","Harbor,Jett,Kayo,Sova,Viper",False
+660380,VCT 2026: Americas Stage 1,2026-05-23,Breeze,NRG,G2 Esports,"Harbor,Jett,Kayo,Sova,Viper","Astra,Harbor,Neon,Sova,Vyse",True
+660380,VCT 2026: Americas Stage 1,2026-05-23,Pearl,G2 Esports,NRG,"Astra,Fade,Neon,Phoenix,Vyse","Astra,Killjoy,Neon,Sova,Tejo",True
+660380,VCT 2026: Americas Stage 1,2026-05-23,Pearl,NRG,G2 Esports,"Astra,Killjoy,Neon,Sova,Tejo","Astra,Fade,Neon,Phoenix,Vyse",False
+660380,VCT 2026: Americas Stage 1,2026-05-23,Haven,G2 Esports,NRG,"Astra,Chamber,Fade,Neon,Phoenix","Cypher,Neon,Omen,Phoenix,Sova",False
+660380,VCT 2026: Americas Stage 1,2026-05-23,Haven,NRG,G2 Esports,"Cypher,Neon,Omen,Phoenix,Sova","Astra,Chamber,Fade,Neon,Phoenix",True
+660380,VCT 2026: Americas Stage 1,2026-05-23,Ascent,G2 Esports,NRG,"Astra,Phoenix,Sova,Vyse,Yoru","Jett,Omen,Sage,Sova,Vyse",True
+660380,VCT 2026: Americas Stage 1,2026-05-23,Ascent,NRG,G2 Esports,"Jett,Omen,Sage,Sova,Vyse","Astra,Phoenix,Sova,Vyse,Yoru",False
+660374,VCT 2026: Americas Stage 1,2026-05-24,Fracture,LEVIATÁN,G2 Esports,"Breach,Brimstone,Neon,Tejo,Waylay","Brimstone,Chamber,Fade,Neon,Sage",False
+660374,VCT 2026: Americas Stage 1,2026-05-24,Fracture,G2 Esports,LEVIATÁN,"Brimstone,Chamber,Fade,Neon,Sage","Breach,Brimstone,Neon,Tejo,Waylay",True
+660374,VCT 2026: Americas Stage 1,2026-05-24,Haven,LEVIATÁN,G2 Esports,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Chamber,Fade,Neon,Phoenix",True
+660374,VCT 2026: Americas Stage 1,2026-05-24,Haven,G2 Esports,LEVIATÁN,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Chamber,Neon,Phoenix,Sova",False
+660374,VCT 2026: Americas Stage 1,2026-05-24,Ascent,LEVIATÁN,G2 Esports,"Chamber,Neon,Omen,Phoenix,Sova","Astra,Phoenix,Sova,Vyse,Yoru",True
+660374,VCT 2026: Americas Stage 1,2026-05-24,Ascent,G2 Esports,LEVIATÁN,"Astra,Phoenix,Sova,Vyse,Yoru","Chamber,Neon,Omen,Phoenix,Sova",False
+660374,VCT 2026: Americas Stage 1,2026-05-24,Pearl,LEVIATÁN,G2 Esports,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Fade,Neon,Phoenix,Vyse",False
+660374,VCT 2026: Americas Stage 1,2026-05-24,Pearl,G2 Esports,LEVIATÁN,"Astra,Fade,Neon,Phoenix,Vyse","Astra,Chamber,Neon,Phoenix,Sova",True
+660374,VCT 2026: Americas Stage 1,2026-05-24,Split,LEVIATÁN,G2 Esports,"Fade,Neon,Omen,Phoenix,Viper","Astra,Fade,Raze,Viper,Vyse",False
+660374,VCT 2026: Americas Stage 1,2026-05-24,Split,G2 Esports,LEVIATÁN,"Astra,Fade,Raze,Viper,Vyse","Fade,Neon,Omen,Phoenix,Viper",True
+644709,VCT 2026: EMEA Stage 1,2026-04-01,Breeze,FNATIC,Eternal Fire,"Harbor,Iso,Neon,Sova,Viper","Astra,Cypher,Jett,Kayo,Sova",True
+644709,VCT 2026: EMEA Stage 1,2026-04-01,Breeze,Eternal Fire,FNATIC,"Astra,Cypher,Jett,Kayo,Sova","Harbor,Iso,Neon,Sova,Viper",False
+644709,VCT 2026: EMEA Stage 1,2026-04-01,Bind,FNATIC,Eternal Fire,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+644709,VCT 2026: EMEA Stage 1,2026-04-01,Bind,Eternal Fire,FNATIC,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+644709,VCT 2026: EMEA Stage 1,2026-04-01,Lotus,FNATIC,Eternal Fire,"Fade,Killjoy,Omen,Viper,Waylay","Neon,Omen,Raze,Skye,Veto",True
+644709,VCT 2026: EMEA Stage 1,2026-04-01,Lotus,Eternal Fire,FNATIC,"Neon,Omen,Raze,Skye,Veto","Fade,Killjoy,Omen,Viper,Waylay",False
+644710,VCT 2026: EMEA Stage 1,2026-04-01,Haven,Team Liquid,Karmine Corp,"Killjoy,Neon,Omen,Phoenix,Skye","Fade,Jett,Omen,Tejo,Vyse",True
+644710,VCT 2026: EMEA Stage 1,2026-04-01,Haven,Karmine Corp,Team Liquid,"Fade,Jett,Omen,Tejo,Vyse","Killjoy,Neon,Omen,Phoenix,Skye",False
+644710,VCT 2026: EMEA Stage 1,2026-04-01,Pearl,Team Liquid,Karmine Corp,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Fade,Tejo,Vyse,Waylay",True
+644710,VCT 2026: EMEA Stage 1,2026-04-01,Pearl,Karmine Corp,Team Liquid,"Astra,Fade,Tejo,Vyse,Waylay","Astra,Fade,Killjoy,Neon,Phoenix",False
+644711,VCT 2026: EMEA Stage 1,2026-04-02,Haven,Team Vitality,GIANTX,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Phoenix,Sova",True
+644711,VCT 2026: EMEA Stage 1,2026-04-02,Haven,GIANTX,Team Vitality,"Cypher,Neon,Omen,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Viper",False
+644711,VCT 2026: EMEA Stage 1,2026-04-02,Pearl,Team Vitality,GIANTX,"Astra,Chamber,Kayo,Neon,Sova","Astra,Cypher,Fade,Tejo,Waylay",True
+644711,VCT 2026: EMEA Stage 1,2026-04-02,Pearl,GIANTX,Team Vitality,"Astra,Cypher,Fade,Tejo,Waylay","Astra,Chamber,Kayo,Neon,Sova",False
+644712,VCT 2026: EMEA Stage 1,2026-04-02,Pearl,Gentle Mates,FUT Esports,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Fade,Killjoy,Neon,Waylay",True
+644712,VCT 2026: EMEA Stage 1,2026-04-02,Pearl,FUT Esports,Gentle Mates,"Astra,Fade,Killjoy,Neon,Waylay","Astra,Cypher,Fade,Neon,Phoenix",False
+644712,VCT 2026: EMEA Stage 1,2026-04-02,Bind,Gentle Mates,FUT Esports,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+644712,VCT 2026: EMEA Stage 1,2026-04-02,Bind,FUT Esports,Gentle Mates,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+644712,VCT 2026: EMEA Stage 1,2026-04-02,Haven,Gentle Mates,FUT Esports,"Cypher,Neon,Omen,Phoenix,Sova","Killjoy,Neon,Omen,Sova,Waylay",False
+644712,VCT 2026: EMEA Stage 1,2026-04-02,Haven,FUT Esports,Gentle Mates,"Killjoy,Neon,Omen,Sova,Waylay","Cypher,Neon,Omen,Phoenix,Sova",True
+644713,VCT 2026: EMEA Stage 1,2026-04-03,Pearl,Team Heretics,Natus Vincere,"Astra,Chamber,Harbor,Neon,Skye","Astra,Chamber,Sova,Tejo,Waylay",True
+644713,VCT 2026: EMEA Stage 1,2026-04-03,Pearl,Natus Vincere,Team Heretics,"Astra,Chamber,Sova,Tejo,Waylay","Astra,Chamber,Harbor,Neon,Skye",False
+644713,VCT 2026: EMEA Stage 1,2026-04-03,Lotus,Team Heretics,Natus Vincere,"Chamber,Harbor,Neon,Omen,Skye","Chamber,Fade,Neon,Omen,Viper",False
+644713,VCT 2026: EMEA Stage 1,2026-04-03,Lotus,Natus Vincere,Team Heretics,"Chamber,Fade,Neon,Omen,Viper","Chamber,Harbor,Neon,Omen,Skye",True
+644713,VCT 2026: EMEA Stage 1,2026-04-03,Bind,Team Heretics,Natus Vincere,"Astra,Chamber,Neon,Skye,Viper","Brimstone,Chamber,Neon,Skye,Viper",False
+644713,VCT 2026: EMEA Stage 1,2026-04-03,Bind,Natus Vincere,Team Heretics,"Brimstone,Chamber,Neon,Skye,Viper","Astra,Chamber,Neon,Skye,Viper",True
+644714,VCT 2026: EMEA Stage 1,2026-04-03,Split,BBL Esports,PCIFIC Esports,"Neon,Omen,Skye,Viper,Waylay","Astra,Fade,Raze,Viper,Waylay",True
+644714,VCT 2026: EMEA Stage 1,2026-04-03,Split,PCIFIC Esports,BBL Esports,"Astra,Fade,Raze,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+644714,VCT 2026: EMEA Stage 1,2026-04-03,Breeze,BBL Esports,PCIFIC Esports,"Astra,Jett,Kayo,Sova,Viper","Jett,Kayo,Omen,Sova,Viper",True
+644714,VCT 2026: EMEA Stage 1,2026-04-03,Breeze,PCIFIC Esports,BBL Esports,"Jett,Kayo,Omen,Sova,Viper","Astra,Jett,Kayo,Sova,Viper",False
+644716,VCT 2026: EMEA Stage 1,2026-04-08,Haven,PCIFIC Esports,GIANTX,"Chamber,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Phoenix,Sova",False
+644716,VCT 2026: EMEA Stage 1,2026-04-08,Haven,GIANTX,PCIFIC Esports,"Cypher,Neon,Omen,Phoenix,Sova","Chamber,Neon,Omen,Sova,Viper",True
+644716,VCT 2026: EMEA Stage 1,2026-04-08,Pearl,PCIFIC Esports,GIANTX,"Astra,Fade,Neon,Raze,Veto","Astra,Cypher,Fade,Tejo,Waylay",True
+644716,VCT 2026: EMEA Stage 1,2026-04-08,Pearl,GIANTX,PCIFIC Esports,"Astra,Cypher,Fade,Tejo,Waylay","Astra,Fade,Neon,Raze,Veto",False
+644716,VCT 2026: EMEA Stage 1,2026-04-08,Split,PCIFIC Esports,GIANTX,"Astra,Fade,Neon,Raze,Viper","Astra,Neon,Skye,Viper,Waylay",False
+644716,VCT 2026: EMEA Stage 1,2026-04-08,Split,GIANTX,PCIFIC Esports,"Astra,Neon,Skye,Viper,Waylay","Astra,Fade,Neon,Raze,Viper",True
+644717,VCT 2026: EMEA Stage 1,2026-04-08,Pearl,BBL Esports,Eternal Fire,"Astra,Cypher,Neon,Sova,Waylay","Astra,Cypher,Fade,Neon,Phoenix",False
+644717,VCT 2026: EMEA Stage 1,2026-04-08,Pearl,Eternal Fire,BBL Esports,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Cypher,Neon,Sova,Waylay",True
+644717,VCT 2026: EMEA Stage 1,2026-04-08,Split,BBL Esports,Eternal Fire,"Jett,Omen,Raze,Skye,Viper","Astra,Fade,Neon,Raze,Viper",False
+644717,VCT 2026: EMEA Stage 1,2026-04-08,Split,Eternal Fire,BBL Esports,"Astra,Fade,Neon,Raze,Viper","Jett,Omen,Raze,Skye,Viper",True
+644718,VCT 2026: EMEA Stage 1,2026-04-09,Split,FNATIC,Team Vitality,"Astra,Neon,Raze,Skye,Viper","Fade,Neon,Omen,Raze,Viper",True
+644718,VCT 2026: EMEA Stage 1,2026-04-09,Split,Team Vitality,FNATIC,"Fade,Neon,Omen,Raze,Viper","Astra,Neon,Raze,Skye,Viper",False
+644718,VCT 2026: EMEA Stage 1,2026-04-09,Breeze,FNATIC,Team Vitality,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+644718,VCT 2026: EMEA Stage 1,2026-04-09,Breeze,Team Vitality,FNATIC,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",False
+644719,VCT 2026: EMEA Stage 1,2026-04-09,Pearl,Team Liquid,Team Heretics,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Harbor,Neon,Skye",True
+644719,VCT 2026: EMEA Stage 1,2026-04-09,Pearl,Team Heretics,Team Liquid,"Astra,Chamber,Harbor,Neon,Skye","Astra,Fade,Killjoy,Neon,Phoenix",False
+644719,VCT 2026: EMEA Stage 1,2026-04-09,Bind,Team Liquid,Team Heretics,"Brimstone,Neon,Phoenix,Skye,Viper","Astra,Chamber,Neon,Skye,Viper",True
+644719,VCT 2026: EMEA Stage 1,2026-04-09,Bind,Team Heretics,Team Liquid,"Astra,Chamber,Neon,Skye,Viper","Brimstone,Neon,Phoenix,Skye,Viper",False
+644720,VCT 2026: EMEA Stage 1,2026-04-10,Fracture,FUT Esports,Natus Vincere,"Breach,Brimstone,Cypher,Neon,Raze","Chamber,Fade,Neon,Omen,Viper",False
+644720,VCT 2026: EMEA Stage 1,2026-04-10,Fracture,Natus Vincere,FUT Esports,"Chamber,Fade,Neon,Omen,Viper","Breach,Brimstone,Cypher,Neon,Raze",True
+644720,VCT 2026: EMEA Stage 1,2026-04-10,Bind,FUT Esports,Natus Vincere,"Brimstone,Neon,Raze,Skye,Viper","Brimstone,Chamber,Neon,Skye,Viper",True
+644720,VCT 2026: EMEA Stage 1,2026-04-10,Bind,Natus Vincere,FUT Esports,"Brimstone,Chamber,Neon,Skye,Viper","Brimstone,Neon,Raze,Skye,Viper",False
+644720,VCT 2026: EMEA Stage 1,2026-04-10,Split,FUT Esports,Natus Vincere,"Neon,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Raze,Viper",True
+644720,VCT 2026: EMEA Stage 1,2026-04-10,Split,Natus Vincere,FUT Esports,"Fade,Neon,Omen,Raze,Viper","Neon,Omen,Raze,Skye,Viper",False
+644721,VCT 2026: EMEA Stage 1,2026-04-10,Fracture,Gentle Mates,Karmine Corp,"Breach,Brimstone,Fade,Neon,Veto","Astra,Fade,Kayo,Vyse,Waylay",True
+644721,VCT 2026: EMEA Stage 1,2026-04-10,Fracture,Karmine Corp,Gentle Mates,"Astra,Fade,Kayo,Vyse,Waylay","Breach,Brimstone,Fade,Neon,Veto",False
+644721,VCT 2026: EMEA Stage 1,2026-04-10,Haven,Gentle Mates,Karmine Corp,"Fade,Neon,Omen,Veto,Viper","Cypher,Fade,Neon,Omen,Phoenix",False
+644721,VCT 2026: EMEA Stage 1,2026-04-10,Haven,Karmine Corp,Gentle Mates,"Cypher,Fade,Neon,Omen,Phoenix","Fade,Neon,Omen,Veto,Viper",True
+644721,VCT 2026: EMEA Stage 1,2026-04-10,Pearl,Gentle Mates,Karmine Corp,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Fade,Jett,Omen,Veto",True
+644721,VCT 2026: EMEA Stage 1,2026-04-10,Pearl,Karmine Corp,Gentle Mates,"Astra,Fade,Jett,Omen,Veto","Astra,Cypher,Fade,Neon,Phoenix",False
+644722,VCT 2026: EMEA Stage 1,2026-04-15,Haven,BBL Esports,GIANTX,"Breach,Cypher,Jett,Omen,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+644722,VCT 2026: EMEA Stage 1,2026-04-15,Haven,GIANTX,BBL Esports,"Cypher,Neon,Omen,Phoenix,Sova","Breach,Cypher,Jett,Omen,Sova",True
+644722,VCT 2026: EMEA Stage 1,2026-04-15,Lotus,BBL Esports,GIANTX,"Fade,Neon,Omen,Raze,Vyse","Chamber,Fade,Neon,Omen,Viper",True
+644722,VCT 2026: EMEA Stage 1,2026-04-15,Lotus,GIANTX,BBL Esports,"Chamber,Fade,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Vyse",False
+644722,VCT 2026: EMEA Stage 1,2026-04-15,Split,BBL Esports,GIANTX,"Astra,Fade,Neon,Raze,Vyse","Astra,Neon,Skye,Viper,Waylay",False
+644722,VCT 2026: EMEA Stage 1,2026-04-15,Split,GIANTX,BBL Esports,"Astra,Neon,Skye,Viper,Waylay","Astra,Fade,Neon,Raze,Vyse",True
+644723,VCT 2026: EMEA Stage 1,2026-04-15,Pearl,Gentle Mates,Natus Vincere,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Chamber,Neon,Sova,Tejo",True
+644723,VCT 2026: EMEA Stage 1,2026-04-15,Pearl,Natus Vincere,Gentle Mates,"Astra,Chamber,Neon,Sova,Tejo","Astra,Cypher,Fade,Neon,Phoenix",False
+644723,VCT 2026: EMEA Stage 1,2026-04-15,Lotus,Gentle Mates,Natus Vincere,"Fade,Neon,Omen,Raze,Viper","Chamber,Fade,Neon,Omen,Viper",True
+644723,VCT 2026: EMEA Stage 1,2026-04-15,Lotus,Natus Vincere,Gentle Mates,"Chamber,Fade,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Viper",False
+644724,VCT 2026: EMEA Stage 1,2026-04-16,Bind,Eternal Fire,Team Vitality,"Brimstone,Neon,Skye,Viper,Vyse","Brimstone,Fade,Neon,Phoenix,Viper",True
+644724,VCT 2026: EMEA Stage 1,2026-04-16,Bind,Team Vitality,Eternal Fire,"Brimstone,Fade,Neon,Phoenix,Viper","Brimstone,Neon,Skye,Viper,Vyse",False
+644724,VCT 2026: EMEA Stage 1,2026-04-16,Lotus,Eternal Fire,Team Vitality,"Fade,Neon,Omen,Raze,Viper","Fade,Killjoy,Neon,Omen,Viper",True
+644724,VCT 2026: EMEA Stage 1,2026-04-16,Lotus,Team Vitality,Eternal Fire,"Fade,Killjoy,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Viper",False
+644725,VCT 2026: EMEA Stage 1,2026-04-16,Haven,Karmine Corp,Team Heretics,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Phoenix,Sova",True
+644725,VCT 2026: EMEA Stage 1,2026-04-16,Haven,Team Heretics,Karmine Corp,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Fade,Neon,Omen,Phoenix",False
+644725,VCT 2026: EMEA Stage 1,2026-04-16,Lotus,Karmine Corp,Team Heretics,"Fade,Neon,Omen,Vyse,Waylay","Fade,Neon,Omen,Raze,Vyse",False
+644725,VCT 2026: EMEA Stage 1,2026-04-16,Lotus,Team Heretics,Karmine Corp,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Vyse,Waylay",True
+644725,VCT 2026: EMEA Stage 1,2026-04-16,Fracture,Karmine Corp,Team Heretics,"Astra,Fade,Kayo,Vyse,Waylay","Brimstone,Cypher,Fade,Neon,Raze",False
+644725,VCT 2026: EMEA Stage 1,2026-04-16,Fracture,Team Heretics,Karmine Corp,"Brimstone,Cypher,Fade,Neon,Raze","Astra,Fade,Kayo,Vyse,Waylay",True
+644726,VCT 2026: EMEA Stage 1,2026-04-17,Breeze,FUT Esports,Team Liquid,"Jett,Neon,Omen,Sova,Viper","Kayo,Neon,Omen,Sova,Viper",True
+644726,VCT 2026: EMEA Stage 1,2026-04-17,Breeze,Team Liquid,FUT Esports,"Kayo,Neon,Omen,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+644726,VCT 2026: EMEA Stage 1,2026-04-17,Haven,FUT Esports,Team Liquid,"Cypher,Jett,Neon,Omen,Sova","Killjoy,Neon,Omen,Phoenix,Skye",True
+644726,VCT 2026: EMEA Stage 1,2026-04-17,Haven,Team Liquid,FUT Esports,"Killjoy,Neon,Omen,Phoenix,Skye","Cypher,Jett,Neon,Omen,Sova",False
+644727,VCT 2026: EMEA Stage 1,2026-04-17,Split,PCIFIC Esports,FNATIC,"Astra,Fade,Neon,Raze,Viper","Astra,Neon,Raze,Skye,Viper",False
+644727,VCT 2026: EMEA Stage 1,2026-04-17,Split,FNATIC,PCIFIC Esports,"Astra,Neon,Raze,Skye,Viper","Astra,Fade,Neon,Raze,Viper",True
+644727,VCT 2026: EMEA Stage 1,2026-04-17,Lotus,PCIFIC Esports,FNATIC,"Fade,Neon,Omen,Sage,Veto","Fade,Killjoy,Neon,Omen,Viper",False
+644727,VCT 2026: EMEA Stage 1,2026-04-17,Lotus,FNATIC,PCIFIC Esports,"Fade,Killjoy,Neon,Omen,Viper","Fade,Neon,Omen,Sage,Veto",True
+644728,VCT 2026: EMEA Stage 1,2026-04-22,Split,Eternal Fire,PCIFIC Esports,"Fade,Neon,Omen,Raze,Viper","Astra,Fade,Neon,Raze,Viper",False
+644728,VCT 2026: EMEA Stage 1,2026-04-22,Split,PCIFIC Esports,Eternal Fire,"Astra,Fade,Neon,Raze,Viper","Fade,Neon,Omen,Raze,Viper",True
+644728,VCT 2026: EMEA Stage 1,2026-04-22,Fracture,Eternal Fire,PCIFIC Esports,"Brimstone,Cypher,Neon,Skye,Tejo","Astra,Neon,Skye,Tejo,Veto",True
+644728,VCT 2026: EMEA Stage 1,2026-04-22,Fracture,PCIFIC Esports,Eternal Fire,"Astra,Neon,Skye,Tejo,Veto","Brimstone,Cypher,Neon,Skye,Tejo",False
+644728,VCT 2026: EMEA Stage 1,2026-04-22,Lotus,Eternal Fire,PCIFIC Esports,"Fade,Neon,Omen,Raze,Viper","Deadlock,Fade,Neon,Omen,Vyse",True
+644728,VCT 2026: EMEA Stage 1,2026-04-22,Lotus,PCIFIC Esports,Eternal Fire,"Deadlock,Fade,Neon,Omen,Vyse","Fade,Neon,Omen,Raze,Viper",False
+644729,VCT 2026: EMEA Stage 1,2026-04-22,Bind,Natus Vincere,Team Liquid,"Brimstone,Neon,Skye,Viper,Vyse","Brimstone,Neon,Phoenix,Skye,Viper",False
+644729,VCT 2026: EMEA Stage 1,2026-04-22,Bind,Team Liquid,Natus Vincere,"Brimstone,Neon,Phoenix,Skye,Viper","Brimstone,Neon,Skye,Viper,Vyse",True
+644729,VCT 2026: EMEA Stage 1,2026-04-22,Split,Natus Vincere,Team Liquid,"Fade,Neon,Omen,Viper,Vyse","Astra,Fade,Neon,Raze,Viper",True
+644729,VCT 2026: EMEA Stage 1,2026-04-22,Split,Team Liquid,Natus Vincere,"Astra,Fade,Neon,Raze,Viper","Fade,Neon,Omen,Viper,Vyse",False
+644729,VCT 2026: EMEA Stage 1,2026-04-22,Lotus,Natus Vincere,Team Liquid,"Fade,Neon,Omen,Viper,Vyse","Cypher,Fade,Neon,Omen,Raze",False
+644729,VCT 2026: EMEA Stage 1,2026-04-22,Lotus,Team Liquid,Natus Vincere,"Cypher,Fade,Neon,Omen,Raze","Fade,Neon,Omen,Viper,Vyse",True
+644730,VCT 2026: EMEA Stage 1,2026-04-23,Haven,GIANTX,FNATIC,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",True
+644730,VCT 2026: EMEA Stage 1,2026-04-23,Haven,FNATIC,GIANTX,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+644730,VCT 2026: EMEA Stage 1,2026-04-23,Bind,GIANTX,FNATIC,"Brimstone,Neon,Skye,Tejo,Viper","Brimstone,Neon,Skye,Viper,Waylay",False
+644730,VCT 2026: EMEA Stage 1,2026-04-23,Bind,FNATIC,GIANTX,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Tejo,Viper",True
+644730,VCT 2026: EMEA Stage 1,2026-04-23,Breeze,GIANTX,FNATIC,"Neon,Omen,Skye,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",False
+644730,VCT 2026: EMEA Stage 1,2026-04-23,Breeze,FNATIC,GIANTX,"Harbor,Kayo,Neon,Sova,Viper","Neon,Omen,Skye,Sova,Viper",True
+644731,VCT 2026: EMEA Stage 1,2026-04-23,Haven,Karmine Corp,FUT Esports,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Phoenix,Sova",True
+644731,VCT 2026: EMEA Stage 1,2026-04-23,Haven,FUT Esports,Karmine Corp,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Fade,Neon,Omen,Phoenix",False
+644731,VCT 2026: EMEA Stage 1,2026-04-23,Lotus,Karmine Corp,FUT Esports,"Cypher,Fade,Neon,Omen,Phoenix","Chamber,Fade,Neon,Omen,Viper",False
+644731,VCT 2026: EMEA Stage 1,2026-04-23,Lotus,FUT Esports,Karmine Corp,"Chamber,Fade,Neon,Omen,Viper","Cypher,Fade,Neon,Omen,Phoenix",True
+644731,VCT 2026: EMEA Stage 1,2026-04-23,Bind,Karmine Corp,FUT Esports,"Brimstone,Gekko,Raze,Skye,Viper","Brimstone,Neon,Raze,Skye,Viper",False
+644731,VCT 2026: EMEA Stage 1,2026-04-23,Bind,FUT Esports,Karmine Corp,"Brimstone,Neon,Raze,Skye,Viper","Brimstone,Gekko,Raze,Skye,Viper",True
+644732,VCT 2026: EMEA Stage 1,2026-04-24,Fracture,Gentle Mates,Team Heretics,"Breach,Brimstone,Fade,Neon,Veto","Brimstone,Cypher,Fade,Neon,Raze",False
+644732,VCT 2026: EMEA Stage 1,2026-04-24,Fracture,Team Heretics,Gentle Mates,"Brimstone,Cypher,Fade,Neon,Raze","Breach,Brimstone,Fade,Neon,Veto",True
+644732,VCT 2026: EMEA Stage 1,2026-04-24,Lotus,Gentle Mates,Team Heretics,"Fade,Neon,Omen,Raze,Viper","Fade,Neon,Omen,Raze,Vyse",False
+644732,VCT 2026: EMEA Stage 1,2026-04-24,Lotus,Team Heretics,Gentle Mates,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Raze,Viper",True
+644733,VCT 2026: EMEA Stage 1,2026-04-24,Lotus,BBL Esports,Team Vitality,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Vyse",False
+644733,VCT 2026: EMEA Stage 1,2026-04-24,Lotus,Team Vitality,BBL Esports,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+644733,VCT 2026: EMEA Stage 1,2026-04-24,Haven,BBL Esports,Team Vitality,"Breach,Cypher,Jett,Omen,Sova","Killjoy,Neon,Omen,Sova,Viper",True
+644733,VCT 2026: EMEA Stage 1,2026-04-24,Haven,Team Vitality,BBL Esports,"Killjoy,Neon,Omen,Sova,Viper","Breach,Cypher,Jett,Omen,Sova",False
+644733,VCT 2026: EMEA Stage 1,2026-04-24,Breeze,BBL Esports,Team Vitality,"Jett,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+644733,VCT 2026: EMEA Stage 1,2026-04-24,Breeze,Team Vitality,BBL Esports,"Harbor,Jett,Kayo,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+644734,VCT 2026: EMEA Stage 1,2026-04-29,Lotus,Team Heretics,FUT Esports,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Waylay",True
+644734,VCT 2026: EMEA Stage 1,2026-04-29,Lotus,FUT Esports,Team Heretics,"Fade,Neon,Omen,Viper,Waylay","Fade,Neon,Omen,Raze,Vyse",False
+644734,VCT 2026: EMEA Stage 1,2026-04-29,Split,Team Heretics,FUT Esports,"Astra,Fade,Neon,Raze,Vyse","Neon,Omen,Raze,Skye,Viper",True
+644734,VCT 2026: EMEA Stage 1,2026-04-29,Split,FUT Esports,Team Heretics,"Neon,Omen,Raze,Skye,Viper","Astra,Fade,Neon,Raze,Vyse",False
+644735,VCT 2026: EMEA Stage 1,2026-04-29,Haven,Team Vitality,PCIFIC Esports,"Killjoy,Neon,Omen,Sova,Viper","Neon,Omen,Sova,Veto,Viper",True
+644735,VCT 2026: EMEA Stage 1,2026-04-29,Haven,PCIFIC Esports,Team Vitality,"Neon,Omen,Sova,Veto,Viper","Killjoy,Neon,Omen,Sova,Viper",False
+644735,VCT 2026: EMEA Stage 1,2026-04-29,Split,Team Vitality,PCIFIC Esports,"Fade,Neon,Omen,Raze,Viper","Astra,Fade,Neon,Raze,Viper",True
+644735,VCT 2026: EMEA Stage 1,2026-04-29,Split,PCIFIC Esports,Team Vitality,"Astra,Fade,Neon,Raze,Viper","Fade,Neon,Omen,Raze,Viper",False
+644736,VCT 2026: EMEA Stage 1,2026-04-30,Lotus,Natus Vincere,Karmine Corp,"Cypher,Fade,Neon,Omen,Raze","Cypher,Fade,Neon,Omen,Phoenix",True
+644736,VCT 2026: EMEA Stage 1,2026-04-30,Lotus,Karmine Corp,Natus Vincere,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Fade,Neon,Omen,Raze",False
+644736,VCT 2026: EMEA Stage 1,2026-04-30,Breeze,Natus Vincere,Karmine Corp,"Cypher,Neon,Phoenix,Sova,Viper","Astra,Jett,Omen,Skye,Sova",True
+644736,VCT 2026: EMEA Stage 1,2026-04-30,Breeze,Karmine Corp,Natus Vincere,"Astra,Jett,Omen,Skye,Sova","Cypher,Neon,Phoenix,Sova,Viper",False
+644737,VCT 2026: EMEA Stage 1,2026-04-30,Haven,BBL Esports,FNATIC,"Breach,Cypher,Jett,Omen,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+644737,VCT 2026: EMEA Stage 1,2026-04-30,Haven,FNATIC,BBL Esports,"Cypher,Neon,Omen,Phoenix,Sova","Breach,Cypher,Jett,Omen,Sova",True
+644737,VCT 2026: EMEA Stage 1,2026-04-30,Fracture,BBL Esports,FNATIC,"Brimstone,Cypher,Jett,Neon,Tejo","Brimstone,Cypher,Fade,Neon,Phoenix",False
+644737,VCT 2026: EMEA Stage 1,2026-04-30,Fracture,FNATIC,BBL Esports,"Brimstone,Cypher,Fade,Neon,Phoenix","Brimstone,Cypher,Jett,Neon,Tejo",True
+644738,VCT 2026: EMEA Stage 1,2026-05-01,Split,GIANTX,Eternal Fire,"Astra,Neon,Skye,Viper,Waylay","Fade,Neon,Omen,Raze,Viper",False
+644738,VCT 2026: EMEA Stage 1,2026-05-01,Split,Eternal Fire,GIANTX,"Fade,Neon,Omen,Raze,Viper","Astra,Neon,Skye,Viper,Waylay",True
+644738,VCT 2026: EMEA Stage 1,2026-05-01,Breeze,GIANTX,Eternal Fire,"Neon,Omen,Skye,Sova,Viper","Astra,Neon,Skye,Tejo,Viper",False
+644738,VCT 2026: EMEA Stage 1,2026-05-01,Breeze,Eternal Fire,GIANTX,"Astra,Neon,Skye,Tejo,Viper","Neon,Omen,Skye,Sova,Viper",True
+644739,VCT 2026: EMEA Stage 1,2026-05-01,Split,Gentle Mates,Team Liquid,"Fade,Neon,Omen,Raze,Viper","Astra,Neon,Raze,Skye,Viper",False
+644739,VCT 2026: EMEA Stage 1,2026-05-01,Split,Team Liquid,Gentle Mates,"Astra,Neon,Raze,Skye,Viper","Fade,Neon,Omen,Raze,Viper",True
+644739,VCT 2026: EMEA Stage 1,2026-05-01,Lotus,Gentle Mates,Team Liquid,"Fade,Neon,Omen,Raze,Vyse","Cypher,Fade,Neon,Omen,Raze",False
+644739,VCT 2026: EMEA Stage 1,2026-05-01,Lotus,Team Liquid,Gentle Mates,"Cypher,Fade,Neon,Omen,Raze","Fade,Neon,Omen,Raze,Vyse",True
+660381,VCT 2026: EMEA Stage 1,2026-05-07,Fracture,Eternal Fire,Team Heretics,"Astra,Breach,Cypher,Tejo,Waylay","Brimstone,Cypher,Fade,Neon,Raze",False
+660381,VCT 2026: EMEA Stage 1,2026-05-07,Fracture,Team Heretics,Eternal Fire,"Brimstone,Cypher,Fade,Neon,Raze","Astra,Breach,Cypher,Tejo,Waylay",True
+660381,VCT 2026: EMEA Stage 1,2026-05-07,Pearl,Eternal Fire,Team Heretics,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Cypher,Fade,Neon,Phoenix",True
+660381,VCT 2026: EMEA Stage 1,2026-05-07,Pearl,Team Heretics,Eternal Fire,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Cypher,Fade,Neon,Phoenix",False
+660381,VCT 2026: EMEA Stage 1,2026-05-07,Lotus,Eternal Fire,Team Heretics,"Cypher,Fade,Neon,Omen,Raze","Fade,Neon,Omen,Raze,Vyse",True
+660381,VCT 2026: EMEA Stage 1,2026-05-07,Lotus,Team Heretics,Eternal Fire,"Fade,Neon,Omen,Raze,Vyse","Cypher,Fade,Neon,Omen,Raze",False
+660382,VCT 2026: EMEA Stage 1,2026-05-07,Pearl,Team Liquid,Team Vitality,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Kayo,Neon,Sova",False
+660382,VCT 2026: EMEA Stage 1,2026-05-07,Pearl,Team Vitality,Team Liquid,"Astra,Chamber,Kayo,Neon,Sova","Astra,Fade,Killjoy,Neon,Phoenix",True
+660382,VCT 2026: EMEA Stage 1,2026-05-07,Ascent,Team Liquid,Team Vitality,"Cypher,Neon,Omen,Phoenix,Sova","Neon,Omen,Phoenix,Sova,Vyse",True
+660382,VCT 2026: EMEA Stage 1,2026-05-07,Ascent,Team Vitality,Team Liquid,"Neon,Omen,Phoenix,Sova,Vyse","Cypher,Neon,Omen,Phoenix,Sova",False
+660382,VCT 2026: EMEA Stage 1,2026-05-07,Lotus,Team Liquid,Team Vitality,"Cypher,Fade,Neon,Omen,Raze","Fade,Omen,Raze,Viper,Vyse",False
+660382,VCT 2026: EMEA Stage 1,2026-05-07,Lotus,Team Vitality,Team Liquid,"Fade,Omen,Raze,Viper,Vyse","Cypher,Fade,Neon,Omen,Raze",True
+660383,VCT 2026: EMEA Stage 1,2026-05-08,Pearl,FUT Esports,Eternal Fire,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Cypher,Fade,Neon,Phoenix",False
+660383,VCT 2026: EMEA Stage 1,2026-05-08,Pearl,Eternal Fire,FUT Esports,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Cypher,Fade,Neon,Phoenix",True
+660383,VCT 2026: EMEA Stage 1,2026-05-08,Ascent,FUT Esports,Eternal Fire,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Kayo,Omen,Sova,Waylay",True
+660383,VCT 2026: EMEA Stage 1,2026-05-08,Ascent,Eternal Fire,FUT Esports,"Cypher,Kayo,Omen,Sova,Waylay","Cypher,Neon,Omen,Phoenix,Sova",False
+660383,VCT 2026: EMEA Stage 1,2026-05-08,Split,FUT Esports,Eternal Fire,"Neon,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Raze,Viper",True
+660383,VCT 2026: EMEA Stage 1,2026-05-08,Split,Eternal Fire,FUT Esports,"Fade,Neon,Omen,Raze,Viper","Neon,Omen,Raze,Skye,Viper",False
+660384,VCT 2026: EMEA Stage 1,2026-05-08,Breeze,FNATIC,Team Vitality,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+660384,VCT 2026: EMEA Stage 1,2026-05-08,Breeze,Team Vitality,FNATIC,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",True
+660384,VCT 2026: EMEA Stage 1,2026-05-08,Haven,FNATIC,Team Vitality,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+660384,VCT 2026: EMEA Stage 1,2026-05-08,Haven,Team Vitality,FNATIC,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",True
+660387,VCT 2026: EMEA Stage 1,2026-05-09,Breeze,Team Heretics,BBL Esports,"Chamber,Neon,Sage,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+660387,VCT 2026: EMEA Stage 1,2026-05-09,Breeze,BBL Esports,Team Heretics,"Jett,Neon,Omen,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",False
+660387,VCT 2026: EMEA Stage 1,2026-05-09,Ascent,Team Heretics,BBL Esports,"Cypher,Jett,Neon,Omen,Sova","Cypher,Deadlock,Jett,Omen,Sova",True
+660387,VCT 2026: EMEA Stage 1,2026-05-09,Ascent,BBL Esports,Team Heretics,"Cypher,Deadlock,Jett,Omen,Sova","Cypher,Jett,Neon,Omen,Sova",False
+660388,VCT 2026: EMEA Stage 1,2026-05-09,Split,Team Liquid,Gentle Mates,"Astra,Neon,Raze,Skye,Viper","Astra,Jett,Raze,Skye,Viper",True
+660388,VCT 2026: EMEA Stage 1,2026-05-09,Split,Gentle Mates,Team Liquid,"Astra,Jett,Raze,Skye,Viper","Astra,Neon,Raze,Skye,Viper",False
+660388,VCT 2026: EMEA Stage 1,2026-05-09,Ascent,Team Liquid,Gentle Mates,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Jett,Omen,Phoenix,Sova",False
+660388,VCT 2026: EMEA Stage 1,2026-05-09,Ascent,Gentle Mates,Team Liquid,"Cypher,Jett,Omen,Phoenix,Sova","Cypher,Neon,Omen,Phoenix,Sova",True
+660388,VCT 2026: EMEA Stage 1,2026-05-09,Fracture,Team Liquid,Gentle Mates,"Breach,Brimstone,Killjoy,Neon,Raze","Astra,Cypher,Fade,Phoenix,Raze",False
+660388,VCT 2026: EMEA Stage 1,2026-05-09,Fracture,Gentle Mates,Team Liquid,"Astra,Cypher,Fade,Phoenix,Raze","Breach,Brimstone,Killjoy,Neon,Raze",True
+660389,VCT 2026: EMEA Stage 1,2026-05-10,Fracture,FNATIC,Team Heretics,"Brimstone,Cypher,Fade,Neon,Phoenix","Brimstone,Cypher,Fade,Neon,Raze",True
+660389,VCT 2026: EMEA Stage 1,2026-05-10,Fracture,Team Heretics,FNATIC,"Brimstone,Cypher,Fade,Neon,Raze","Brimstone,Cypher,Fade,Neon,Phoenix",False
+660389,VCT 2026: EMEA Stage 1,2026-05-10,Lotus,FNATIC,Team Heretics,"Fade,Killjoy,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Vyse",False
+660389,VCT 2026: EMEA Stage 1,2026-05-10,Lotus,Team Heretics,FNATIC,"Fade,Neon,Omen,Raze,Vyse","Fade,Killjoy,Neon,Omen,Viper",True
+660389,VCT 2026: EMEA Stage 1,2026-05-10,Ascent,FNATIC,Team Heretics,"Jett,Kayo,Omen,Sova,Vyse","Cypher,Jett,Neon,Omen,Sova",False
+660389,VCT 2026: EMEA Stage 1,2026-05-10,Ascent,Team Heretics,FNATIC,"Cypher,Jett,Neon,Omen,Sova","Jett,Kayo,Omen,Sova,Vyse",True
+660390,VCT 2026: EMEA Stage 1,2026-05-10,Ascent,Eternal Fire,Gentle Mates,"Astra,Cypher,Jett,Phoenix,Sova","Cypher,Jett,Omen,Phoenix,Sova",True
+660390,VCT 2026: EMEA Stage 1,2026-05-10,Ascent,Gentle Mates,Eternal Fire,"Cypher,Jett,Omen,Phoenix,Sova","Astra,Cypher,Jett,Phoenix,Sova",False
+660390,VCT 2026: EMEA Stage 1,2026-05-10,Lotus,Eternal Fire,Gentle Mates,"Cypher,Fade,Neon,Omen,Raze","Cypher,Fade,Jett,Omen,Raze",True
+660390,VCT 2026: EMEA Stage 1,2026-05-10,Lotus,Gentle Mates,Eternal Fire,"Cypher,Fade,Jett,Omen,Raze","Cypher,Fade,Neon,Omen,Raze",False
+660385,VCT 2026: EMEA Stage 1,2026-05-15,Pearl,FUT Esports,Team Vitality,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Chamber,Kayo,Neon,Sova",False
+660385,VCT 2026: EMEA Stage 1,2026-05-15,Pearl,Team Vitality,FUT Esports,"Astra,Chamber,Kayo,Neon,Sova","Astra,Cypher,Fade,Neon,Phoenix",True
+660385,VCT 2026: EMEA Stage 1,2026-05-15,Ascent,FUT Esports,Team Vitality,"Cypher,Neon,Omen,Phoenix,Sova","Neon,Omen,Phoenix,Sova,Vyse",True
+660385,VCT 2026: EMEA Stage 1,2026-05-15,Ascent,Team Vitality,FUT Esports,"Neon,Omen,Phoenix,Sova,Vyse","Cypher,Neon,Omen,Phoenix,Sova",False
+660385,VCT 2026: EMEA Stage 1,2026-05-15,Split,FUT Esports,Team Vitality,"Neon,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Raze,Viper",False
+660385,VCT 2026: EMEA Stage 1,2026-05-15,Split,Team Vitality,FUT Esports,"Fade,Neon,Omen,Raze,Viper","Neon,Omen,Raze,Skye,Viper",True
+660391,VCT 2026: EMEA Stage 1,2026-05-15,Lotus,Team Heretics,Eternal Fire,"Fade,Neon,Omen,Raze,Vyse","Cypher,Fade,Neon,Omen,Raze",False
+660391,VCT 2026: EMEA Stage 1,2026-05-15,Lotus,Eternal Fire,Team Heretics,"Cypher,Fade,Neon,Omen,Raze","Fade,Neon,Omen,Raze,Vyse",True
+660391,VCT 2026: EMEA Stage 1,2026-05-15,Fracture,Team Heretics,Eternal Fire,"Brimstone,Cypher,Fade,Neon,Raze","Astra,Cypher,Fade,Neon,Raze",True
+660391,VCT 2026: EMEA Stage 1,2026-05-15,Fracture,Eternal Fire,Team Heretics,"Astra,Cypher,Fade,Neon,Raze","Brimstone,Cypher,Fade,Neon,Raze",False
+660391,VCT 2026: EMEA Stage 1,2026-05-15,Ascent,Team Heretics,Eternal Fire,"Cypher,Jett,Neon,Omen,Sova","Astra,Cypher,Jett,Phoenix,Sova",True
+660391,VCT 2026: EMEA Stage 1,2026-05-15,Ascent,Eternal Fire,Team Heretics,"Astra,Cypher,Jett,Phoenix,Sova","Cypher,Jett,Neon,Omen,Sova",False
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Haven,FUT Esports,Team Heretics,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Jett,Neon,Omen,Sova",True
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Haven,Team Heretics,FUT Esports,"Cypher,Jett,Neon,Omen,Sova","Cypher,Neon,Omen,Sova,Waylay",False
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Lotus,FUT Esports,Team Heretics,"Fade,Neon,Omen,Viper,Waylay","Fade,Neon,Omen,Raze,Vyse",False
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Lotus,Team Heretics,FUT Esports,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Waylay",True
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Ascent,FUT Esports,Team Heretics,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Jett,Neon,Omen,Sova",False
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Ascent,Team Heretics,FUT Esports,"Cypher,Jett,Neon,Omen,Sova","Cypher,Neon,Omen,Phoenix,Sova",True
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Breeze,FUT Esports,Team Heretics,"Jett,Neon,Omen,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",False
+660392,VCT 2026: EMEA Stage 1,2026-05-16,Breeze,Team Heretics,FUT Esports,"Chamber,Neon,Sage,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Breeze,Team Vitality,Team Heretics,"Harbor,Jett,Kayo,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",True
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Breeze,Team Heretics,Team Vitality,"Chamber,Neon,Sage,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Lotus,Team Vitality,Team Heretics,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",False
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Lotus,Team Heretics,Team Vitality,"Fade,Neon,Omen,Raze,Vyse","Fade,Omen,Raze,Viper,Vyse",True
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Split,Team Vitality,Team Heretics,"Fade,Neon,Omen,Raze,Viper","Astra,Fade,Neon,Raze,Vyse",False
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Split,Team Heretics,Team Vitality,"Astra,Fade,Neon,Raze,Vyse","Fade,Neon,Omen,Raze,Viper",True
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Haven,Team Vitality,Team Heretics,"Cypher,Neon,Omen,Phoenix,Sova","Cypher,Jett,Neon,Omen,Sova",False
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Haven,Team Heretics,Team Vitality,"Cypher,Jett,Neon,Omen,Sova","Cypher,Neon,Omen,Phoenix,Sova",True
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Pearl,Team Vitality,Team Heretics,"Astra,Chamber,Kayo,Neon,Sova","Astra,Cypher,Fade,Jett,Neon",True
+660386,VCT 2026: EMEA Stage 1,2026-05-17,Pearl,Team Heretics,Team Vitality,"Astra,Cypher,Fade,Jett,Neon","Astra,Chamber,Kayo,Neon,Sova",False
+644652,VCT 2026: Pacific Stage 1,2026-04-03,Bind,Gen.G,Global Esports,"Brimstone,Fade,Neon,Viper,Yoru","Brimstone,Deadlock,Gekko,Kayo,Neon",False
+644652,VCT 2026: Pacific Stage 1,2026-04-03,Bind,Global Esports,Gen.G,"Brimstone,Deadlock,Gekko,Kayo,Neon","Brimstone,Fade,Neon,Viper,Yoru",True
+644652,VCT 2026: Pacific Stage 1,2026-04-03,Split,Gen.G,Global Esports,"Cypher,Fade,Neon,Omen,Viper","Fade,Omen,Raze,Veto,Viper",False
+644652,VCT 2026: Pacific Stage 1,2026-04-03,Split,Global Esports,Gen.G,"Fade,Omen,Raze,Veto,Viper","Cypher,Fade,Neon,Omen,Viper",True
+644653,VCT 2026: Pacific Stage 1,2026-04-03,Haven,T1,VARREL,"Astra,Chamber,Neon,Phoenix,Skye","Cypher,Jett,Neon,Omen,Sova",True
+644653,VCT 2026: Pacific Stage 1,2026-04-03,Haven,VARREL,T1,"Cypher,Jett,Neon,Omen,Sova","Astra,Chamber,Neon,Phoenix,Skye",False
+644653,VCT 2026: Pacific Stage 1,2026-04-03,Pearl,T1,VARREL,"Astra,Chamber,Killjoy,Neon,Skye","Astra,Fade,Kayo,Killjoy,Waylay",True
+644653,VCT 2026: Pacific Stage 1,2026-04-03,Pearl,VARREL,T1,"Astra,Fade,Kayo,Killjoy,Waylay","Astra,Chamber,Killjoy,Neon,Skye",False
+644654,VCT 2026: Pacific Stage 1,2026-04-04,Fracture,Nongshim RedForce,Paper Rex,"Breach,Brimstone,Cypher,Neon,Tejo","Breach,Brimstone,Killjoy,Neon,Raze",True
+644654,VCT 2026: Pacific Stage 1,2026-04-04,Fracture,Paper Rex,Nongshim RedForce,"Breach,Brimstone,Killjoy,Neon,Raze","Breach,Brimstone,Cypher,Neon,Tejo",False
+644654,VCT 2026: Pacific Stage 1,2026-04-04,Split,Nongshim RedForce,Paper Rex,"Fade,Neon,Omen,Viper,Waylay","Jett,Omen,Raze,Skye,Viper",False
+644654,VCT 2026: Pacific Stage 1,2026-04-04,Split,Paper Rex,Nongshim RedForce,"Jett,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Viper,Waylay",True
+644654,VCT 2026: Pacific Stage 1,2026-04-04,Lotus,Nongshim RedForce,Paper Rex,"Fade,Neon,Omen,Viper,Waylay","Fade,Neon,Omen,Raze,Vyse",False
+644654,VCT 2026: Pacific Stage 1,2026-04-04,Lotus,Paper Rex,Nongshim RedForce,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Waylay",True
+644655,VCT 2026: Pacific Stage 1,2026-04-04,Pearl,FULL SENSE,DetonatioN FocusMe,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Killjoy,Sova,Tejo,Waylay",True
+644655,VCT 2026: Pacific Stage 1,2026-04-04,Pearl,DetonatioN FocusMe,FULL SENSE,"Astra,Killjoy,Sova,Tejo,Waylay","Astra,Cypher,Fade,Neon,Phoenix",False
+644655,VCT 2026: Pacific Stage 1,2026-04-04,Bind,FULL SENSE,DetonatioN FocusMe,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+644655,VCT 2026: Pacific Stage 1,2026-04-04,Bind,DetonatioN FocusMe,FULL SENSE,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+644656,VCT 2026: Pacific Stage 1,2026-04-05,Pearl,Team Secret,KIWOOM DRX,"Astra,Chamber,Killjoy,Neon,Skye","Astra,Chamber,Fade,Neon,Phoenix",False
+644656,VCT 2026: Pacific Stage 1,2026-04-05,Pearl,KIWOOM DRX,Team Secret,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Chamber,Killjoy,Neon,Skye",True
+644656,VCT 2026: Pacific Stage 1,2026-04-05,Fracture,Team Secret,KIWOOM DRX,"Brimstone,Cypher,Neon,Skye,Tejo","Breach,Brimstone,Cypher,Tejo,Waylay",False
+644656,VCT 2026: Pacific Stage 1,2026-04-05,Fracture,KIWOOM DRX,Team Secret,"Breach,Brimstone,Cypher,Tejo,Waylay","Brimstone,Cypher,Neon,Skye,Tejo",True
+644657,VCT 2026: Pacific Stage 1,2026-04-05,Split,Rex Regum Qeon,ZETA DIVISION,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+644657,VCT 2026: Pacific Stage 1,2026-04-05,Split,ZETA DIVISION,Rex Regum Qeon,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+644657,VCT 2026: Pacific Stage 1,2026-04-05,Fracture,Rex Regum Qeon,ZETA DIVISION,"Brimstone,Neon,Raze,Skye,Veto","Breach,Brimstone,Neon,Veto,Waylay",True
+644657,VCT 2026: Pacific Stage 1,2026-04-05,Fracture,ZETA DIVISION,Rex Regum Qeon,"Breach,Brimstone,Neon,Veto,Waylay","Brimstone,Neon,Raze,Skye,Veto",False
+644657,VCT 2026: Pacific Stage 1,2026-04-05,Haven,Rex Regum Qeon,ZETA DIVISION,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Sova,Waylay",True
+644657,VCT 2026: Pacific Stage 1,2026-04-05,Haven,ZETA DIVISION,Rex Regum Qeon,"Cypher,Neon,Omen,Sova,Waylay","Killjoy,Neon,Omen,Sova,Viper",False
+644658,VCT 2026: Pacific Stage 1,2026-04-10,Pearl,DetonatioN FocusMe,T1,"Astra,Killjoy,Sova,Tejo,Waylay","Astra,Chamber,Killjoy,Neon,Skye",False
+644658,VCT 2026: Pacific Stage 1,2026-04-10,Pearl,T1,DetonatioN FocusMe,"Astra,Chamber,Killjoy,Neon,Skye","Astra,Killjoy,Sova,Tejo,Waylay",True
+644658,VCT 2026: Pacific Stage 1,2026-04-10,Lotus,DetonatioN FocusMe,T1,"Fade,Iso,Neon,Omen,Viper","Fade,Killjoy,Neon,Omen,Viper",False
+644658,VCT 2026: Pacific Stage 1,2026-04-10,Lotus,T1,DetonatioN FocusMe,"Fade,Killjoy,Neon,Omen,Viper","Fade,Iso,Neon,Omen,Viper",True
+644659,VCT 2026: Pacific Stage 1,2026-04-10,Haven,Nongshim RedForce,KIWOOM DRX,"Breach,Killjoy,Neon,Omen,Sova","Cypher,Neon,Omen,Phoenix,Sova",False
+644659,VCT 2026: Pacific Stage 1,2026-04-10,Haven,KIWOOM DRX,Nongshim RedForce,"Cypher,Neon,Omen,Phoenix,Sova","Breach,Killjoy,Neon,Omen,Sova",True
+644659,VCT 2026: Pacific Stage 1,2026-04-10,Fracture,Nongshim RedForce,KIWOOM DRX,"Breach,Brimstone,Cypher,Neon,Tejo","Breach,Brimstone,Cypher,Tejo,Waylay",True
+644659,VCT 2026: Pacific Stage 1,2026-04-10,Fracture,KIWOOM DRX,Nongshim RedForce,"Breach,Brimstone,Cypher,Tejo,Waylay","Breach,Brimstone,Cypher,Neon,Tejo",False
+644659,VCT 2026: Pacific Stage 1,2026-04-10,Lotus,Nongshim RedForce,KIWOOM DRX,"Breach,Fade,Neon,Omen,Vyse","Chamber,Fade,Neon,Omen,Raze",False
+644659,VCT 2026: Pacific Stage 1,2026-04-10,Lotus,KIWOOM DRX,Nongshim RedForce,"Chamber,Fade,Neon,Omen,Raze","Breach,Fade,Neon,Omen,Vyse",True
+644660,VCT 2026: Pacific Stage 1,2026-04-11,Split,Team Secret,Global Esports,"Astra,Cypher,Neon,Skye,Viper","Fade,Omen,Raze,Veto,Viper",False
+644660,VCT 2026: Pacific Stage 1,2026-04-11,Split,Global Esports,Team Secret,"Fade,Omen,Raze,Veto,Viper","Astra,Cypher,Neon,Skye,Viper",True
+644660,VCT 2026: Pacific Stage 1,2026-04-11,Lotus,Team Secret,Global Esports,"Fade,Neon,Omen,Viper,Vyse","Astra,Deadlock,Fade,Omen,Raze",False
+644660,VCT 2026: Pacific Stage 1,2026-04-11,Lotus,Global Esports,Team Secret,"Astra,Deadlock,Fade,Omen,Raze","Fade,Neon,Omen,Viper,Vyse",True
+644661,VCT 2026: Pacific Stage 1,2026-04-11,Bind,Rex Regum Qeon,VARREL,"Brimstone,Neon,Skye,Viper,Waylay","Astra,Chamber,Jett,Skye,Waylay",True
+644661,VCT 2026: Pacific Stage 1,2026-04-11,Bind,VARREL,Rex Regum Qeon,"Astra,Chamber,Jett,Skye,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+644661,VCT 2026: Pacific Stage 1,2026-04-11,Split,Rex Regum Qeon,VARREL,"Neon,Omen,Skye,Viper,Waylay","Astra,Deadlock,Jett,Skye,Tejo",True
+644661,VCT 2026: Pacific Stage 1,2026-04-11,Split,VARREL,Rex Regum Qeon,"Astra,Deadlock,Jett,Skye,Tejo","Neon,Omen,Skye,Viper,Waylay",False
+644662,VCT 2026: Pacific Stage 1,2026-04-12,Fracture,FULL SENSE,ZETA DIVISION,"Brimstone,Cypher,Neon,Skye,Waylay","Breach,Brimstone,Neon,Veto,Waylay",True
+644662,VCT 2026: Pacific Stage 1,2026-04-12,Fracture,ZETA DIVISION,FULL SENSE,"Breach,Brimstone,Neon,Veto,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+644662,VCT 2026: Pacific Stage 1,2026-04-12,Split,FULL SENSE,ZETA DIVISION,"Cypher,Deadlock,Omen,Skye,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+644662,VCT 2026: Pacific Stage 1,2026-04-12,Split,ZETA DIVISION,FULL SENSE,"Neon,Omen,Skye,Viper,Waylay","Cypher,Deadlock,Omen,Skye,Waylay",False
+644663,VCT 2026: Pacific Stage 1,2026-04-12,Haven,Gen.G,Paper Rex,"Chamber,Fade,Neon,Omen,Phoenix","Chamber,Neon,Omen,Phoenix,Sova",True
+644663,VCT 2026: Pacific Stage 1,2026-04-12,Haven,Paper Rex,Gen.G,"Chamber,Neon,Omen,Phoenix,Sova","Chamber,Fade,Neon,Omen,Phoenix",False
+644663,VCT 2026: Pacific Stage 1,2026-04-12,Fracture,Gen.G,Paper Rex,"Breach,Brimstone,Cypher,Neon,Waylay","Breach,Brimstone,Killjoy,Neon,Raze",False
+644663,VCT 2026: Pacific Stage 1,2026-04-12,Fracture,Paper Rex,Gen.G,"Breach,Brimstone,Killjoy,Neon,Raze","Breach,Brimstone,Cypher,Neon,Waylay",True
+644663,VCT 2026: Pacific Stage 1,2026-04-12,Lotus,Gen.G,Paper Rex,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+644663,VCT 2026: Pacific Stage 1,2026-04-12,Lotus,Paper Rex,Gen.G,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Raze,Vyse",False
+644665,VCT 2026: Pacific Stage 1,2026-04-17,Haven,FULL SENSE,VARREL,"Cypher,Deadlock,Omen,Skye,Waylay","Astra,Chamber,Neon,Phoenix,Sova",True
+644665,VCT 2026: Pacific Stage 1,2026-04-17,Haven,VARREL,FULL SENSE,"Astra,Chamber,Neon,Phoenix,Sova","Cypher,Deadlock,Omen,Skye,Waylay",False
+644665,VCT 2026: Pacific Stage 1,2026-04-17,Lotus,FULL SENSE,VARREL,"Fade,Neon,Omen,Phoenix,Vyse","Fade,Neon,Omen,Raze,Viper",True
+644665,VCT 2026: Pacific Stage 1,2026-04-17,Lotus,VARREL,FULL SENSE,"Fade,Neon,Omen,Raze,Viper","Fade,Neon,Omen,Phoenix,Vyse",False
+644666,VCT 2026: Pacific Stage 1,2026-04-17,Breeze,Team Secret,Paper Rex,"Astra,Jett,Kayo,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+644666,VCT 2026: Pacific Stage 1,2026-04-17,Breeze,Paper Rex,Team Secret,"Jett,Neon,Omen,Sova,Viper","Astra,Jett,Kayo,Sova,Viper",True
+644666,VCT 2026: Pacific Stage 1,2026-04-17,Split,Team Secret,Paper Rex,"Cypher,Neon,Omen,Skye,Viper","Jett,Omen,Raze,Skye,Viper",False
+644666,VCT 2026: Pacific Stage 1,2026-04-17,Split,Paper Rex,Team Secret,"Jett,Omen,Raze,Skye,Viper","Cypher,Neon,Omen,Skye,Viper",True
+644667,VCT 2026: Pacific Stage 1,2026-04-18,Fracture,KIWOOM DRX,Global Esports,"Breach,Brimstone,Cypher,Neon,Raze","Breach,Brimstone,Deadlock,Raze,Tejo",True
+644667,VCT 2026: Pacific Stage 1,2026-04-18,Fracture,Global Esports,KIWOOM DRX,"Breach,Brimstone,Deadlock,Raze,Tejo","Breach,Brimstone,Cypher,Neon,Raze",False
+644667,VCT 2026: Pacific Stage 1,2026-04-18,Haven,KIWOOM DRX,Global Esports,"Chamber,Jett,Neon,Omen,Skye","Cypher,Deadlock,Omen,Skye,Waylay",True
+644667,VCT 2026: Pacific Stage 1,2026-04-18,Haven,Global Esports,KIWOOM DRX,"Cypher,Deadlock,Omen,Skye,Waylay","Chamber,Jett,Neon,Omen,Skye",False
+644668,VCT 2026: Pacific Stage 1,2026-04-18,Bind,ZETA DIVISION,DetonatioN FocusMe,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+644668,VCT 2026: Pacific Stage 1,2026-04-18,Bind,DetonatioN FocusMe,ZETA DIVISION,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+644668,VCT 2026: Pacific Stage 1,2026-04-18,Lotus,ZETA DIVISION,DetonatioN FocusMe,"Fade,Neon,Omen,Viper,Waylay","Fade,Neon,Omen,Raze,Vyse",False
+644668,VCT 2026: Pacific Stage 1,2026-04-18,Lotus,DetonatioN FocusMe,ZETA DIVISION,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Waylay",True
+644668,VCT 2026: Pacific Stage 1,2026-04-18,Pearl,ZETA DIVISION,DetonatioN FocusMe,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Killjoy,Sova,Tejo,Waylay",False
+644668,VCT 2026: Pacific Stage 1,2026-04-18,Pearl,DetonatioN FocusMe,ZETA DIVISION,"Astra,Killjoy,Sova,Tejo,Waylay","Astra,Cypher,Fade,Neon,Phoenix",True
+644669,VCT 2026: Pacific Stage 1,2026-04-19,Pearl,Rex Regum Qeon,T1,"Astra,Chamber,Kayo,Neon,Sova","Astra,Chamber,Killjoy,Neon,Skye",False
+644669,VCT 2026: Pacific Stage 1,2026-04-19,Pearl,T1,Rex Regum Qeon,"Astra,Chamber,Killjoy,Neon,Skye","Astra,Chamber,Kayo,Neon,Sova",True
+644669,VCT 2026: Pacific Stage 1,2026-04-19,Bind,Rex Regum Qeon,T1,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Chamber,Neon,Skye,Viper",False
+644669,VCT 2026: Pacific Stage 1,2026-04-19,Bind,T1,Rex Regum Qeon,"Brimstone,Chamber,Neon,Skye,Viper","Brimstone,Neon,Skye,Viper,Waylay",True
+644670,VCT 2026: Pacific Stage 1,2026-04-19,Pearl,Nongshim RedForce,Gen.G,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Fade,Killjoy,Neon,Phoenix",True
+644670,VCT 2026: Pacific Stage 1,2026-04-19,Pearl,Gen.G,Nongshim RedForce,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Fade,Neon,Phoenix",False
+644670,VCT 2026: Pacific Stage 1,2026-04-19,Breeze,Nongshim RedForce,Gen.G,"Harbor,Neon,Phoenix,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+644670,VCT 2026: Pacific Stage 1,2026-04-19,Breeze,Gen.G,Nongshim RedForce,"Harbor,Jett,Kayo,Sova,Viper","Harbor,Neon,Phoenix,Sova,Viper",False
+644671,VCT 2026: Pacific Stage 1,2026-04-24,Pearl,Rex Regum Qeon,FULL SENSE,"Astra,Chamber,Kayo,Neon,Sova","Astra,Cypher,Fade,Neon,Phoenix",False
+644671,VCT 2026: Pacific Stage 1,2026-04-24,Pearl,FULL SENSE,Rex Regum Qeon,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Chamber,Kayo,Neon,Sova",True
+644671,VCT 2026: Pacific Stage 1,2026-04-24,Haven,Rex Regum Qeon,FULL SENSE,"Cypher,Jett,Neon,Omen,Sova","Cypher,Deadlock,Omen,Skye,Waylay",True
+644671,VCT 2026: Pacific Stage 1,2026-04-24,Haven,FULL SENSE,Rex Regum Qeon,"Cypher,Deadlock,Omen,Skye,Waylay","Cypher,Jett,Neon,Omen,Sova",False
+644671,VCT 2026: Pacific Stage 1,2026-04-24,Fracture,Rex Regum Qeon,FULL SENSE,"Brimstone,Neon,Raze,Skye,Veto","Brimstone,Cypher,Neon,Skye,Waylay",True
+644671,VCT 2026: Pacific Stage 1,2026-04-24,Fracture,FULL SENSE,Rex Regum Qeon,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Neon,Raze,Skye,Veto",False
+644672,VCT 2026: Pacific Stage 1,2026-04-24,Split,Paper Rex,Global Esports,"Jett,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Viper,Vyse",True
+644672,VCT 2026: Pacific Stage 1,2026-04-24,Split,Global Esports,Paper Rex,"Fade,Neon,Omen,Viper,Vyse","Jett,Omen,Raze,Skye,Viper",False
+644672,VCT 2026: Pacific Stage 1,2026-04-24,Pearl,Paper Rex,Global Esports,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Chamber,Fade,Neon,Tejo",True
+644672,VCT 2026: Pacific Stage 1,2026-04-24,Pearl,Global Esports,Paper Rex,"Astra,Chamber,Fade,Neon,Tejo","Astra,Fade,Jett,Phoenix,Vyse",False
+644673,VCT 2026: Pacific Stage 1,2026-04-25,Haven,Gen.G,KIWOOM DRX,"Chamber,Fade,Neon,Omen,Phoenix","Chamber,Neon,Omen,Phoenix,Skye",True
+644673,VCT 2026: Pacific Stage 1,2026-04-25,Haven,KIWOOM DRX,Gen.G,"Chamber,Neon,Omen,Phoenix,Skye","Chamber,Fade,Neon,Omen,Phoenix",False
+644673,VCT 2026: Pacific Stage 1,2026-04-25,Pearl,Gen.G,KIWOOM DRX,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Chamber,Jett,Neon,Skye",False
+644673,VCT 2026: Pacific Stage 1,2026-04-25,Pearl,KIWOOM DRX,Gen.G,"Astra,Chamber,Jett,Neon,Skye","Astra,Chamber,Fade,Neon,Phoenix",True
+644673,VCT 2026: Pacific Stage 1,2026-04-25,Lotus,Gen.G,KIWOOM DRX,"Fade,Neon,Omen,Raze,Vyse","Chamber,Fade,Neon,Omen,Raze",False
+644673,VCT 2026: Pacific Stage 1,2026-04-25,Lotus,KIWOOM DRX,Gen.G,"Chamber,Fade,Neon,Omen,Raze","Fade,Neon,Omen,Raze,Vyse",True
+644674,VCT 2026: Pacific Stage 1,2026-04-25,Lotus,DetonatioN FocusMe,VARREL,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Raze,Viper",True
+644674,VCT 2026: Pacific Stage 1,2026-04-25,Lotus,VARREL,DetonatioN FocusMe,"Fade,Neon,Omen,Raze,Viper","Fade,Neon,Omen,Raze,Vyse",False
+644674,VCT 2026: Pacific Stage 1,2026-04-25,Haven,DetonatioN FocusMe,VARREL,"Cypher,Jett,Neon,Omen,Skye","Cypher,Deadlock,Omen,Skye,Waylay",False
+644674,VCT 2026: Pacific Stage 1,2026-04-25,Haven,VARREL,DetonatioN FocusMe,"Cypher,Deadlock,Omen,Skye,Waylay","Cypher,Jett,Neon,Omen,Skye",True
+644674,VCT 2026: Pacific Stage 1,2026-04-25,Fracture,DetonatioN FocusMe,VARREL,"Breach,Brimstone,Cypher,Neon,Tejo","Breach,Brimstone,Cypher,Neon,Raze",True
+644674,VCT 2026: Pacific Stage 1,2026-04-25,Fracture,VARREL,DetonatioN FocusMe,"Breach,Brimstone,Cypher,Neon,Raze","Breach,Brimstone,Cypher,Neon,Tejo",False
+644675,VCT 2026: Pacific Stage 1,2026-04-26,Haven,T1,ZETA DIVISION,"Chamber,Neon,Omen,Phoenix,Sova","Harbor,Killjoy,Neon,Omen,Skye",True
+644675,VCT 2026: Pacific Stage 1,2026-04-26,Haven,ZETA DIVISION,T1,"Harbor,Killjoy,Neon,Omen,Skye","Chamber,Neon,Omen,Phoenix,Sova",False
+644675,VCT 2026: Pacific Stage 1,2026-04-26,Lotus,T1,ZETA DIVISION,"Fade,Killjoy,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Vyse",True
+644675,VCT 2026: Pacific Stage 1,2026-04-26,Lotus,ZETA DIVISION,T1,"Fade,Neon,Omen,Raze,Vyse","Fade,Killjoy,Neon,Omen,Viper",False
+644676,VCT 2026: Pacific Stage 1,2026-04-26,Breeze,Nongshim RedForce,Team Secret,"Harbor,Neon,Phoenix,Sova,Viper","Astra,Kayo,Neon,Sova,Viper",True
+644676,VCT 2026: Pacific Stage 1,2026-04-26,Breeze,Team Secret,Nongshim RedForce,"Astra,Kayo,Neon,Sova,Viper","Harbor,Neon,Phoenix,Sova,Viper",False
+644676,VCT 2026: Pacific Stage 1,2026-04-26,Fracture,Nongshim RedForce,Team Secret,"Brimstone,Cypher,Neon,Raze,Skye","Brimstone,Cypher,Neon,Skye,Tejo",False
+644676,VCT 2026: Pacific Stage 1,2026-04-26,Fracture,Team Secret,Nongshim RedForce,"Brimstone,Cypher,Neon,Skye,Tejo","Brimstone,Cypher,Neon,Raze,Skye",True
+644676,VCT 2026: Pacific Stage 1,2026-04-26,Pearl,Nongshim RedForce,Team Secret,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Chamber,Killjoy,Neon,Skye",True
+644676,VCT 2026: Pacific Stage 1,2026-04-26,Pearl,Team Secret,Nongshim RedForce,"Astra,Chamber,Killjoy,Neon,Skye","Astra,Chamber,Fade,Neon,Phoenix",False
+644677,VCT 2026: Pacific Stage 1,2026-05-01,Split,Gen.G,Team Secret,"Astra,Fade,Neon,Raze,Vyse","Cypher,Neon,Omen,Skye,Viper",False
+644677,VCT 2026: Pacific Stage 1,2026-05-01,Split,Team Secret,Gen.G,"Cypher,Neon,Omen,Skye,Viper","Astra,Fade,Neon,Raze,Vyse",True
+644677,VCT 2026: Pacific Stage 1,2026-05-01,Lotus,Gen.G,Team Secret,"Fade,Neon,Omen,Raze,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+644677,VCT 2026: Pacific Stage 1,2026-05-01,Lotus,Team Secret,Gen.G,"Fade,Neon,Omen,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",False
+644677,VCT 2026: Pacific Stage 1,2026-05-01,Breeze,Gen.G,Team Secret,"Jett,Neon,Omen,Sova,Viper","Astra,Kayo,Neon,Sova,Viper",False
+644677,VCT 2026: Pacific Stage 1,2026-05-01,Breeze,Team Secret,Gen.G,"Astra,Kayo,Neon,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+644678,VCT 2026: Pacific Stage 1,2026-05-01,Bind,VARREL,ZETA DIVISION,"Brimstone,Neon,Phoenix,Skye,Viper","Brimstone,Neon,Raze,Skye,Viper",True
+644678,VCT 2026: Pacific Stage 1,2026-05-01,Bind,ZETA DIVISION,VARREL,"Brimstone,Neon,Raze,Skye,Viper","Brimstone,Neon,Phoenix,Skye,Viper",False
+644678,VCT 2026: Pacific Stage 1,2026-05-01,Breeze,VARREL,ZETA DIVISION,"Chamber,Neon,Omen,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",False
+644678,VCT 2026: Pacific Stage 1,2026-05-01,Breeze,ZETA DIVISION,VARREL,"Harbor,Kayo,Neon,Sova,Viper","Chamber,Neon,Omen,Sova,Viper",True
+644678,VCT 2026: Pacific Stage 1,2026-05-01,Fracture,VARREL,ZETA DIVISION,"Breach,Brimstone,Neon,Tejo,Waylay","Breach,Brimstone,Cypher,Neon,Raze",False
+644678,VCT 2026: Pacific Stage 1,2026-05-01,Fracture,ZETA DIVISION,VARREL,"Breach,Brimstone,Cypher,Neon,Raze","Breach,Brimstone,Neon,Tejo,Waylay",True
+644679,VCT 2026: Pacific Stage 1,2026-05-02,Pearl,T1,FULL SENSE,"Astra,Killjoy,Neon,Sova,Tejo","Astra,Cypher,Fade,Neon,Phoenix",True
+644679,VCT 2026: Pacific Stage 1,2026-05-02,Pearl,FULL SENSE,T1,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Killjoy,Neon,Sova,Tejo",False
+644679,VCT 2026: Pacific Stage 1,2026-05-02,Bind,T1,FULL SENSE,"Brimstone,Chamber,Neon,Skye,Viper","Brimstone,Neon,Raze,Skye,Viper",False
+644679,VCT 2026: Pacific Stage 1,2026-05-02,Bind,FULL SENSE,T1,"Brimstone,Neon,Raze,Skye,Viper","Brimstone,Chamber,Neon,Skye,Viper",True
+644679,VCT 2026: Pacific Stage 1,2026-05-02,Breeze,T1,FULL SENSE,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Jett,Neon,Sova,Viper",True
+644679,VCT 2026: Pacific Stage 1,2026-05-02,Breeze,FULL SENSE,T1,"Harbor,Jett,Neon,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",False
+644680,VCT 2026: Pacific Stage 1,2026-05-02,Breeze,Nongshim RedForce,Global Esports,"Harbor,Neon,Phoenix,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",False
+644680,VCT 2026: Pacific Stage 1,2026-05-02,Breeze,Global Esports,Nongshim RedForce,"Chamber,Neon,Sage,Sova,Viper","Harbor,Neon,Phoenix,Sova,Viper",True
+644680,VCT 2026: Pacific Stage 1,2026-05-02,Bind,Nongshim RedForce,Global Esports,"Brimstone,Neon,Raze,Skye,Viper","Brimstone,Deadlock,Gekko,Kayo,Neon",True
+644680,VCT 2026: Pacific Stage 1,2026-05-02,Bind,Global Esports,Nongshim RedForce,"Brimstone,Deadlock,Gekko,Kayo,Neon","Brimstone,Neon,Raze,Skye,Viper",False
+644680,VCT 2026: Pacific Stage 1,2026-05-02,Haven,Nongshim RedForce,Global Esports,"Chamber,Neon,Omen,Phoenix,Sova","Cypher,Deadlock,Neon,Omen,Sova",False
+644680,VCT 2026: Pacific Stage 1,2026-05-02,Haven,Global Esports,Nongshim RedForce,"Cypher,Deadlock,Neon,Omen,Sova","Chamber,Neon,Omen,Phoenix,Sova",True
+644681,VCT 2026: Pacific Stage 1,2026-05-03,Breeze,Paper Rex,KIWOOM DRX,"Jett,Neon,Omen,Sova,Viper","Harbor,Neon,Phoenix,Sova,Viper",True
+644681,VCT 2026: Pacific Stage 1,2026-05-03,Breeze,KIWOOM DRX,Paper Rex,"Harbor,Neon,Phoenix,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+644681,VCT 2026: Pacific Stage 1,2026-05-03,Lotus,Paper Rex,KIWOOM DRX,"Jett,Omen,Raze,Skye,Vyse","Chamber,Fade,Neon,Omen,Raze",True
+644681,VCT 2026: Pacific Stage 1,2026-05-03,Lotus,KIWOOM DRX,Paper Rex,"Chamber,Fade,Neon,Omen,Raze","Jett,Omen,Raze,Skye,Vyse",False
+644682,VCT 2026: Pacific Stage 1,2026-05-03,Haven,Rex Regum Qeon,DetonatioN FocusMe,"Cypher,Jett,Neon,Omen,Sova","Cypher,Jett,Neon,Omen,Skye",False
+644682,VCT 2026: Pacific Stage 1,2026-05-03,Haven,DetonatioN FocusMe,Rex Regum Qeon,"Cypher,Jett,Neon,Omen,Skye","Cypher,Jett,Neon,Omen,Sova",True
+644682,VCT 2026: Pacific Stage 1,2026-05-03,Lotus,Rex Regum Qeon,DetonatioN FocusMe,"Chamber,Fade,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Vyse",True
+644682,VCT 2026: Pacific Stage 1,2026-05-03,Lotus,DetonatioN FocusMe,Rex Regum Qeon,"Fade,Neon,Omen,Raze,Vyse","Chamber,Fade,Neon,Omen,Viper",False
+644682,VCT 2026: Pacific Stage 1,2026-05-03,Fracture,Rex Regum Qeon,DetonatioN FocusMe,"Brimstone,Neon,Raze,Skye,Veto","Breach,Brimstone,Cypher,Neon,Tejo",True
+644682,VCT 2026: Pacific Stage 1,2026-05-03,Fracture,DetonatioN FocusMe,Rex Regum Qeon,"Breach,Brimstone,Cypher,Neon,Tejo","Brimstone,Neon,Raze,Skye,Veto",False
+666488,VCT 2026: Pacific Stage 1,2026-05-07,Breeze,Rex Regum Qeon,Global Esports,"Harbor,Kayo,Neon,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",False
+666488,VCT 2026: Pacific Stage 1,2026-05-07,Breeze,Global Esports,Rex Regum Qeon,"Chamber,Neon,Sage,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",True
+666488,VCT 2026: Pacific Stage 1,2026-05-07,Pearl,Rex Regum Qeon,Global Esports,"Astra,Chamber,Killjoy,Neon,Skye","Astra,Fade,Killjoy,Neon,Phoenix",False
+666488,VCT 2026: Pacific Stage 1,2026-05-07,Pearl,Global Esports,Rex Regum Qeon,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Killjoy,Neon,Skye",True
+666489,VCT 2026: Pacific Stage 1,2026-05-07,Lotus,KIWOOM DRX,FULL SENSE,"Fade,Neon,Omen,Raze,Vyse","Jett,Omen,Raze,Skye,Vyse",False
+666489,VCT 2026: Pacific Stage 1,2026-05-07,Lotus,FULL SENSE,KIWOOM DRX,"Jett,Omen,Raze,Skye,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+666489,VCT 2026: Pacific Stage 1,2026-05-07,Fracture,KIWOOM DRX,FULL SENSE,"Breach,Brimstone,Cypher,Neon,Raze","Brimstone,Cypher,Fade,Neon,Phoenix",False
+666489,VCT 2026: Pacific Stage 1,2026-05-07,Fracture,FULL SENSE,KIWOOM DRX,"Brimstone,Cypher,Fade,Neon,Phoenix","Breach,Brimstone,Cypher,Neon,Raze",True
+666490,VCT 2026: Pacific Stage 1,2026-05-08,Breeze,Paper Rex,Global Esports,"Jett,Neon,Omen,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",False
+666490,VCT 2026: Pacific Stage 1,2026-05-08,Breeze,Global Esports,Paper Rex,"Chamber,Neon,Sage,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+666490,VCT 2026: Pacific Stage 1,2026-05-08,Lotus,Paper Rex,Global Esports,"Jett,Omen,Raze,Skye,Vyse","Fade,Neon,Omen,Viper,Vyse",True
+666490,VCT 2026: Pacific Stage 1,2026-05-08,Lotus,Global Esports,Paper Rex,"Fade,Neon,Omen,Viper,Vyse","Jett,Omen,Raze,Skye,Vyse",False
+666490,VCT 2026: Pacific Stage 1,2026-05-08,Pearl,Paper Rex,Global Esports,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Fade,Killjoy,Neon,Phoenix",False
+666490,VCT 2026: Pacific Stage 1,2026-05-08,Pearl,Global Esports,Paper Rex,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Fade,Jett,Phoenix,Vyse",True
+666491,VCT 2026: Pacific Stage 1,2026-05-08,Pearl,T1,FULL SENSE,"Astra,Killjoy,Neon,Sova,Tejo","Astra,Fade,Jett,Phoenix,Vyse",False
+666491,VCT 2026: Pacific Stage 1,2026-05-08,Pearl,FULL SENSE,T1,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Killjoy,Neon,Sova,Tejo",True
+666491,VCT 2026: Pacific Stage 1,2026-05-08,Lotus,T1,FULL SENSE,"Fade,Killjoy,Neon,Omen,Viper","Jett,Omen,Raze,Skye,Vyse",False
+666491,VCT 2026: Pacific Stage 1,2026-05-08,Lotus,FULL SENSE,T1,"Jett,Omen,Raze,Skye,Vyse","Fade,Killjoy,Neon,Omen,Viper",True
+666494,VCT 2026: Pacific Stage 1,2026-05-09,Ascent,Rex Regum Qeon,DetonatioN FocusMe,"Chamber,Jett,Omen,Sova,Vyse","Cypher,Jett,Neon,Omen,Sova",False
+666494,VCT 2026: Pacific Stage 1,2026-05-09,Ascent,DetonatioN FocusMe,Rex Regum Qeon,"Cypher,Jett,Neon,Omen,Sova","Chamber,Jett,Omen,Sova,Vyse",True
+666494,VCT 2026: Pacific Stage 1,2026-05-09,Breeze,Rex Regum Qeon,DetonatioN FocusMe,"Harbor,Kayo,Neon,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+666494,VCT 2026: Pacific Stage 1,2026-05-09,Breeze,DetonatioN FocusMe,Rex Regum Qeon,"Jett,Neon,Omen,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",False
+666494,VCT 2026: Pacific Stage 1,2026-05-09,Lotus,Rex Regum Qeon,DetonatioN FocusMe,"Chamber,Fade,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Vyse",True
+666494,VCT 2026: Pacific Stage 1,2026-05-09,Lotus,DetonatioN FocusMe,Rex Regum Qeon,"Fade,Neon,Omen,Raze,Vyse","Chamber,Fade,Neon,Omen,Viper",False
+666495,VCT 2026: Pacific Stage 1,2026-05-09,Pearl,KIWOOM DRX,Nongshim RedForce,"Astra,Jett,Kayo,Killjoy,Tejo","Astra,Chamber,Fade,Neon,Phoenix",False
+666495,VCT 2026: Pacific Stage 1,2026-05-09,Pearl,Nongshim RedForce,KIWOOM DRX,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Jett,Kayo,Killjoy,Tejo",True
+666495,VCT 2026: Pacific Stage 1,2026-05-09,Split,KIWOOM DRX,Nongshim RedForce,"Astra,Jett,Raze,Skye,Vyse","Fade,Neon,Omen,Viper,Yoru",True
+666495,VCT 2026: Pacific Stage 1,2026-05-09,Split,Nongshim RedForce,KIWOOM DRX,"Fade,Neon,Omen,Viper,Yoru","Astra,Jett,Raze,Skye,Vyse",False
+666495,VCT 2026: Pacific Stage 1,2026-05-09,Haven,KIWOOM DRX,Nongshim RedForce,"Cypher,Jett,Neon,Omen,Sova","Killjoy,Neon,Omen,Sova,Yoru",True
+666495,VCT 2026: Pacific Stage 1,2026-05-09,Haven,Nongshim RedForce,KIWOOM DRX,"Killjoy,Neon,Omen,Sova,Yoru","Cypher,Jett,Neon,Omen,Sova",False
+666496,VCT 2026: Pacific Stage 1,2026-05-10,Haven,T1,Rex Regum Qeon,"Chamber,Neon,Omen,Phoenix,Sova","Cypher,Neon,Omen,Sova,Waylay",True
+666496,VCT 2026: Pacific Stage 1,2026-05-10,Haven,Rex Regum Qeon,T1,"Cypher,Neon,Omen,Sova,Waylay","Chamber,Neon,Omen,Phoenix,Sova",False
+666496,VCT 2026: Pacific Stage 1,2026-05-10,Lotus,T1,Rex Regum Qeon,"Fade,Killjoy,Neon,Omen,Viper","Chamber,Fade,Neon,Omen,Viper",False
+666496,VCT 2026: Pacific Stage 1,2026-05-10,Lotus,Rex Regum Qeon,T1,"Chamber,Fade,Neon,Omen,Viper","Fade,Killjoy,Neon,Omen,Viper",True
+666496,VCT 2026: Pacific Stage 1,2026-05-10,Breeze,T1,Rex Regum Qeon,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",True
+666496,VCT 2026: Pacific Stage 1,2026-05-10,Breeze,Rex Regum Qeon,T1,"Harbor,Kayo,Neon,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",False
+666497,VCT 2026: Pacific Stage 1,2026-05-10,Ascent,Paper Rex,KIWOOM DRX,"Omen,Sage,Sova,Vyse,Yoru","Jett,Omen,Sova,Vyse,Waylay",True
+666497,VCT 2026: Pacific Stage 1,2026-05-10,Ascent,KIWOOM DRX,Paper Rex,"Jett,Omen,Sova,Vyse,Waylay","Omen,Sage,Sova,Vyse,Yoru",False
+666497,VCT 2026: Pacific Stage 1,2026-05-10,Breeze,Paper Rex,KIWOOM DRX,"Jett,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+666497,VCT 2026: Pacific Stage 1,2026-05-10,Breeze,KIWOOM DRX,Paper Rex,"Harbor,Jett,Kayo,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+666497,VCT 2026: Pacific Stage 1,2026-05-10,Split,Paper Rex,KIWOOM DRX,"Jett,Omen,Raze,Skye,Viper","Astra,Jett,Raze,Skye,Vyse",True
+666497,VCT 2026: Pacific Stage 1,2026-05-10,Split,KIWOOM DRX,Paper Rex,"Astra,Jett,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Viper",False
+666492,VCT 2026: Pacific Stage 1,2026-05-15,Split,Global Esports,FULL SENSE,"Fade,Omen,Raze,Sage,Viper","Jett,Omen,Raze,Skye,Viper",False
+666492,VCT 2026: Pacific Stage 1,2026-05-15,Split,FULL SENSE,Global Esports,"Jett,Omen,Raze,Skye,Viper","Fade,Omen,Raze,Sage,Viper",True
+666492,VCT 2026: Pacific Stage 1,2026-05-15,Breeze,Global Esports,FULL SENSE,"Chamber,Neon,Sage,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+666492,VCT 2026: Pacific Stage 1,2026-05-15,Breeze,FULL SENSE,Global Esports,"Jett,Neon,Omen,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",True
+666498,VCT 2026: Pacific Stage 1,2026-05-15,Split,T1,Paper Rex,"Fade,Neon,Omen,Raze,Viper","Jett,Omen,Raze,Skye,Viper",False
+666498,VCT 2026: Pacific Stage 1,2026-05-15,Split,Paper Rex,T1,"Jett,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Raze,Viper",True
+666498,VCT 2026: Pacific Stage 1,2026-05-15,Ascent,T1,Paper Rex,"Jett,Kayo,Killjoy,Omen,Sova","Omen,Sage,Sova,Vyse,Yoru",True
+666498,VCT 2026: Pacific Stage 1,2026-05-15,Ascent,Paper Rex,T1,"Omen,Sage,Sova,Vyse,Yoru","Jett,Kayo,Killjoy,Omen,Sova",False
+666498,VCT 2026: Pacific Stage 1,2026-05-15,Breeze,T1,Paper Rex,"Harbor,Kayo,Neon,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+666498,VCT 2026: Pacific Stage 1,2026-05-15,Breeze,Paper Rex,T1,"Jett,Neon,Omen,Sova,Viper","Harbor,Kayo,Neon,Sova,Viper",True
+666499,VCT 2026: Pacific Stage 1,2026-05-16,Haven,Global Esports,Paper Rex,"Iso,Neon,Omen,Sova,Vyse","Chamber,Fade,Jett,Omen,Phoenix",False
+666499,VCT 2026: Pacific Stage 1,2026-05-16,Haven,Paper Rex,Global Esports,"Chamber,Fade,Jett,Omen,Phoenix","Iso,Neon,Omen,Sova,Vyse",True
+666499,VCT 2026: Pacific Stage 1,2026-05-16,Lotus,Global Esports,Paper Rex,"Cypher,Deadlock,Fade,Omen,Sage","Jett,Omen,Raze,Skye,Vyse",False
+666499,VCT 2026: Pacific Stage 1,2026-05-16,Lotus,Paper Rex,Global Esports,"Jett,Omen,Raze,Skye,Vyse","Cypher,Deadlock,Fade,Omen,Sage",True
+666499,VCT 2026: Pacific Stage 1,2026-05-16,Ascent,Global Esports,Paper Rex,"Kayo,Omen,Phoenix,Sage,Sova","Omen,Sage,Sova,Vyse,Yoru",False
+666499,VCT 2026: Pacific Stage 1,2026-05-16,Ascent,Paper Rex,Global Esports,"Omen,Sage,Sova,Vyse,Yoru","Kayo,Omen,Phoenix,Sage,Sova",True
+666493,VCT 2026: Pacific Stage 1,2026-05-17,Pearl,FULL SENSE,Paper Rex,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Fade,Jett,Killjoy,Phoenix",False
+666493,VCT 2026: Pacific Stage 1,2026-05-17,Pearl,Paper Rex,FULL SENSE,"Astra,Fade,Jett,Killjoy,Phoenix","Astra,Fade,Jett,Phoenix,Vyse",True
+666493,VCT 2026: Pacific Stage 1,2026-05-17,Lotus,FULL SENSE,Paper Rex,"Jett,Omen,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Vyse",False
+666493,VCT 2026: Pacific Stage 1,2026-05-17,Lotus,Paper Rex,FULL SENSE,"Jett,Omen,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Vyse",True
+666493,VCT 2026: Pacific Stage 1,2026-05-17,Fracture,FULL SENSE,Paper Rex,"Brimstone,Cypher,Fade,Neon,Phoenix","Breach,Brimstone,Killjoy,Neon,Raze",False
+666493,VCT 2026: Pacific Stage 1,2026-05-17,Fracture,Paper Rex,FULL SENSE,"Breach,Brimstone,Killjoy,Neon,Raze","Brimstone,Cypher,Fade,Neon,Phoenix",True
+642914,VCT 2026: China Stage 1,2026-03-31,Lotus,Wuxi Titan Esports Club,All Gamers,"Fade,Neon,Omen,Viper,Waylay","Cypher,Fade,Neon,Omen,Waylay",False
+642914,VCT 2026: China Stage 1,2026-03-31,Lotus,All Gamers,Wuxi Titan Esports Club,"Cypher,Fade,Neon,Omen,Waylay","Fade,Neon,Omen,Viper,Waylay",True
+642914,VCT 2026: China Stage 1,2026-03-31,Bind,Wuxi Titan Esports Club,All Gamers,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Gekko,Skye,Viper,Waylay",True
+642914,VCT 2026: China Stage 1,2026-03-31,Bind,All Gamers,Wuxi Titan Esports Club,"Brimstone,Gekko,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642914,VCT 2026: China Stage 1,2026-03-31,Breeze,Wuxi Titan Esports Club,All Gamers,"Astra,Neon,Sova,Viper,Waylay","Astra,Neon,Sova,Viper,Waylay",False
+642914,VCT 2026: China Stage 1,2026-03-31,Breeze,All Gamers,Wuxi Titan Esports Club,"Astra,Neon,Sova,Viper,Waylay","Astra,Neon,Sova,Viper,Waylay",True
+642915,VCT 2026: China Stage 1,2026-03-31,Fracture,Nova Esports,EDward Gaming,"Breach,Brimstone,Chamber,Neon,Tejo","Brimstone,Cypher,Neon,Skye,Waylay",False
+642915,VCT 2026: China Stage 1,2026-03-31,Fracture,EDward Gaming,Nova Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Breach,Brimstone,Chamber,Neon,Tejo",True
+642915,VCT 2026: China Stage 1,2026-03-31,Breeze,Nova Esports,EDward Gaming,"Jett,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+642915,VCT 2026: China Stage 1,2026-03-31,Breeze,EDward Gaming,Nova Esports,"Harbor,Jett,Kayo,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+642916,VCT 2026: China Stage 1,2026-04-01,Lotus,JD Mall JDG Esports,FunPlus Phoenix,"Fade,Killjoy,Omen,Raze,Viper","Fade,Neon,Omen,Viper,Waylay",True
+642916,VCT 2026: China Stage 1,2026-04-01,Lotus,FunPlus Phoenix,JD Mall JDG Esports,"Fade,Neon,Omen,Viper,Waylay","Fade,Killjoy,Omen,Raze,Viper",False
+642916,VCT 2026: China Stage 1,2026-04-01,Split,JD Mall JDG Esports,FunPlus Phoenix,"Fade,Omen,Raze,Viper,Vyse","Neon,Omen,Skye,Viper,Waylay",True
+642916,VCT 2026: China Stage 1,2026-04-01,Split,FunPlus Phoenix,JD Mall JDG Esports,"Neon,Omen,Skye,Viper,Waylay","Fade,Omen,Raze,Viper,Vyse",False
+642916,VCT 2026: China Stage 1,2026-04-01,Pearl,JD Mall JDG Esports,FunPlus Phoenix,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Fade,Killjoy,Neon,Waylay",False
+642916,VCT 2026: China Stage 1,2026-04-01,Pearl,FunPlus Phoenix,JD Mall JDG Esports,"Astra,Fade,Killjoy,Neon,Waylay","Astra,Fade,Killjoy,Neon,Phoenix",True
+642917,VCT 2026: China Stage 1,2026-04-01,Lotus,Dragon Ranger Gaming,Xi Lai Gaming,"Miks,Neon,Omen,Skye,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642917,VCT 2026: China Stage 1,2026-04-01,Lotus,Xi Lai Gaming,Dragon Ranger Gaming,"Neon,Omen,Skye,Viper,Waylay","Miks,Neon,Omen,Skye,Waylay",True
+642917,VCT 2026: China Stage 1,2026-04-01,Bind,Dragon Ranger Gaming,Xi Lai Gaming,"Brimstone,Miks,Neon,Skye,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642917,VCT 2026: China Stage 1,2026-04-01,Bind,Xi Lai Gaming,Dragon Ranger Gaming,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Miks,Neon,Skye,Waylay",True
+642918,VCT 2026: China Stage 1,2026-04-02,Lotus,Wolves Esports,Trace Esports,"Fade,Killjoy,Omen,Viper,Waylay","Fade,Omen,Raze,Veto,Viper",False
+642918,VCT 2026: China Stage 1,2026-04-02,Lotus,Trace Esports,Wolves Esports,"Fade,Omen,Raze,Veto,Viper","Fade,Killjoy,Omen,Viper,Waylay",True
+642918,VCT 2026: China Stage 1,2026-04-02,Bind,Wolves Esports,Trace Esports,"Brimstone,Skye,Tejo,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642918,VCT 2026: China Stage 1,2026-04-02,Bind,Trace Esports,Wolves Esports,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Skye,Tejo,Viper,Waylay",True
+642919,VCT 2026: China Stage 1,2026-04-02,Bind,Guangzhou Huadu Bilibili Gaming,TYLOO,"Astra,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642919,VCT 2026: China Stage 1,2026-04-02,Bind,TYLOO,Guangzhou Huadu Bilibili Gaming,"Brimstone,Neon,Skye,Viper,Waylay","Astra,Neon,Skye,Viper,Waylay",True
+642919,VCT 2026: China Stage 1,2026-04-02,Pearl,Guangzhou Huadu Bilibili Gaming,TYLOO,"Astra,Killjoy,Neon,Phoenix,Tejo","Astra,Chamber,Fade,Neon,Phoenix",True
+642919,VCT 2026: China Stage 1,2026-04-02,Pearl,TYLOO,Guangzhou Huadu Bilibili Gaming,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Killjoy,Neon,Phoenix,Tejo",False
+642919,VCT 2026: China Stage 1,2026-04-02,Breeze,Guangzhou Huadu Bilibili Gaming,TYLOO,"Chamber,Neon,Omen,Skye,Viper","Astra,Jett,Kayo,Sova,Viper",False
+642919,VCT 2026: China Stage 1,2026-04-02,Breeze,TYLOO,Guangzhou Huadu Bilibili Gaming,"Astra,Jett,Kayo,Sova,Viper","Chamber,Neon,Omen,Skye,Viper",True
+642920,VCT 2026: China Stage 1,2026-04-03,Breeze,Dragon Ranger Gaming,Nova Esports,"Astra,Neon,Omen,Skye,Waylay","Jett,Neon,Omen,Sova,Viper",True
+642920,VCT 2026: China Stage 1,2026-04-03,Breeze,Nova Esports,Dragon Ranger Gaming,"Jett,Neon,Omen,Sova,Viper","Astra,Neon,Omen,Skye,Waylay",False
+642920,VCT 2026: China Stage 1,2026-04-03,Haven,Dragon Ranger Gaming,Nova Esports,"Cypher,Neon,Omen,Skye,Waylay","Killjoy,Neon,Omen,Sova,Viper",True
+642920,VCT 2026: China Stage 1,2026-04-03,Haven,Nova Esports,Dragon Ranger Gaming,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Skye,Waylay",False
+642921,VCT 2026: China Stage 1,2026-04-03,Split,FunPlus Phoenix,All Gamers,"Fade,Neon,Omen,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+642921,VCT 2026: China Stage 1,2026-04-03,Split,All Gamers,FunPlus Phoenix,"Neon,Omen,Skye,Viper,Waylay","Fade,Neon,Omen,Viper,Waylay",False
+642921,VCT 2026: China Stage 1,2026-04-03,Pearl,FunPlus Phoenix,All Gamers,"Astra,Fade,Killjoy,Neon,Waylay","Astra,Fade,Killjoy,Neon,Waylay",True
+642921,VCT 2026: China Stage 1,2026-04-03,Pearl,All Gamers,FunPlus Phoenix,"Astra,Fade,Killjoy,Neon,Waylay","Astra,Fade,Killjoy,Neon,Waylay",False
+642922,VCT 2026: China Stage 1,2026-04-04,Split,TYLOO,Wuxi Titan Esports Club,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+642922,VCT 2026: China Stage 1,2026-04-04,Split,Wuxi Titan Esports Club,TYLOO,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642922,VCT 2026: China Stage 1,2026-04-04,Fracture,TYLOO,Wuxi Titan Esports Club,"Brimstone,Cypher,Neon,Phoenix,Tejo","Brimstone,Cypher,Neon,Skye,Waylay",True
+642922,VCT 2026: China Stage 1,2026-04-04,Fracture,Wuxi Titan Esports Club,TYLOO,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Phoenix,Tejo",False
+642923,VCT 2026: China Stage 1,2026-04-04,Fracture,Wolves Esports,EDward Gaming,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642923,VCT 2026: China Stage 1,2026-04-04,Fracture,EDward Gaming,Wolves Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",True
+642923,VCT 2026: China Stage 1,2026-04-04,Lotus,Wolves Esports,EDward Gaming,"Fade,Killjoy,Omen,Viper,Waylay","Cypher,Fade,Omen,Phoenix,Raze",False
+642923,VCT 2026: China Stage 1,2026-04-04,Lotus,EDward Gaming,Wolves Esports,"Cypher,Fade,Omen,Phoenix,Raze","Fade,Killjoy,Omen,Viper,Waylay",True
+642924,VCT 2026: China Stage 1,2026-04-05,Breeze,Trace Esports,Xi Lai Gaming,"Jett,Omen,Phoenix,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",True
+642924,VCT 2026: China Stage 1,2026-04-05,Breeze,Xi Lai Gaming,Trace Esports,"Chamber,Neon,Sage,Sova,Viper","Jett,Omen,Phoenix,Sova,Viper",False
+642924,VCT 2026: China Stage 1,2026-04-05,Lotus,Trace Esports,Xi Lai Gaming,"Fade,Omen,Raze,Veto,Viper","Neon,Omen,Skye,Viper,Waylay",False
+642924,VCT 2026: China Stage 1,2026-04-05,Lotus,Xi Lai Gaming,Trace Esports,"Neon,Omen,Skye,Viper,Waylay","Fade,Omen,Raze,Veto,Viper",True
+642924,VCT 2026: China Stage 1,2026-04-05,Bind,Trace Esports,Xi Lai Gaming,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642924,VCT 2026: China Stage 1,2026-04-05,Bind,Xi Lai Gaming,Trace Esports,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+642925,VCT 2026: China Stage 1,2026-04-05,Haven,Guangzhou Huadu Bilibili Gaming,JD Mall JDG Esports,"Cypher,Neon,Omen,Sova,Waylay","Killjoy,Neon,Omen,Sova,Viper",True
+642925,VCT 2026: China Stage 1,2026-04-05,Haven,JD Mall JDG Esports,Guangzhou Huadu Bilibili Gaming,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Sova,Waylay",False
+642925,VCT 2026: China Stage 1,2026-04-05,Fracture,Guangzhou Huadu Bilibili Gaming,JD Mall JDG Esports,"Brimstone,Cypher,Neon,Tejo,Waylay","Breach,Brimstone,Cypher,Neon,Tejo",True
+642925,VCT 2026: China Stage 1,2026-04-05,Fracture,JD Mall JDG Esports,Guangzhou Huadu Bilibili Gaming,"Breach,Brimstone,Cypher,Neon,Tejo","Brimstone,Cypher,Neon,Tejo,Waylay",False
+642927,VCT 2026: China Stage 1,2026-04-07,Bind,FunPlus Phoenix,TYLOO,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642927,VCT 2026: China Stage 1,2026-04-07,Bind,TYLOO,FunPlus Phoenix,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+642927,VCT 2026: China Stage 1,2026-04-07,Split,FunPlus Phoenix,TYLOO,"Fade,Neon,Omen,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+642927,VCT 2026: China Stage 1,2026-04-07,Split,TYLOO,FunPlus Phoenix,"Neon,Omen,Skye,Viper,Waylay","Fade,Neon,Omen,Viper,Waylay",False
+642927,VCT 2026: China Stage 1,2026-04-07,Pearl,FunPlus Phoenix,TYLOO,"Astra,Fade,Killjoy,Neon,Waylay","Astra,Fade,Killjoy,Neon,Phoenix",True
+642927,VCT 2026: China Stage 1,2026-04-07,Pearl,TYLOO,FunPlus Phoenix,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Fade,Killjoy,Neon,Waylay",False
+642928,VCT 2026: China Stage 1,2026-04-07,Fracture,Wuxi Titan Esports Club,Guangzhou Huadu Bilibili Gaming,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Tejo,Waylay",True
+642928,VCT 2026: China Stage 1,2026-04-07,Fracture,Guangzhou Huadu Bilibili Gaming,Wuxi Titan Esports Club,"Brimstone,Cypher,Neon,Tejo,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642928,VCT 2026: China Stage 1,2026-04-07,Breeze,Wuxi Titan Esports Club,Guangzhou Huadu Bilibili Gaming,"Astra,Neon,Sova,Viper,Waylay","Astra,Jett,Neon,Sova,Viper",True
+642928,VCT 2026: China Stage 1,2026-04-07,Breeze,Guangzhou Huadu Bilibili Gaming,Wuxi Titan Esports Club,"Astra,Jett,Neon,Sova,Viper","Astra,Neon,Sova,Viper,Waylay",False
+642929,VCT 2026: China Stage 1,2026-04-08,Haven,Xi Lai Gaming,Nova Esports,"Killjoy,Neon,Omen,Sova,Viper","Killjoy,Neon,Omen,Sova,Viper",True
+642929,VCT 2026: China Stage 1,2026-04-08,Haven,Nova Esports,Xi Lai Gaming,"Killjoy,Neon,Omen,Sova,Viper","Killjoy,Neon,Omen,Sova,Viper",False
+642929,VCT 2026: China Stage 1,2026-04-08,Bind,Xi Lai Gaming,Nova Esports,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Chamber,Neon,Skye,Viper",True
+642929,VCT 2026: China Stage 1,2026-04-08,Bind,Nova Esports,Xi Lai Gaming,"Brimstone,Chamber,Neon,Skye,Viper","Brimstone,Neon,Skye,Viper,Waylay",False
+642930,VCT 2026: China Stage 1,2026-04-08,Lotus,EDward Gaming,Trace Esports,"Cypher,Fade,Omen,Phoenix,Raze","Fade,Omen,Raze,Veto,Viper",True
+642930,VCT 2026: China Stage 1,2026-04-08,Lotus,Trace Esports,EDward Gaming,"Fade,Omen,Raze,Veto,Viper","Cypher,Fade,Omen,Phoenix,Raze",False
+642930,VCT 2026: China Stage 1,2026-04-08,Haven,EDward Gaming,Trace Esports,"Cypher,Neon,Omen,Sova,Waylay","Killjoy,Neon,Omen,Sova,Viper",True
+642930,VCT 2026: China Stage 1,2026-04-08,Haven,Trace Esports,EDward Gaming,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Sova,Waylay",False
+642931,VCT 2026: China Stage 1,2026-04-09,Lotus,JD Mall JDG Esports,All Gamers,"Fade,Killjoy,Omen,Raze,Viper","Cypher,Fade,Neon,Omen,Waylay",False
+642931,VCT 2026: China Stage 1,2026-04-09,Lotus,All Gamers,JD Mall JDG Esports,"Cypher,Fade,Neon,Omen,Waylay","Fade,Killjoy,Omen,Raze,Viper",True
+642931,VCT 2026: China Stage 1,2026-04-09,Haven,JD Mall JDG Esports,All Gamers,"Chamber,Cypher,Neon,Omen,Sova","Cypher,Neon,Omen,Skye,Waylay",False
+642931,VCT 2026: China Stage 1,2026-04-09,Haven,All Gamers,JD Mall JDG Esports,"Cypher,Neon,Omen,Skye,Waylay","Chamber,Cypher,Neon,Omen,Sova",True
+642932,VCT 2026: China Stage 1,2026-04-09,Breeze,Dragon Ranger Gaming,Wolves Esports,"Astra,Neon,Omen,Skye,Waylay","Astra,Jett,Kayo,Sova,Viper",True
+642932,VCT 2026: China Stage 1,2026-04-09,Breeze,Wolves Esports,Dragon Ranger Gaming,"Astra,Jett,Kayo,Sova,Viper","Astra,Neon,Omen,Skye,Waylay",False
+642932,VCT 2026: China Stage 1,2026-04-09,Pearl,Dragon Ranger Gaming,Wolves Esports,"Astra,Neon,Skye,Vyse,Waylay","Astra,Killjoy,Sova,Tejo,Waylay",False
+642932,VCT 2026: China Stage 1,2026-04-09,Pearl,Wolves Esports,Dragon Ranger Gaming,"Astra,Killjoy,Sova,Tejo,Waylay","Astra,Neon,Skye,Vyse,Waylay",True
+642932,VCT 2026: China Stage 1,2026-04-09,Lotus,Dragon Ranger Gaming,Wolves Esports,"Cypher,Neon,Omen,Skye,Waylay","Fade,Killjoy,Omen,Viper,Waylay",True
+642932,VCT 2026: China Stage 1,2026-04-09,Lotus,Wolves Esports,Dragon Ranger Gaming,"Fade,Killjoy,Omen,Viper,Waylay","Cypher,Neon,Omen,Skye,Waylay",False
+642933,VCT 2026: China Stage 1,2026-04-10,Lotus,Nova Esports,Trace Esports,"Cypher,Fade,Neon,Omen,Viper","Fade,Killjoy,Omen,Viper,Waylay",False
+642933,VCT 2026: China Stage 1,2026-04-10,Lotus,Trace Esports,Nova Esports,"Fade,Killjoy,Omen,Viper,Waylay","Cypher,Fade,Neon,Omen,Viper",True
+642933,VCT 2026: China Stage 1,2026-04-10,Split,Nova Esports,Trace Esports,"Fade,Omen,Raze,Viper,Vyse","Neon,Omen,Skye,Viper,Waylay",False
+642933,VCT 2026: China Stage 1,2026-04-10,Split,Trace Esports,Nova Esports,"Neon,Omen,Skye,Viper,Waylay","Fade,Omen,Raze,Viper,Vyse",True
+642934,VCT 2026: China Stage 1,2026-04-10,Lotus,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming,"Fade,Neon,Omen,Viper,Waylay","Fade,Killjoy,Omen,Raze,Viper",False
+642934,VCT 2026: China Stage 1,2026-04-10,Lotus,Guangzhou Huadu Bilibili Gaming,FunPlus Phoenix,"Fade,Killjoy,Omen,Raze,Viper","Fade,Neon,Omen,Viper,Waylay",True
+642934,VCT 2026: China Stage 1,2026-04-10,Fracture,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming,"Astra,Neon,Sage,Tejo,Waylay","Brimstone,Cypher,Neon,Tejo,Waylay",True
+642934,VCT 2026: China Stage 1,2026-04-10,Fracture,Guangzhou Huadu Bilibili Gaming,FunPlus Phoenix,"Brimstone,Cypher,Neon,Tejo,Waylay","Astra,Neon,Sage,Tejo,Waylay",False
+642934,VCT 2026: China Stage 1,2026-04-10,Pearl,FunPlus Phoenix,Guangzhou Huadu Bilibili Gaming,"Astra,Fade,Killjoy,Neon,Waylay","Astra,Killjoy,Neon,Phoenix,Tejo",False
+642934,VCT 2026: China Stage 1,2026-04-10,Pearl,Guangzhou Huadu Bilibili Gaming,FunPlus Phoenix,"Astra,Killjoy,Neon,Phoenix,Tejo","Astra,Fade,Killjoy,Neon,Waylay",True
+642935,VCT 2026: China Stage 1,2026-04-11,Bind,All Gamers,TYLOO,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642935,VCT 2026: China Stage 1,2026-04-11,Bind,TYLOO,All Gamers,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+642935,VCT 2026: China Stage 1,2026-04-11,Haven,All Gamers,TYLOO,"Cypher,Neon,Omen,Skye,Waylay","Killjoy,Neon,Omen,Sova,Viper",True
+642935,VCT 2026: China Stage 1,2026-04-11,Haven,TYLOO,All Gamers,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Skye,Waylay",False
+642935,VCT 2026: China Stage 1,2026-04-11,Breeze,All Gamers,TYLOO,"Astra,Neon,Sova,Viper,Waylay","Astra,Jett,Kayo,Sova,Viper",False
+642935,VCT 2026: China Stage 1,2026-04-11,Breeze,TYLOO,All Gamers,"Astra,Jett,Kayo,Sova,Viper","Astra,Neon,Sova,Viper,Waylay",True
+642936,VCT 2026: China Stage 1,2026-04-11,Breeze,EDward Gaming,Dragon Ranger Gaming,"Harbor,Jett,Kayo,Sova,Viper","Astra,Neon,Omen,Skye,Waylay",True
+642936,VCT 2026: China Stage 1,2026-04-11,Breeze,Dragon Ranger Gaming,EDward Gaming,"Astra,Neon,Omen,Skye,Waylay","Harbor,Jett,Kayo,Sova,Viper",False
+642936,VCT 2026: China Stage 1,2026-04-11,Lotus,EDward Gaming,Dragon Ranger Gaming,"Cypher,Fade,Omen,Phoenix,Raze","Cypher,Neon,Omen,Skye,Waylay",False
+642936,VCT 2026: China Stage 1,2026-04-11,Lotus,Dragon Ranger Gaming,EDward Gaming,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Fade,Omen,Phoenix,Raze",True
+642936,VCT 2026: China Stage 1,2026-04-11,Split,EDward Gaming,Dragon Ranger Gaming,"Neon,Omen,Skye,Viper,Waylay","Cypher,Neon,Omen,Skye,Waylay",True
+642936,VCT 2026: China Stage 1,2026-04-11,Split,Dragon Ranger Gaming,EDward Gaming,"Cypher,Neon,Omen,Skye,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642937,VCT 2026: China Stage 1,2026-04-12,Fracture,JD Mall JDG Esports,Wuxi Titan Esports Club,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",True
+642937,VCT 2026: China Stage 1,2026-04-12,Fracture,Wuxi Titan Esports Club,JD Mall JDG Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642937,VCT 2026: China Stage 1,2026-04-12,Haven,JD Mall JDG Esports,Wuxi Titan Esports Club,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Neon,Omen,Sova,Waylay",True
+642937,VCT 2026: China Stage 1,2026-04-12,Haven,Wuxi Titan Esports Club,JD Mall JDG Esports,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Neon,Omen,Sova,Waylay",False
+642938,VCT 2026: China Stage 1,2026-04-12,Fracture,Xi Lai Gaming,Wolves Esports,"Brimstone,Neon,Skye,Tejo,Veto","Breach,Brimstone,Cypher,Tejo,Waylay",False
+642938,VCT 2026: China Stage 1,2026-04-12,Fracture,Wolves Esports,Xi Lai Gaming,"Breach,Brimstone,Cypher,Tejo,Waylay","Brimstone,Neon,Skye,Tejo,Veto",True
+642938,VCT 2026: China Stage 1,2026-04-12,Bind,Xi Lai Gaming,Wolves Esports,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Raze,Skye,Viper",True
+642938,VCT 2026: China Stage 1,2026-04-12,Bind,Wolves Esports,Xi Lai Gaming,"Brimstone,Neon,Raze,Skye,Viper","Brimstone,Neon,Skye,Viper,Waylay",False
+642938,VCT 2026: China Stage 1,2026-04-12,Lotus,Xi Lai Gaming,Wolves Esports,"Neon,Omen,Skye,Viper,Waylay","Fade,Killjoy,Omen,Viper,Waylay",True
+642938,VCT 2026: China Stage 1,2026-04-12,Lotus,Wolves Esports,Xi Lai Gaming,"Fade,Killjoy,Omen,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642939,VCT 2026: China Stage 1,2026-04-14,Bind,TYLOO,JD Mall JDG Esports,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Omen,Skye,Waylay",False
+642939,VCT 2026: China Stage 1,2026-04-14,Bind,JD Mall JDG Esports,TYLOO,"Brimstone,Neon,Omen,Skye,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+642939,VCT 2026: China Stage 1,2026-04-14,Haven,TYLOO,JD Mall JDG Esports,"Cypher,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Sova,Waylay",False
+642939,VCT 2026: China Stage 1,2026-04-14,Haven,JD Mall JDG Esports,TYLOO,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Neon,Omen,Sova,Viper",True
+642940,VCT 2026: China Stage 1,2026-04-14,Lotus,Trace Esports,Dragon Ranger Gaming,"Fade,Neon,Omen,Vyse,Waylay","Cypher,Neon,Omen,Skye,Waylay",True
+642940,VCT 2026: China Stage 1,2026-04-14,Lotus,Dragon Ranger Gaming,Trace Esports,"Cypher,Neon,Omen,Skye,Waylay","Fade,Neon,Omen,Vyse,Waylay",False
+642940,VCT 2026: China Stage 1,2026-04-14,Bind,Trace Esports,Dragon Ranger Gaming,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642940,VCT 2026: China Stage 1,2026-04-14,Bind,Dragon Ranger Gaming,Trace Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+642940,VCT 2026: China Stage 1,2026-04-14,Breeze,Trace Esports,Dragon Ranger Gaming,"Jett,Omen,Phoenix,Sova,Viper","Astra,Neon,Skye,Viper,Waylay",False
+642940,VCT 2026: China Stage 1,2026-04-14,Breeze,Dragon Ranger Gaming,Trace Esports,"Astra,Neon,Skye,Viper,Waylay","Jett,Omen,Phoenix,Sova,Viper",True
+642941,VCT 2026: China Stage 1,2026-04-15,Fracture,Wuxi Titan Esports Club,FunPlus Phoenix,"Brimstone,Cypher,Neon,Skye,Waylay","Astra,Neon,Sage,Tejo,Waylay",True
+642941,VCT 2026: China Stage 1,2026-04-15,Fracture,FunPlus Phoenix,Wuxi Titan Esports Club,"Astra,Neon,Sage,Tejo,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642941,VCT 2026: China Stage 1,2026-04-15,Split,Wuxi Titan Esports Club,FunPlus Phoenix,"Neon,Omen,Skye,Viper,Waylay","Fade,Neon,Omen,Viper,Waylay",True
+642941,VCT 2026: China Stage 1,2026-04-15,Split,FunPlus Phoenix,Wuxi Titan Esports Club,"Fade,Neon,Omen,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642942,VCT 2026: China Stage 1,2026-04-15,Lotus,All Gamers,Guangzhou Huadu Bilibili Gaming,"Cypher,Fade,Neon,Omen,Waylay","Fade,Killjoy,Omen,Raze,Viper",True
+642942,VCT 2026: China Stage 1,2026-04-15,Lotus,Guangzhou Huadu Bilibili Gaming,All Gamers,"Fade,Killjoy,Omen,Raze,Viper","Cypher,Fade,Neon,Omen,Waylay",False
+642942,VCT 2026: China Stage 1,2026-04-15,Pearl,All Gamers,Guangzhou Huadu Bilibili Gaming,"Astra,Chamber,Fade,Neon,Phoenix","Astra,Killjoy,Neon,Phoenix,Tejo",False
+642942,VCT 2026: China Stage 1,2026-04-15,Pearl,Guangzhou Huadu Bilibili Gaming,All Gamers,"Astra,Killjoy,Neon,Phoenix,Tejo","Astra,Chamber,Fade,Neon,Phoenix",True
+642942,VCT 2026: China Stage 1,2026-04-15,Bind,All Gamers,Guangzhou Huadu Bilibili Gaming,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Fade,Kayo,Raze,Viper",True
+642942,VCT 2026: China Stage 1,2026-04-15,Bind,Guangzhou Huadu Bilibili Gaming,All Gamers,"Brimstone,Fade,Kayo,Raze,Viper","Brimstone,Neon,Skye,Viper,Waylay",False
+642943,VCT 2026: China Stage 1,2026-04-16,Lotus,Nova Esports,Wolves Esports,"Cypher,Fade,Neon,Omen,Viper","Fade,Neon,Omen,Raze,Vyse",True
+642943,VCT 2026: China Stage 1,2026-04-16,Lotus,Wolves Esports,Nova Esports,"Fade,Neon,Omen,Raze,Vyse","Cypher,Fade,Neon,Omen,Viper",False
+642943,VCT 2026: China Stage 1,2026-04-16,Fracture,Nova Esports,Wolves Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Breach,Brimstone,Cypher,Tejo,Waylay",True
+642943,VCT 2026: China Stage 1,2026-04-16,Fracture,Wolves Esports,Nova Esports,"Breach,Brimstone,Cypher,Tejo,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642944,VCT 2026: China Stage 1,2026-04-16,Lotus,EDward Gaming,Xi Lai Gaming,"Cypher,Fade,Omen,Phoenix,Raze","Neon,Omen,Skye,Viper,Waylay",True
+642944,VCT 2026: China Stage 1,2026-04-16,Lotus,Xi Lai Gaming,EDward Gaming,"Neon,Omen,Skye,Viper,Waylay","Cypher,Fade,Omen,Phoenix,Raze",False
+642944,VCT 2026: China Stage 1,2026-04-16,Haven,EDward Gaming,Xi Lai Gaming,"Chamber,Fade,Neon,Omen,Phoenix","Killjoy,Neon,Omen,Sova,Viper",False
+642944,VCT 2026: China Stage 1,2026-04-16,Haven,Xi Lai Gaming,EDward Gaming,"Killjoy,Neon,Omen,Sova,Viper","Chamber,Fade,Neon,Omen,Phoenix",True
+642944,VCT 2026: China Stage 1,2026-04-16,Split,EDward Gaming,Xi Lai Gaming,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642944,VCT 2026: China Stage 1,2026-04-16,Split,Xi Lai Gaming,EDward Gaming,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+642947,VCT 2026: China Stage 1,2026-04-18,Haven,TYLOO,Dragon Ranger Gaming,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Neon,Omen,Skye,Waylay",True
+642947,VCT 2026: China Stage 1,2026-04-18,Haven,Dragon Ranger Gaming,TYLOO,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Neon,Omen,Sova,Waylay",False
+642947,VCT 2026: China Stage 1,2026-04-18,Breeze,TYLOO,Dragon Ranger Gaming,"Astra,Jett,Kayo,Sova,Viper","Astra,Neon,Skye,Viper,Waylay",True
+642947,VCT 2026: China Stage 1,2026-04-18,Breeze,Dragon Ranger Gaming,TYLOO,"Astra,Neon,Skye,Viper,Waylay","Astra,Jett,Kayo,Sova,Viper",False
+642946,VCT 2026: China Stage 1,2026-04-18,Fracture,JD Mall JDG Esports,EDward Gaming,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",True
+642946,VCT 2026: China Stage 1,2026-04-18,Fracture,EDward Gaming,JD Mall JDG Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Brimstone,Cypher,Neon,Skye,Waylay",False
+642946,VCT 2026: China Stage 1,2026-04-18,Haven,JD Mall JDG Esports,EDward Gaming,"Cypher,Neon,Omen,Sova,Waylay","Chamber,Fade,Neon,Omen,Phoenix",False
+642946,VCT 2026: China Stage 1,2026-04-18,Haven,EDward Gaming,JD Mall JDG Esports,"Chamber,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Sova,Waylay",True
+642946,VCT 2026: China Stage 1,2026-04-18,Bind,JD Mall JDG Esports,EDward Gaming,"Brimstone,Neon,Omen,Skye,Waylay","Brimstone,Gekko,Kayo,Viper,Waylay",False
+642946,VCT 2026: China Stage 1,2026-04-18,Bind,EDward Gaming,JD Mall JDG Esports,"Brimstone,Gekko,Kayo,Viper,Waylay","Brimstone,Neon,Omen,Skye,Waylay",True
+642948,VCT 2026: China Stage 1,2026-04-19,Fracture,Wuxi Titan Esports Club,Trace Esports,"Brimstone,Cypher,Neon,Skye,Waylay","Breach,Brimstone,Cypher,Neon,Tejo",True
+642948,VCT 2026: China Stage 1,2026-04-19,Fracture,Trace Esports,Wuxi Titan Esports Club,"Breach,Brimstone,Cypher,Neon,Tejo","Brimstone,Cypher,Neon,Skye,Waylay",False
+642948,VCT 2026: China Stage 1,2026-04-19,Split,Wuxi Titan Esports Club,Trace Esports,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642948,VCT 2026: China Stage 1,2026-04-19,Split,Trace Esports,Wuxi Titan Esports Club,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+642948,VCT 2026: China Stage 1,2026-04-19,Breeze,Wuxi Titan Esports Club,Trace Esports,"Harbor,Neon,Sova,Viper,Waylay","Jett,Omen,Phoenix,Sova,Viper",False
+642948,VCT 2026: China Stage 1,2026-04-19,Breeze,Trace Esports,Wuxi Titan Esports Club,"Jett,Omen,Phoenix,Sova,Viper","Harbor,Neon,Sova,Viper,Waylay",True
+642945,VCT 2026: China Stage 1,2026-04-19,Lotus,All Gamers,Xi Lai Gaming,"Cypher,Fade,Neon,Omen,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+642945,VCT 2026: China Stage 1,2026-04-19,Lotus,Xi Lai Gaming,All Gamers,"Neon,Omen,Skye,Viper,Waylay","Cypher,Fade,Neon,Omen,Waylay",False
+642945,VCT 2026: China Stage 1,2026-04-19,Bind,All Gamers,Xi Lai Gaming,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",False
+642945,VCT 2026: China Stage 1,2026-04-19,Bind,Xi Lai Gaming,All Gamers,"Brimstone,Neon,Skye,Viper,Waylay","Brimstone,Neon,Skye,Viper,Waylay",True
+642945,VCT 2026: China Stage 1,2026-04-19,Split,All Gamers,Xi Lai Gaming,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+642945,VCT 2026: China Stage 1,2026-04-19,Split,Xi Lai Gaming,All Gamers,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Skye,Viper,Waylay",True
+659474,VCT 2026: China Stage 1,2026-05-01,Breeze,Xi Lai Gaming,Wuxi Titan Esports Club,"Jett,Kayo,Omen,Sova,Viper","Harbor,Neon,Phoenix,Sova,Viper",True
+659474,VCT 2026: China Stage 1,2026-05-01,Breeze,Wuxi Titan Esports Club,Xi Lai Gaming,"Harbor,Neon,Phoenix,Sova,Viper","Jett,Kayo,Omen,Sova,Viper",False
+659474,VCT 2026: China Stage 1,2026-05-01,Lotus,Xi Lai Gaming,Wuxi Titan Esports Club,"Cypher,Deadlock,Fade,Omen,Sage","Fade,Neon,Omen,Raze,Vyse",True
+659474,VCT 2026: China Stage 1,2026-05-01,Lotus,Wuxi Titan Esports Club,Xi Lai Gaming,"Fade,Neon,Omen,Raze,Vyse","Cypher,Deadlock,Fade,Omen,Sage",False
+659475,VCT 2026: China Stage 1,2026-05-01,Haven,JD Mall JDG Esports,TYLOO,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Fade,Neon,Omen,Phoenix",True
+659475,VCT 2026: China Stage 1,2026-05-01,Haven,TYLOO,JD Mall JDG Esports,"Cypher,Fade,Neon,Omen,Phoenix","Cypher,Neon,Omen,Sova,Waylay",False
+659475,VCT 2026: China Stage 1,2026-05-01,Fracture,JD Mall JDG Esports,TYLOO,"Brimstone,Cypher,Neon,Raze,Skye","Brimstone,Cypher,Neon,Skye,Tejo",False
+659475,VCT 2026: China Stage 1,2026-05-01,Fracture,TYLOO,JD Mall JDG Esports,"Brimstone,Cypher,Neon,Skye,Tejo","Brimstone,Cypher,Neon,Raze,Skye",True
+659475,VCT 2026: China Stage 1,2026-05-01,Pearl,JD Mall JDG Esports,TYLOO,"Astra,Killjoy,Neon,Skye,Waylay","Astra,Cypher,Fade,Neon,Phoenix",True
+659475,VCT 2026: China Stage 1,2026-05-01,Pearl,TYLOO,JD Mall JDG Esports,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Killjoy,Neon,Skye,Waylay",False
+659476,VCT 2026: China Stage 1,2026-05-02,Split,All Gamers,Trace Esports,"Jett,Omen,Raze,Skye,Viper","Neon,Omen,Skye,Viper,Waylay",True
+659476,VCT 2026: China Stage 1,2026-05-02,Split,Trace Esports,All Gamers,"Neon,Omen,Skye,Viper,Waylay","Jett,Omen,Raze,Skye,Viper",False
+659476,VCT 2026: China Stage 1,2026-05-02,Lotus,All Gamers,Trace Esports,"Cypher,Fade,Neon,Omen,Waylay","Fade,Neon,Omen,Raze,Vyse",True
+659476,VCT 2026: China Stage 1,2026-05-02,Lotus,Trace Esports,All Gamers,"Fade,Neon,Omen,Raze,Vyse","Cypher,Fade,Neon,Omen,Waylay",False
+659477,VCT 2026: China Stage 1,2026-05-02,Lotus,EDward Gaming,Dragon Ranger Gaming,"Cypher,Fade,Omen,Phoenix,Raze","Cypher,Neon,Omen,Skye,Waylay",False
+659477,VCT 2026: China Stage 1,2026-05-02,Lotus,Dragon Ranger Gaming,EDward Gaming,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Fade,Omen,Phoenix,Raze",True
+659477,VCT 2026: China Stage 1,2026-05-02,Split,EDward Gaming,Dragon Ranger Gaming,"Jett,Omen,Raze,Skye,Viper","Cypher,Neon,Omen,Skye,Waylay",True
+659477,VCT 2026: China Stage 1,2026-05-02,Split,Dragon Ranger Gaming,EDward Gaming,"Cypher,Neon,Omen,Skye,Waylay","Jett,Omen,Raze,Skye,Viper",False
+659477,VCT 2026: China Stage 1,2026-05-02,Breeze,EDward Gaming,Dragon Ranger Gaming,"Harbor,Jett,Kayo,Sova,Viper","Astra,Neon,Skye,Viper,Waylay",True
+659477,VCT 2026: China Stage 1,2026-05-02,Breeze,Dragon Ranger Gaming,EDward Gaming,"Astra,Neon,Skye,Viper,Waylay","Harbor,Jett,Kayo,Sova,Viper",False
+659482,VCT 2026: China Stage 1,2026-05-03,Pearl,Wuxi Titan Esports Club,TYLOO,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Cypher,Fade,Neon,Phoenix",True
+659482,VCT 2026: China Stage 1,2026-05-03,Pearl,TYLOO,Wuxi Titan Esports Club,"Astra,Cypher,Fade,Neon,Phoenix","Astra,Fade,Killjoy,Neon,Phoenix",False
+659482,VCT 2026: China Stage 1,2026-05-03,Fracture,Wuxi Titan Esports Club,TYLOO,"Brimstone,Cypher,Neon,Raze,Skye","Brimstone,Cypher,Neon,Skye,Tejo",False
+659482,VCT 2026: China Stage 1,2026-05-03,Fracture,TYLOO,Wuxi Titan Esports Club,"Brimstone,Cypher,Neon,Skye,Tejo","Brimstone,Cypher,Neon,Raze,Skye",True
+659482,VCT 2026: China Stage 1,2026-05-03,Split,Wuxi Titan Esports Club,TYLOO,"Neon,Omen,Raze,Skye,Viper","Neon,Omen,Skye,Viper,Waylay",False
+659482,VCT 2026: China Stage 1,2026-05-03,Split,TYLOO,Wuxi Titan Esports Club,"Neon,Omen,Skye,Viper,Waylay","Neon,Omen,Raze,Skye,Viper",True
+659483,VCT 2026: China Stage 1,2026-05-03,Ascent,Trace Esports,Dragon Ranger Gaming,"Jett,Omen,Phoenix,Sova,Vyse","Cypher,Jett,Neon,Omen,Sova",False
+659483,VCT 2026: China Stage 1,2026-05-03,Ascent,Dragon Ranger Gaming,Trace Esports,"Cypher,Jett,Neon,Omen,Sova","Jett,Omen,Phoenix,Sova,Vyse",True
+659483,VCT 2026: China Stage 1,2026-05-03,Lotus,Trace Esports,Dragon Ranger Gaming,"Fade,Neon,Omen,Vyse,Waylay","Cypher,Neon,Omen,Skye,Waylay",False
+659483,VCT 2026: China Stage 1,2026-05-03,Lotus,Dragon Ranger Gaming,Trace Esports,"Cypher,Neon,Omen,Skye,Waylay","Fade,Neon,Omen,Vyse,Waylay",True
+659478,VCT 2026: China Stage 1,2026-05-04,Lotus,Xi Lai Gaming,JD Mall JDG Esports,"Cypher,Deadlock,Fade,Omen,Sage","Fade,Neon,Omen,Raze,Vyse",True
+659478,VCT 2026: China Stage 1,2026-05-04,Lotus,JD Mall JDG Esports,Xi Lai Gaming,"Fade,Neon,Omen,Raze,Vyse","Cypher,Deadlock,Fade,Omen,Sage",False
+659478,VCT 2026: China Stage 1,2026-05-04,Pearl,Xi Lai Gaming,JD Mall JDG Esports,"Astra,Chamber,Kayo,Neon,Tejo","Astra,Killjoy,Neon,Skye,Waylay",True
+659478,VCT 2026: China Stage 1,2026-05-04,Pearl,JD Mall JDG Esports,Xi Lai Gaming,"Astra,Killjoy,Neon,Skye,Waylay","Astra,Chamber,Kayo,Neon,Tejo",False
+659479,VCT 2026: China Stage 1,2026-05-04,Fracture,All Gamers,EDward Gaming,"Brimstone,Chamber,Neon,Raze,Skye","Brimstone,Cypher,Jett,Neon,Skye",False
+659479,VCT 2026: China Stage 1,2026-05-04,Fracture,EDward Gaming,All Gamers,"Brimstone,Cypher,Jett,Neon,Skye","Brimstone,Chamber,Neon,Raze,Skye",True
+659479,VCT 2026: China Stage 1,2026-05-04,Lotus,All Gamers,EDward Gaming,"Cypher,Fade,Neon,Omen,Waylay","Fade,Neon,Omen,Raze,Vyse",False
+659479,VCT 2026: China Stage 1,2026-05-04,Lotus,EDward Gaming,All Gamers,"Fade,Neon,Omen,Raze,Vyse","Cypher,Fade,Neon,Omen,Waylay",True
+659485,VCT 2026: China Stage 1,2026-05-05,Haven,JD Mall JDG Esports,Dragon Ranger Gaming,"Cypher,Neon,Omen,Sova,Waylay","Cypher,Neon,Omen,Skye,Waylay",False
+659485,VCT 2026: China Stage 1,2026-05-05,Haven,Dragon Ranger Gaming,JD Mall JDG Esports,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Neon,Omen,Sova,Waylay",True
+659485,VCT 2026: China Stage 1,2026-05-05,Lotus,JD Mall JDG Esports,Dragon Ranger Gaming,"Fade,Neon,Omen,Raze,Vyse","Cypher,Neon,Omen,Skye,Waylay",False
+659485,VCT 2026: China Stage 1,2026-05-05,Lotus,Dragon Ranger Gaming,JD Mall JDG Esports,"Cypher,Neon,Omen,Skye,Waylay","Fade,Neon,Omen,Raze,Vyse",True
+659484,VCT 2026: China Stage 1,2026-05-05,Fracture,All Gamers,TYLOO,"Brimstone,Chamber,Neon,Raze,Skye","Brimstone,Cypher,Neon,Skye,Tejo",True
+659484,VCT 2026: China Stage 1,2026-05-05,Fracture,TYLOO,All Gamers,"Brimstone,Cypher,Neon,Skye,Tejo","Brimstone,Chamber,Neon,Raze,Skye",False
+659484,VCT 2026: China Stage 1,2026-05-05,Haven,All Gamers,TYLOO,"Chamber,Cypher,Neon,Omen,Skye","Cypher,Neon,Omen,Sova,Waylay",False
+659484,VCT 2026: China Stage 1,2026-05-05,Haven,TYLOO,All Gamers,"Cypher,Neon,Omen,Sova,Waylay","Chamber,Cypher,Neon,Omen,Skye",True
+659484,VCT 2026: China Stage 1,2026-05-05,Split,All Gamers,TYLOO,"Jett,Omen,Raze,Skye,Viper","Neon,Omen,Skye,Viper,Waylay",True
+659484,VCT 2026: China Stage 1,2026-05-05,Split,TYLOO,All Gamers,"Neon,Omen,Skye,Viper,Waylay","Jett,Omen,Raze,Skye,Viper",False
+659480,VCT 2026: China Stage 1,2026-05-08,Split,Xi Lai Gaming,EDward Gaming,"Neon,Omen,Raze,Skye,Viper","Jett,Omen,Raze,Skye,Viper",False
+659480,VCT 2026: China Stage 1,2026-05-08,Split,EDward Gaming,Xi Lai Gaming,"Jett,Omen,Raze,Skye,Viper","Neon,Omen,Raze,Skye,Viper",True
+659480,VCT 2026: China Stage 1,2026-05-08,Breeze,Xi Lai Gaming,EDward Gaming,"Kayo,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+659480,VCT 2026: China Stage 1,2026-05-08,Breeze,EDward Gaming,Xi Lai Gaming,"Harbor,Jett,Kayo,Sova,Viper","Kayo,Neon,Omen,Sova,Viper",True
+659486,VCT 2026: China Stage 1,2026-05-08,Lotus,All Gamers,Dragon Ranger Gaming,"Cypher,Fade,Neon,Omen,Waylay","Cypher,Neon,Omen,Skye,Waylay",False
+659486,VCT 2026: China Stage 1,2026-05-08,Lotus,Dragon Ranger Gaming,All Gamers,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Fade,Neon,Omen,Waylay",True
+659486,VCT 2026: China Stage 1,2026-05-08,Split,All Gamers,Dragon Ranger Gaming,"Jett,Omen,Raze,Skye,Viper","Astra,Fade,Neon,Vyse,Waylay",True
+659486,VCT 2026: China Stage 1,2026-05-08,Split,Dragon Ranger Gaming,All Gamers,"Astra,Fade,Neon,Vyse,Waylay","Jett,Omen,Raze,Skye,Viper",False
+659486,VCT 2026: China Stage 1,2026-05-08,Haven,All Gamers,Dragon Ranger Gaming,"Cypher,Jett,Neon,Omen,Skye","Cypher,Neon,Omen,Skye,Waylay",False
+659486,VCT 2026: China Stage 1,2026-05-08,Haven,Dragon Ranger Gaming,All Gamers,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Jett,Neon,Omen,Skye",True
+659487,VCT 2026: China Stage 1,2026-05-09,Lotus,Xi Lai Gaming,Dragon Ranger Gaming,"Cypher,Deadlock,Fade,Omen,Sage","Cypher,Neon,Omen,Skye,Waylay",True
+659487,VCT 2026: China Stage 1,2026-05-09,Lotus,Dragon Ranger Gaming,Xi Lai Gaming,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Deadlock,Fade,Omen,Sage",False
+659487,VCT 2026: China Stage 1,2026-05-09,Breeze,Xi Lai Gaming,Dragon Ranger Gaming,"Kayo,Neon,Omen,Sova,Viper","Astra,Neon,Sova,Viper,Waylay",True
+659487,VCT 2026: China Stage 1,2026-05-09,Breeze,Dragon Ranger Gaming,Xi Lai Gaming,"Astra,Neon,Sova,Viper,Waylay","Kayo,Neon,Omen,Sova,Viper",False
+659487,VCT 2026: China Stage 1,2026-05-09,Haven,Xi Lai Gaming,Dragon Ranger Gaming,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Neon,Omen,Skye,Waylay",False
+659487,VCT 2026: China Stage 1,2026-05-09,Haven,Dragon Ranger Gaming,Xi Lai Gaming,"Cypher,Neon,Omen,Skye,Waylay","Killjoy,Neon,Omen,Sova,Viper",True
+659487,VCT 2026: China Stage 1,2026-05-09,Split,Xi Lai Gaming,Dragon Ranger Gaming,"Neon,Omen,Skye,Viper,Waylay","Astra,Fade,Neon,Vyse,Waylay",True
+659487,VCT 2026: China Stage 1,2026-05-09,Split,Dragon Ranger Gaming,Xi Lai Gaming,"Astra,Fade,Neon,Vyse,Waylay","Neon,Omen,Skye,Viper,Waylay",False
+659481,VCT 2026: China Stage 1,2026-05-10,Fracture,EDward Gaming,Xi Lai Gaming,"Brimstone,Cypher,Jett,Neon,Skye","Brimstone,Cypher,Neon,Skye,Tejo",False
+659481,VCT 2026: China Stage 1,2026-05-10,Fracture,Xi Lai Gaming,EDward Gaming,"Brimstone,Cypher,Neon,Skye,Tejo","Brimstone,Cypher,Jett,Neon,Skye",True
+659481,VCT 2026: China Stage 1,2026-05-10,Split,EDward Gaming,Xi Lai Gaming,"Jett,Omen,Raze,Skye,Viper","Neon,Omen,Skye,Viper,Waylay",True
+659481,VCT 2026: China Stage 1,2026-05-10,Split,Xi Lai Gaming,EDward Gaming,"Neon,Omen,Skye,Viper,Waylay","Jett,Omen,Raze,Skye,Viper",False
+659481,VCT 2026: China Stage 1,2026-05-10,Breeze,EDward Gaming,Xi Lai Gaming,"Harbor,Jett,Kayo,Sova,Viper","Kayo,Neon,Omen,Sova,Viper",True
+659481,VCT 2026: China Stage 1,2026-05-10,Breeze,Xi Lai Gaming,EDward Gaming,"Kayo,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+659481,VCT 2026: China Stage 1,2026-05-10,Haven,EDward Gaming,Xi Lai Gaming,"Cypher,Fade,Neon,Omen,Phoenix","Killjoy,Neon,Omen,Sova,Viper",False
+659481,VCT 2026: China Stage 1,2026-05-10,Haven,Xi Lai Gaming,EDward Gaming,"Killjoy,Neon,Omen,Sova,Viper","Cypher,Fade,Neon,Omen,Phoenix",True
+659481,VCT 2026: China Stage 1,2026-05-10,Pearl,EDward Gaming,Xi Lai Gaming,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Chamber,Kayo,Neon,Tejo",True
+659481,VCT 2026: China Stage 1,2026-05-10,Pearl,Xi Lai Gaming,EDward Gaming,"Astra,Chamber,Kayo,Neon,Tejo","Astra,Fade,Jett,Phoenix,Vyse",False
+684613,Valorant Masters London 2026,2026-06-06,Pearl,Xi Lai Gaming,NRG,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Sova,Tejo,Vyse,Waylay",False
+684613,Valorant Masters London 2026,2026-06-06,Pearl,NRG,Xi Lai Gaming,"Astra,Sova,Tejo,Vyse,Waylay","Astra,Fade,Jett,Phoenix,Vyse",True
+684613,Valorant Masters London 2026,2026-06-06,Lotus,Xi Lai Gaming,NRG,"Cypher,Deadlock,Fade,Omen,Sage","Fade,Omen,Raze,Viper,Vyse",False
+684613,Valorant Masters London 2026,2026-06-06,Lotus,NRG,Xi Lai Gaming,"Fade,Omen,Raze,Viper,Vyse","Cypher,Deadlock,Fade,Omen,Sage",True
+684610,Valorant Masters London 2026,2026-06-06,Lotus,Team Vitality,Dragon Ranger Gaming,"Fade,Omen,Raze,Viper,Vyse","Chamber,Cypher,Omen,Skye,Waylay",True
+684610,Valorant Masters London 2026,2026-06-06,Lotus,Dragon Ranger Gaming,Team Vitality,"Chamber,Cypher,Omen,Skye,Waylay","Fade,Omen,Raze,Viper,Vyse",False
+684610,Valorant Masters London 2026,2026-06-06,Breeze,Team Vitality,Dragon Ranger Gaming,"Harbor,Jett,Kayo,Sova,Viper","Astra,Chamber,Jett,Sova,Viper",True
+684610,Valorant Masters London 2026,2026-06-06,Breeze,Dragon Ranger Gaming,Team Vitality,"Astra,Chamber,Jett,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+684611,Valorant Masters London 2026,2026-06-07,Fracture,FULL SENSE,FUT Esports,"Brimstone,Cypher,Fade,Neon,Phoenix","Brimstone,Cypher,Fade,Jett,Raze",False
+684611,Valorant Masters London 2026,2026-06-07,Fracture,FUT Esports,FULL SENSE,"Brimstone,Cypher,Fade,Jett,Raze","Brimstone,Cypher,Fade,Neon,Phoenix",True
+684611,Valorant Masters London 2026,2026-06-07,Haven,FULL SENSE,FUT Esports,"Chamber,Fade,Neon,Omen,Phoenix","Cypher,Jett,Omen,Sova,Waylay",False
+684611,Valorant Masters London 2026,2026-06-07,Haven,FUT Esports,FULL SENSE,"Cypher,Jett,Omen,Sova,Waylay","Chamber,Fade,Neon,Omen,Phoenix",True
+684612,Valorant Masters London 2026,2026-06-07,Pearl,LEVIATÁN,Global Esports,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Fade,Killjoy,Neon,Phoenix",False
+684612,Valorant Masters London 2026,2026-06-07,Pearl,Global Esports,LEVIATÁN,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Chamber,Neon,Phoenix,Sova",True
+684612,Valorant Masters London 2026,2026-06-07,Fracture,LEVIATÁN,Global Esports,"Breach,Brimstone,Neon,Tejo,Waylay","Astra,Chamber,Fade,Phoenix,Waylay",True
+684612,Valorant Masters London 2026,2026-06-07,Fracture,Global Esports,LEVIATÁN,"Astra,Chamber,Fade,Phoenix,Waylay","Breach,Brimstone,Neon,Tejo,Waylay",False
+684612,Valorant Masters London 2026,2026-06-07,Split,LEVIATÁN,Global Esports,"Fade,Neon,Omen,Phoenix,Viper","Fade,Omen,Raze,Sage,Viper",True
+684612,Valorant Masters London 2026,2026-06-07,Split,Global Esports,LEVIATÁN,"Fade,Omen,Raze,Sage,Viper","Fade,Neon,Omen,Phoenix,Viper",False
+684614,Valorant Masters London 2026,2026-06-08,Pearl,Team Vitality,FUT Esports,"Astra,Chamber,Kayo,Neon,Sova","Astra,Chamber,Fade,Jett,Kayo",True
+684614,Valorant Masters London 2026,2026-06-08,Pearl,FUT Esports,Team Vitality,"Astra,Chamber,Fade,Jett,Kayo","Astra,Chamber,Kayo,Neon,Sova",False
+684614,Valorant Masters London 2026,2026-06-08,Haven,Team Vitality,FUT Esports,"Cypher,Jett,Omen,Phoenix,Sova","Cypher,Jett,Omen,Sova,Waylay",False
+684614,Valorant Masters London 2026,2026-06-08,Haven,FUT Esports,Team Vitality,"Cypher,Jett,Omen,Sova,Waylay","Cypher,Jett,Omen,Phoenix,Sova",True
+684614,Valorant Masters London 2026,2026-06-08,Fracture,Team Vitality,FUT Esports,"Brimstone,Cypher,Fade,Phoenix,Raze","Brimstone,Cypher,Fade,Jett,Raze",True
+684614,Valorant Masters London 2026,2026-06-08,Fracture,FUT Esports,Team Vitality,"Brimstone,Cypher,Fade,Jett,Raze","Brimstone,Cypher,Fade,Phoenix,Raze",False
+684615,Valorant Masters London 2026,2026-06-08,Ascent,NRG,LEVIATÁN,"Astra,Jett,Phoenix,Sova,Vyse","Chamber,Neon,Omen,Phoenix,Sova",False
+684615,Valorant Masters London 2026,2026-06-08,Ascent,LEVIATÁN,NRG,"Chamber,Neon,Omen,Phoenix,Sova","Astra,Jett,Phoenix,Sova,Vyse",True
+684615,Valorant Masters London 2026,2026-06-08,Lotus,NRG,LEVIATÁN,"Fade,Omen,Raze,Viper,Vyse","Jett,Omen,Raze,Skye,Vyse",True
+684615,Valorant Masters London 2026,2026-06-08,Lotus,LEVIATÁN,NRG,"Jett,Omen,Raze,Skye,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+684615,Valorant Masters London 2026,2026-06-08,Pearl,NRG,LEVIATÁN,"Astra,Sova,Tejo,Vyse,Waylay","Astra,Chamber,Neon,Phoenix,Sova",False
+684615,Valorant Masters London 2026,2026-06-08,Pearl,LEVIATÁN,NRG,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Sova,Tejo,Vyse,Waylay",True
+684616,Valorant Masters London 2026,2026-06-09,Haven,Dragon Ranger Gaming,Xi Lai Gaming,"Cypher,Neon,Omen,Skye,Waylay","Cypher,Jett,Omen,Phoenix,Sova",True
+684616,Valorant Masters London 2026,2026-06-09,Haven,Xi Lai Gaming,Dragon Ranger Gaming,"Cypher,Jett,Omen,Phoenix,Sova","Cypher,Neon,Omen,Skye,Waylay",False
+684616,Valorant Masters London 2026,2026-06-09,Fracture,Dragon Ranger Gaming,Xi Lai Gaming,"Brimstone,Cypher,Fade,Phoenix,Waylay","Brimstone,Cypher,Skye,Tejo,Waylay",False
+684616,Valorant Masters London 2026,2026-06-09,Fracture,Xi Lai Gaming,Dragon Ranger Gaming,"Brimstone,Cypher,Skye,Tejo,Waylay","Brimstone,Cypher,Fade,Phoenix,Waylay",True
+684616,Valorant Masters London 2026,2026-06-09,Split,Dragon Ranger Gaming,Xi Lai Gaming,"Astra,Fade,Jett,Phoenix,Vyse","Omen,Raze,Skye,Viper,Waylay",False
+684616,Valorant Masters London 2026,2026-06-09,Split,Xi Lai Gaming,Dragon Ranger Gaming,"Omen,Raze,Skye,Viper,Waylay","Astra,Fade,Jett,Phoenix,Vyse",True
+684617,Valorant Masters London 2026,2026-06-09,Split,Global Esports,FULL SENSE,"Fade,Omen,Raze,Sage,Viper","Fade,Jett,Omen,Sage,Viper",False
+684617,Valorant Masters London 2026,2026-06-09,Split,FULL SENSE,Global Esports,"Fade,Jett,Omen,Sage,Viper","Fade,Omen,Raze,Sage,Viper",True
+684617,Valorant Masters London 2026,2026-06-09,Breeze,Global Esports,FULL SENSE,"Chamber,Neon,Sage,Sova,Viper","Jett,Omen,Sage,Sova,Viper",True
+684617,Valorant Masters London 2026,2026-06-09,Breeze,FULL SENSE,Global Esports,"Jett,Omen,Sage,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",False
+684617,Valorant Masters London 2026,2026-06-09,Pearl,Global Esports,FULL SENSE,"Astra,Fade,Killjoy,Neon,Phoenix","Astra,Fade,Jett,Phoenix,Vyse",True
+684617,Valorant Masters London 2026,2026-06-09,Pearl,FULL SENSE,Global Esports,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Fade,Killjoy,Neon,Phoenix",False
+684619,Valorant Masters London 2026,2026-06-10,Lotus,FUT Esports,NRG,"Fade,Neon,Omen,Raze,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+684619,Valorant Masters London 2026,2026-06-10,Lotus,NRG,FUT Esports,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+684619,Valorant Masters London 2026,2026-06-10,Haven,FUT Esports,NRG,"Cypher,Jett,Omen,Sova,Waylay","Cypher,Jett,Omen,Phoenix,Sova",True
+684619,Valorant Masters London 2026,2026-06-10,Haven,NRG,FUT Esports,"Cypher,Jett,Omen,Phoenix,Sova","Cypher,Jett,Omen,Sova,Waylay",False
+684619,Valorant Masters London 2026,2026-06-10,Fracture,FUT Esports,NRG,"Brimstone,Cypher,Fade,Jett,Raze","Brimstone,Cypher,Fade,Phoenix,Waylay",True
+684619,Valorant Masters London 2026,2026-06-10,Fracture,NRG,FUT Esports,"Brimstone,Cypher,Fade,Phoenix,Waylay","Brimstone,Cypher,Fade,Jett,Raze",False
+684618,Valorant Masters London 2026,2026-06-10,Haven,Global Esports,Xi Lai Gaming,"Cypher,Deadlock,Neon,Omen,Sova","Cypher,Jett,Omen,Phoenix,Sova",True
+684618,Valorant Masters London 2026,2026-06-10,Haven,Xi Lai Gaming,Global Esports,"Cypher,Jett,Omen,Phoenix,Sova","Cypher,Deadlock,Neon,Omen,Sova",False
+684618,Valorant Masters London 2026,2026-06-10,Lotus,Global Esports,Xi Lai Gaming,"Jett,Omen,Raze,Skye,Vyse","Cypher,Deadlock,Fade,Omen,Sage",False
+684618,Valorant Masters London 2026,2026-06-10,Lotus,Xi Lai Gaming,Global Esports,"Cypher,Deadlock,Fade,Omen,Sage","Jett,Omen,Raze,Skye,Vyse",True
+684618,Valorant Masters London 2026,2026-06-10,Breeze,Global Esports,Xi Lai Gaming,"Chamber,Neon,Sage,Sova,Viper","Jett,Omen,Phoenix,Sova,Viper",False
+684618,Valorant Masters London 2026,2026-06-10,Breeze,Xi Lai Gaming,Global Esports,"Jett,Omen,Phoenix,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",True
+670466,Valorant Masters London 2026,2026-06-12,Ascent,Paper Rex,LEVIATÁN,"Omen,Sage,Sova,Vyse,Yoru","Chamber,Neon,Omen,Phoenix,Sova",True
+670466,Valorant Masters London 2026,2026-06-12,Ascent,LEVIATÁN,Paper Rex,"Chamber,Neon,Omen,Phoenix,Sova","Omen,Sage,Sova,Vyse,Yoru",False
+670466,Valorant Masters London 2026,2026-06-12,Lotus,Paper Rex,LEVIATÁN,"Jett,Omen,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Vyse",True
+670466,Valorant Masters London 2026,2026-06-12,Lotus,LEVIATÁN,Paper Rex,"Jett,Omen,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Vyse",False
+670467,Valorant Masters London 2026,2026-06-12,Breeze,Team Heretics,Team Vitality,"Chamber,Neon,Sage,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+670467,Valorant Masters London 2026,2026-06-12,Breeze,Team Vitality,Team Heretics,"Harbor,Jett,Kayo,Sova,Viper","Chamber,Neon,Sage,Sova,Viper",True
+670467,Valorant Masters London 2026,2026-06-12,Lotus,Team Heretics,Team Vitality,"Fade,Neon,Omen,Raze,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+670467,Valorant Masters London 2026,2026-06-12,Lotus,Team Vitality,Team Heretics,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+670465,Valorant Masters London 2026,2026-06-13,Haven,EDward Gaming,FUT Esports,"Cypher,Omen,Raze,Skye,Waylay","Cypher,Jett,Omen,Sova,Waylay",False
+670465,Valorant Masters London 2026,2026-06-13,Haven,FUT Esports,EDward Gaming,"Cypher,Jett,Omen,Sova,Waylay","Cypher,Omen,Raze,Skye,Waylay",True
+670465,Valorant Masters London 2026,2026-06-13,Pearl,EDward Gaming,FUT Esports,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Chamber,Fade,Jett,Kayo",True
+670465,Valorant Masters London 2026,2026-06-13,Pearl,FUT Esports,EDward Gaming,"Astra,Chamber,Fade,Jett,Kayo","Astra,Fade,Jett,Phoenix,Vyse",False
+670465,Valorant Masters London 2026,2026-06-13,Fracture,EDward Gaming,FUT Esports,"Brimstone,Cypher,Fade,Neon,Phoenix","Brimstone,Cypher,Fade,Jett,Raze",True
+670465,Valorant Masters London 2026,2026-06-13,Fracture,FUT Esports,EDward Gaming,"Brimstone,Cypher,Fade,Jett,Raze","Brimstone,Cypher,Fade,Neon,Phoenix",False
+670464,Valorant Masters London 2026,2026-06-13,Lotus,G2 Esports,Xi Lai Gaming,"Fade,Omen,Raze,Viper,Vyse","Cypher,Deadlock,Fade,Omen,Sage",True
+670464,Valorant Masters London 2026,2026-06-13,Lotus,Xi Lai Gaming,G2 Esports,"Cypher,Deadlock,Fade,Omen,Sage","Fade,Omen,Raze,Viper,Vyse",False
+670464,Valorant Masters London 2026,2026-06-13,Ascent,G2 Esports,Xi Lai Gaming,"Neon,Omen,Phoenix,Sova,Vyse","Cypher,Jett,Omen,Phoenix,Sova",False
+670464,Valorant Masters London 2026,2026-06-13,Ascent,Xi Lai Gaming,G2 Esports,"Cypher,Jett,Omen,Phoenix,Sova","Neon,Omen,Phoenix,Sova,Vyse",True
+670464,Valorant Masters London 2026,2026-06-13,Split,G2 Esports,Xi Lai Gaming,"Astra,Fade,Raze,Viper,Vyse","Omen,Raze,Skye,Viper,Waylay",False
+670464,Valorant Masters London 2026,2026-06-13,Split,Xi Lai Gaming,G2 Esports,"Omen,Raze,Skye,Viper,Waylay","Astra,Fade,Raze,Viper,Vyse",True
+670473,Valorant Masters London 2026,2026-06-14,Split,LEVIATÁN,Team Heretics,"Fade,Neon,Omen,Phoenix,Viper","Astra,Fade,Neon,Raze,Vyse",True
+670473,Valorant Masters London 2026,2026-06-14,Split,Team Heretics,LEVIATÁN,"Astra,Fade,Neon,Raze,Vyse","Fade,Neon,Omen,Phoenix,Viper",False
+670473,Valorant Masters London 2026,2026-06-14,Lotus,LEVIATÁN,Team Heretics,"Jett,Omen,Raze,Skye,Vyse","Fade,Neon,Omen,Raze,Vyse",False
+670473,Valorant Masters London 2026,2026-06-14,Lotus,Team Heretics,LEVIATÁN,"Fade,Neon,Omen,Raze,Vyse","Jett,Omen,Raze,Skye,Vyse",True
+670473,Valorant Masters London 2026,2026-06-14,Ascent,LEVIATÁN,Team Heretics,"Chamber,Neon,Omen,Phoenix,Sova","Cypher,Jett,Neon,Omen,Sova",True
+670473,Valorant Masters London 2026,2026-06-14,Ascent,Team Heretics,LEVIATÁN,"Cypher,Jett,Neon,Omen,Sova","Chamber,Neon,Omen,Phoenix,Sova",False
+670472,Valorant Masters London 2026,2026-06-14,Ascent,G2 Esports,FUT Esports,"Omen,Phoenix,Sova,Vyse,Waylay","Cypher,Jett,Omen,Sage,Sova",False
+670472,Valorant Masters London 2026,2026-06-14,Ascent,FUT Esports,G2 Esports,"Cypher,Jett,Omen,Sage,Sova","Omen,Phoenix,Sova,Vyse,Waylay",True
+670472,Valorant Masters London 2026,2026-06-14,Lotus,G2 Esports,FUT Esports,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",False
+670472,Valorant Masters London 2026,2026-06-14,Lotus,FUT Esports,G2 Esports,"Fade,Neon,Omen,Raze,Vyse","Fade,Omen,Raze,Viper,Vyse",True
+670468,Valorant Masters London 2026,2026-06-15,Lotus,Xi Lai Gaming,EDward Gaming,"Cypher,Deadlock,Fade,Omen,Sage","Jett,Omen,Raze,Skye,Vyse",False
+670468,Valorant Masters London 2026,2026-06-15,Lotus,EDward Gaming,Xi Lai Gaming,"Jett,Omen,Raze,Skye,Vyse","Cypher,Deadlock,Fade,Omen,Sage",True
+670468,Valorant Masters London 2026,2026-06-15,Breeze,Xi Lai Gaming,EDward Gaming,"Jett,Omen,Phoenix,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+670468,Valorant Masters London 2026,2026-06-15,Breeze,EDward Gaming,Xi Lai Gaming,"Harbor,Jett,Kayo,Sova,Viper","Jett,Omen,Phoenix,Sova,Viper",False
+670468,Valorant Masters London 2026,2026-06-15,Split,Xi Lai Gaming,EDward Gaming,"Omen,Raze,Skye,Viper,Waylay","Jett,Omen,Raze,Skye,Viper",False
+670468,Valorant Masters London 2026,2026-06-15,Split,EDward Gaming,Xi Lai Gaming,"Jett,Omen,Raze,Skye,Viper","Omen,Raze,Skye,Viper,Waylay",True
+670469,Valorant Masters London 2026,2026-06-15,Breeze,Paper Rex,Team Vitality,"Jett,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",True
+670469,Valorant Masters London 2026,2026-06-15,Breeze,Team Vitality,Paper Rex,"Harbor,Jett,Kayo,Sova,Viper","Jett,Neon,Omen,Sova,Viper",False
+670469,Valorant Masters London 2026,2026-06-15,Split,Paper Rex,Team Vitality,"Jett,Omen,Raze,Skye,Viper","Jett,Omen,Raze,Skye,Viper",False
+670469,Valorant Masters London 2026,2026-06-15,Split,Team Vitality,Paper Rex,"Jett,Omen,Raze,Skye,Viper","Jett,Omen,Raze,Skye,Viper",True
+670469,Valorant Masters London 2026,2026-06-15,Fracture,Paper Rex,Team Vitality,"Breach,Brimstone,Killjoy,Raze,Skye","Brimstone,Cypher,Fade,Phoenix,Raze",True
+670469,Valorant Masters London 2026,2026-06-15,Fracture,Team Vitality,Paper Rex,"Brimstone,Cypher,Fade,Phoenix,Raze","Breach,Brimstone,Killjoy,Raze,Skye",False
+670475,Valorant Masters London 2026,2026-06-16,Haven,Xi Lai Gaming,LEVIATÁN,"Cypher,Jett,Omen,Phoenix,Sova","Astra,Chamber,Neon,Phoenix,Sova",False
+670475,Valorant Masters London 2026,2026-06-16,Haven,LEVIATÁN,Xi Lai Gaming,"Astra,Chamber,Neon,Phoenix,Sova","Cypher,Jett,Omen,Phoenix,Sova",True
+670475,Valorant Masters London 2026,2026-06-16,Lotus,Xi Lai Gaming,LEVIATÁN,"Cypher,Deadlock,Fade,Omen,Sage","Jett,Omen,Raze,Skye,Vyse",False
+670475,Valorant Masters London 2026,2026-06-16,Lotus,LEVIATÁN,Xi Lai Gaming,"Jett,Omen,Raze,Skye,Vyse","Cypher,Deadlock,Fade,Omen,Sage",True
+670474,Valorant Masters London 2026,2026-06-16,Lotus,Team Vitality,FUT Esports,"Fade,Omen,Raze,Viper,Vyse","Fade,Neon,Omen,Raze,Vyse",True
+670474,Valorant Masters London 2026,2026-06-16,Lotus,FUT Esports,Team Vitality,"Fade,Neon,Omen,Raze,Vyse","Fade,Omen,Raze,Viper,Vyse",False
+670474,Valorant Masters London 2026,2026-06-16,Ascent,Team Vitality,FUT Esports,"Jett,Omen,Phoenix,Sova,Vyse","Cypher,Jett,Omen,Sage,Sova",True
+670474,Valorant Masters London 2026,2026-06-16,Ascent,FUT Esports,Team Vitality,"Cypher,Jett,Omen,Sage,Sova","Jett,Omen,Phoenix,Sova,Vyse",False
+670470,Valorant Masters London 2026,2026-06-19,Breeze,EDward Gaming,Paper Rex,"Harbor,Jett,Kayo,Sova,Viper","Jett,Neon,Omen,Sova,Viper",True
+670470,Valorant Masters London 2026,2026-06-19,Breeze,Paper Rex,EDward Gaming,"Jett,Neon,Omen,Sova,Viper","Harbor,Jett,Kayo,Sova,Viper",False
+670470,Valorant Masters London 2026,2026-06-19,Fracture,EDward Gaming,Paper Rex,"Brimstone,Cypher,Fade,Neon,Phoenix","Breach,Brimstone,Killjoy,Raze,Skye",False
+670470,Valorant Masters London 2026,2026-06-19,Fracture,Paper Rex,EDward Gaming,"Breach,Brimstone,Killjoy,Raze,Skye","Brimstone,Cypher,Fade,Neon,Phoenix",True
+670470,Valorant Masters London 2026,2026-06-19,Split,EDward Gaming,Paper Rex,"Jett,Omen,Raze,Skye,Viper","Jett,Omen,Raze,Skye,Viper",False
+670470,Valorant Masters London 2026,2026-06-19,Split,Paper Rex,EDward Gaming,"Jett,Omen,Raze,Skye,Viper","Jett,Omen,Raze,Skye,Viper",True
+670476,Valorant Masters London 2026,2026-06-19,Lotus,Team Vitality,LEVIATÁN,"Fade,Omen,Raze,Viper,Vyse","Jett,Omen,Raze,Skye,Vyse",False
+670476,Valorant Masters London 2026,2026-06-19,Lotus,LEVIATÁN,Team Vitality,"Jett,Omen,Raze,Skye,Vyse","Fade,Omen,Raze,Viper,Vyse",True
+670476,Valorant Masters London 2026,2026-06-19,Split,Team Vitality,LEVIATÁN,"Jett,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Phoenix,Viper",False
+670476,Valorant Masters London 2026,2026-06-19,Split,LEVIATÁN,Team Vitality,"Fade,Neon,Omen,Phoenix,Viper","Jett,Omen,Raze,Skye,Viper",True
+670477,Valorant Masters London 2026,2026-06-20,Haven,EDward Gaming,LEVIATÁN,"Cypher,Neon,Omen,Raze,Skye","Astra,Chamber,Neon,Phoenix,Sova",False
+670477,Valorant Masters London 2026,2026-06-20,Haven,LEVIATÁN,EDward Gaming,"Astra,Chamber,Neon,Phoenix,Sova","Cypher,Neon,Omen,Raze,Skye",True
+670477,Valorant Masters London 2026,2026-06-20,Pearl,EDward Gaming,LEVIATÁN,"Astra,Fade,Jett,Phoenix,Vyse","Astra,Chamber,Neon,Phoenix,Sova",False
+670477,Valorant Masters London 2026,2026-06-20,Pearl,LEVIATÁN,EDward Gaming,"Astra,Chamber,Neon,Phoenix,Sova","Astra,Fade,Jett,Phoenix,Vyse",True
+670477,Valorant Masters London 2026,2026-06-20,Split,EDward Gaming,LEVIATÁN,"Jett,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Phoenix,Viper",False
+670477,Valorant Masters London 2026,2026-06-20,Split,LEVIATÁN,EDward Gaming,"Fade,Neon,Omen,Phoenix,Viper","Jett,Omen,Raze,Skye,Viper",True
+670471,Valorant Masters London 2026,2026-06-21,Fracture,Paper Rex,LEVIATÁN,"Breach,Brimstone,Killjoy,Raze,Skye","Breach,Brimstone,Neon,Tejo,Waylay",True
+670471,Valorant Masters London 2026,2026-06-21,Fracture,LEVIATÁN,Paper Rex,"Breach,Brimstone,Neon,Tejo,Waylay","Breach,Brimstone,Killjoy,Raze,Skye",False
+670471,Valorant Masters London 2026,2026-06-21,Split,Paper Rex,LEVIATÁN,"Jett,Omen,Raze,Skye,Viper","Fade,Neon,Omen,Phoenix,Viper",False
+670471,Valorant Masters London 2026,2026-06-21,Split,LEVIATÁN,Paper Rex,"Fade,Neon,Omen,Phoenix,Viper","Jett,Omen,Raze,Skye,Viper",True
+670471,Valorant Masters London 2026,2026-06-21,Breeze,Paper Rex,LEVIATÁN,"Jett,Neon,Omen,Sova,Viper","Harbor,Jett,Neon,Omen,Sova",True
+670471,Valorant Masters London 2026,2026-06-21,Breeze,LEVIATÁN,Paper Rex,"Harbor,Jett,Neon,Omen,Sova","Jett,Neon,Omen,Sova,Viper",False
+670471,Valorant Masters London 2026,2026-06-21,Ascent,Paper Rex,LEVIATÁN,"Omen,Sage,Sova,Vyse,Yoru","Chamber,Neon,Omen,Phoenix,Sova",False
+670471,Valorant Masters London 2026,2026-06-21,Ascent,LEVIATÁN,Paper Rex,"Chamber,Neon,Omen,Phoenix,Sova","Omen,Sage,Sova,Vyse,Yoru",True
+670471,Valorant Masters London 2026,2026-06-21,Lotus,Paper Rex,LEVIATÁN,"Jett,Omen,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Vyse",False
+670471,Valorant Masters London 2026,2026-06-21,Lotus,LEVIATÁN,Paper Rex,"Jett,Omen,Raze,Skye,Vyse","Jett,Omen,Raze,Skye,Vyse",True

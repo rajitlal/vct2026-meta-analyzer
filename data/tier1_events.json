@@ -1,0 +1,122 @@
+[
+  {
+    "title": "VCT 2026: Americas Stage 1",
+    "event_id": "2860",
+    "status": "completed",
+    "prize": "TBD",
+    "dates": "Apr 10\u2014May 24",
+    "region": "us",
+    "thumb": "https://owcdn.net/img/640f5ab71dfbb.png",
+    "url_path": "https://www.vlr.gg/event/2860/vct-2026-americas-stage-1"
+  },
+  {
+    "title": "VCT 2026: EMEA Stage 1",
+    "event_id": "2863",
+    "status": "completed",
+    "prize": "TBD",
+    "dates": "Apr 1\u2014May 17",
+    "region": "de",
+    "thumb": "https://owcdn.net/img/65ab59620a233.png",
+    "url_path": "https://www.vlr.gg/event/2863/vct-2026-emea-stage-1"
+  },
+  {
+    "title": "VCT 2026: Pacific Stage 1",
+    "event_id": "2775",
+    "status": "completed",
+    "prize": "TBD",
+    "dates": "Apr 2\u2014May 17",
+    "region": "vn",
+    "thumb": "https://owcdn.net/img/640f5ae002674.png",
+    "url_path": "https://www.vlr.gg/event/2775/vct-2026-pacific-stage-1"
+  },
+  {
+    "title": "VCT 2026: China Stage 1",
+    "event_id": "2864",
+    "status": "completed",
+    "prize": "$0",
+    "dates": "Mar 31\u2014May 10",
+    "region": "cn",
+    "thumb": "https://owcdn.net/img/65dd97cea9a25.png",
+    "url_path": "https://www.vlr.gg/event/2864/vct-2026-china-stage-1"
+  },
+  {
+    "title": "VCT 2026: Americas Kickoff",
+    "event_id": "2682",
+    "status": "completed",
+    "prize": "$0",
+    "dates": "Jan 15\u2014Feb 15",
+    "region": "us",
+    "thumb": "https://owcdn.net/img/640f5ab71dfbb.png",
+    "url_path": "https://www.vlr.gg/event/2682/vct-2026-americas-kickoff"
+  },
+  {
+    "title": "VCT 2026: EMEA Kickoff",
+    "event_id": "2684",
+    "status": "completed",
+    "prize": "$0",
+    "dates": "Jan 20\u2014Feb 15",
+    "region": "de",
+    "thumb": "https://owcdn.net/img/65ab59620a233.png",
+    "url_path": "https://www.vlr.gg/event/2684/vct-2026-emea-kickoff"
+  },
+  {
+    "title": "VCT 2026: Pacific Kickoff",
+    "event_id": "2683",
+    "status": "completed",
+    "prize": "$0",
+    "dates": "Jan 22\u2014Feb 15",
+    "region": "kr",
+    "thumb": "https://owcdn.net/img/640f5ae002674.png",
+    "url_path": "https://www.vlr.gg/event/2683/vct-2026-pacific-kickoff"
+  },
+  {
+    "title": "VCT 2026: China Kickoff",
+    "event_id": "2685",
+    "status": "completed",
+    "prize": "$0",
+    "dates": "Jan 21\u2014Feb 9",
+    "region": "cn",
+    "thumb": "https://owcdn.net/img/65dd97cea9a25.png",
+    "url_path": "https://www.vlr.gg/event/2685/vct-2026-china-kickoff"
+  },
+  {
+    "title": "VCT 2026: China Stage 2",
+    "event_id": "2978",
+    "status": "upcoming",
+    "prize": "$250,000",
+    "dates": "",
+    "region": "cn",
+    "thumb": "https://owcdn.net/img/65dd97cea9a25.png",
+    "url_path": "https://www.vlr.gg/event/2978/vct-2026-china-stage-2"
+  },
+  {
+    "title": "VCT 2026: EMEA Stage 2",
+    "event_id": "2976",
+    "status": "upcoming",
+    "prize": "$250,000",
+    "dates": "Jul 15\u2014Aug 30",
+    "region": "es",
+    "thumb": "https://owcdn.net/img/65ab59620a233.png",
+    "url_path": "https://www.vlr.gg/event/2976/vct-2026-emea-stage-2"
+  },
+  {
+    "title": "VCT 2026: Pacific Stage 2",
+    "event_id": "2776",
+    "status": "upcoming",
+    "prize": "$250,000",
+    "dates": "Jul 15\u2014Sep 6",
+    "region": "kr",
+    "thumb": "https://owcdn.net/img/640f5ae002674.png",
+    "url_path": "https://www.vlr.gg/event/2776/vct-2026-pacific-stage-2"
+  },
+  {
+    "title": "VCT 2026: Americas Stage 2",
+    "event_id": "2977",
+    "status": "upcoming",
+    "prize": "$250,000",
+    "dates": "Jul 16\u2014Sep 6",
+    "region": "br",
+    "thumb": "https://owcdn.net/img/640f5ab71dfbb.png",
+    "url_path": "https://www.vlr.gg/event/2977/vct-2026-americas-stage-2"
+  }
+]
