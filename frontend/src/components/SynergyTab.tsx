@@ -26,76 +26,69 @@ export default function SynergyTab({ filters }: { filters: Filters }) {
   useEffect(() => { load() }, [load])
 
   const allAgents = ["All", ...Array.from(new Set(data.flatMap(d => [d.agent_a, d.agent_b]))).sort()]
-
   const filtered = data
     .filter(d => filterAgent === "All" || d.agent_a === filterAgent || d.agent_b === filterAgent)
     .sort((a, b) => b[sortBy] - a[sortBy])
 
-  if (loading) return <div className="text-gray-400 text-sm">Loading...</div>
-  if (error) return <div className="text-yellow-400 text-sm">⚠ {error}</div>
-  if (!data.length) return <div className="text-gray-400 text-sm">No synergy data for selected filters.</div>
+  if (loading) return <div className="text-gray-500 text-sm">Loading...</div>
+  if (error) return <div className="text-amber-500 text-sm">⚠ {error}</div>
+  if (!data.length) return <div className="text-gray-500 text-sm">No synergy data for selected filters.</div>
 
   return (
     <div className="space-y-4">
-      <p className="text-gray-400 text-sm">
-        How often agent pairs appear together and their combined win rate. Min 3 games together.
-        <span className="text-gray-600 text-xs ml-2">Note: correlation, not causation — popular pairs appear more.</span>
-      </p>
+      <div className="bg-gray-900/50 border border-gray-800/50 rounded-lg px-4 py-3">
+        <p className="text-xs text-gray-400">How often agent pairs appear together and their win rate. Min 3 games together. Filter by agent to see all their pairings.</p>
+      </div>
 
       <div className="flex gap-3 flex-wrap items-center">
         <div className="flex items-center gap-2">
-          <span className="text-gray-400 text-sm">Filter agent:</span>
+          <span className="text-xs text-gray-500">Agent:</span>
           <select
-            className="bg-gray-800 border border-gray-700 rounded px-2 py-1 text-sm text-white focus:outline-none"
+            className="text-xs bg-gray-900 border border-gray-800 rounded-md px-2.5 py-1.5 text-gray-200 focus:outline-none"
             value={filterAgent}
             onChange={e => setFilterAgent(e.target.value)}
           >
             {allAgents.map(a => <option key={a} value={a}>{a}</option>)}
           </select>
         </div>
-        <div className="flex gap-2">
+        <div className="flex gap-1.5">
           {(["win_rate", "together"] as const).map(s => (
-            <button
-              key={s}
-              onClick={() => setSortBy(s)}
-              className={`px-3 py-1.5 rounded text-sm font-medium transition ${
-                sortBy === s ? "bg-blue-600 text-white" : "bg-gray-800 text-gray-300 hover:bg-gray-700"
+            <button key={s} onClick={() => setSortBy(s)}
+              className={`px-3 py-1.5 rounded-md text-xs font-medium transition ${
+                sortBy === s ? "bg-blue-600 text-white" : "bg-gray-900 text-gray-400 hover:text-gray-200 border border-gray-800"
               }`}
             >
-              {s === "win_rate" ? "Win Rate" : "Most Together"}
+              {s === "win_rate" ? "Win rate" : "Most together"}
             </button>
           ))}
         </div>
-        <span className="text-gray-500 text-xs">{filtered.length} pairs</span>
+        <span className="text-xs text-gray-600">{filtered.length} pairs</span>
       </div>
 
-      <div className="overflow-x-auto">
-        <table className="w-full text-sm">
-          <thead>
-            <tr className="border-b border-gray-800">
-              <th className="text-left py-2 pr-4 text-gray-400 font-medium">Agent A</th>
-              <th className="text-left py-2 pr-4 text-gray-400 font-medium">Agent B</th>
-              <th className="text-right py-2 pr-4 text-gray-400 font-medium">Games Together</th>
-              <th className="text-right py-2 text-gray-400 font-medium">Win Rate</th>
+      <table className="w-full text-xs">
+        <thead>
+          <tr className="border-b border-gray-800">
+            <th className="text-left py-2 pr-4 text-gray-500 font-medium">Agent A</th>
+            <th className="text-left py-2 pr-4 text-gray-500 font-medium">Agent B</th>
+            <th className="text-right py-2 pr-4 text-gray-500 font-medium">Games together</th>
+            <th className="text-right py-2 text-gray-500 font-medium">Win rate</th>
+          </tr>
+        </thead>
+        <tbody>
+          {filtered.map((row, i) => (
+            <tr key={i} className="border-b border-gray-800/40 hover:bg-gray-900/40">
+              <td className="py-2 pr-4 text-gray-200">{row.agent_a}</td>
+              <td className="py-2 pr-4 text-gray-200">{row.agent_b}</td>
+              <td className="py-2 pr-4 text-right text-gray-500">{row.together}</td>
+              <td className={`py-2 text-right font-medium ${
+                row.win_rate > 0.6 ? "text-green-400" : row.win_rate < 0.4 ? "text-red-400" : "text-gray-400"
+              }`}>
+                {(row.win_rate * 100).toFixed(1)}%
+              </td>
             </tr>
-          </thead>
-          <tbody>
-            {filtered.map((row, i) => (
-              <tr key={i} className="border-b border-gray-800/50 hover:bg-gray-800/30">
-                <td className="py-2 pr-4 font-medium text-white">{row.agent_a}</td>
-                <td className="py-2 pr-4 font-medium text-white">{row.agent_b}</td>
-                <td className="py-2 pr-4 text-right text-gray-400">{row.together}</td>
-                <td className={`py-2 text-right font-semibold ${
-                  row.win_rate > 0.6 ? "text-green-400" :
-                  row.win_rate < 0.4 ? "text-red-400" : "text-gray-300"
-                }`}>
-                  {(row.win_rate * 100).toFixed(1)}%
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+          ))}
+        </tbody>
+      </table>
     </div>
   )
 }

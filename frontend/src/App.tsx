@@ -31,66 +31,83 @@ export default function App() {
       region !== "International" &&
       !event.toLowerCase().includes(region.toLowerCase())
     ) {
-      setFilterError(`"${region}" teams don't play in ${event} — data will be empty.`)
+      setFilterError(`${region} teams don't play in this event`)
     } else {
       setFilterError(null)
     }
   }, [filters])
 
   const tabs = [
-    { id: "agents", label: "Agent Stats" },
-    { id: "comps", label: "Comp Win Rates" },
-    { id: "presence", label: "Agent Presence" },
-    { id: "counter", label: "Counter Picks" },
-    { id: "meta", label: "Meta Shift" },
+    { id: "agents", label: "Agent stats" },
+    { id: "comps", label: "Comp win rates" },
+    { id: "presence", label: "Agent presence" },
+    { id: "counter", label: "Counter picks" },
+    { id: "meta", label: "Meta shift" },
     { id: "synergy", label: "Synergy" },
-    { id: "mappool", label: "Map Pool" },
-    { id: "teams", label: "Team Lookup" },
-    { id: "predict", label: "🤖 Win Predictor" },
+    { id: "mappool", label: "Map pool" },
+    { id: "teams", label: "Team lookup" },
+    { id: "predict", label: "Win predictor" },
   ]
+
+  const eventShort = (e: string) => e
+    .replace("VCT 2026: ", "")
+    .replace("Valorant Masters London 2026", "Masters London")
 
   return (
     <div className="min-h-screen bg-gray-950 text-gray-100">
-      <div className="border-b border-gray-800 px-6 py-4">
-        <h1 className="text-xl font-bold text-white tracking-tight">VCT 2026 Meta Analyzer</h1>
-        <p className="text-gray-400 text-sm mt-0.5">Stage 1 + Masters London · 1,014 map games · 29 agents</p>
+      {/* Header */}
+      <div className="px-6 pt-6 pb-4 border-b border-gray-800/60">
+        <div className="flex items-baseline gap-3">
+          <h1 className="text-lg font-semibold text-white tracking-tight">VCT 2026 meta analyzer</h1>
+          <span className="text-gray-500 text-sm">Stage 1 + Masters London</span>
+        </div>
+        <div className="flex gap-4 mt-2 text-xs text-gray-600">
+          <span>1,014 map games</span>
+          <span>29 agents</span>
+          <span>8 maps</span>
+          <span>5 events</span>
+        </div>
       </div>
 
-      <div className="border-b border-gray-800 px-6 py-3 flex gap-4 flex-wrap items-center">
-        {([["event", "Event"], ["map", "Map"], ["region", "Region"]] as const).map(([key, label]) => (
+      {/* Filters */}
+      <div className="px-6 py-2.5 border-b border-gray-800/60 flex gap-5 items-center flex-wrap bg-gray-950/80">
+        {([["event", "Event", filterOptions.events], ["map", "Map", filterOptions.maps], ["region", "Region", filterOptions.regions]] as const).map(([key, label, opts]) => (
           <div key={key} className="flex items-center gap-2">
-            <span className="text-gray-400 text-sm">{label}</span>
+            <span className="text-xs text-gray-500">{label}</span>
             <select
-              className="bg-gray-800 border border-gray-700 rounded px-2 py-1 text-sm text-white focus:outline-none focus:border-gray-500"
-              value={filters[key]}
+              className="text-xs bg-gray-900 border border-gray-800 rounded-md px-2.5 py-1.5 text-gray-200 focus:outline-none focus:border-gray-600 cursor-pointer"
+              value={filters[key as keyof Filters]}
               onChange={e => setFilters(f => ({ ...f, [key]: e.target.value }))}
             >
-              {(key === "event" ? filterOptions.events : key === "map" ? filterOptions.maps : filterOptions.regions).map(opt => (
-                <option key={opt} value={opt}>{opt}</option>
+              {(opts as string[]).map(opt => (
+                <option key={opt} value={opt}>
+                  {key === "event" ? eventShort(opt) : opt}
+                </option>
               ))}
             </select>
           </div>
         ))}
         <button
           onClick={() => setFilters({ event: "All", map: "All", region: "All" })}
-          className="text-sm text-gray-400 hover:text-white px-2 py-1 rounded hover:bg-gray-800 transition"
+          className="text-xs text-gray-600 hover:text-gray-400 transition"
         >
           Reset
         </button>
         {filterError && (
-          <span className="text-yellow-400 text-xs ml-2">⚠ {filterError}</span>
+          <span className="text-xs text-amber-500/80">⚠ {filterError}</span>
         )}
       </div>
 
-      <div className="border-b border-gray-800 px-6 flex gap-1 overflow-x-auto">
+      {/* Tabs */}
+      <div className="px-6 border-b border-gray-800/60 flex gap-0 overflow-x-auto">
         {tabs.map(t => (
           <button
             key={t.id}
             onClick={() => setTab(t.id)}
-            className={`px-4 py-3 text-sm font-medium border-b-2 whitespace-nowrap transition ${
+            className={`px-3.5 py-3 text-xs font-medium whitespace-nowrap border-b-2 transition-all ${
               tab === t.id
                 ? "border-blue-500 text-white"
-                : "border-transparent text-gray-400 hover:text-gray-200"
+                : "border-transparent text-gray-500 hover:text-gray-300"
             }`}
           >
             {t.label}
@@ -98,7 +115,8 @@ export default function App() {
         ))}
       </div>
 
-      <div className="p-6">
+      {/* Content */}
+      <div className="px-6 py-6 max-w-6xl">
         {tab === "agents" && <AgentsTab filters={filters} />}
         {tab === "comps" && <CompsTab filters={filters} />}
         {tab === "presence" && <PresenceTab filters={filters} />}
